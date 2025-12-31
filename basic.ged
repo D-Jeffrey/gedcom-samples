@@ -1,0 +1,219 @@
+﻿0 HEAD
+1 SOUR Legacy
+2 VERS 10.0
+2 NAME Legacy (R)
+2 CORP MyHeritage USA Inc.
+3 ADDR 3098 W Executive Pkwy Ste 275
+4 CONT Lehi, UT 84043 USA
+1 DEST Legacy
+1 DATE 27 Nov 2025
+1 SUBM @S0@
+1 FILE C:\Users\darre\source\repos\gedcom-to-visualmap\samples\basic.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @S0@ SUBM
+1 NAME Submitter Not Provided
+1 ADDR Submitter Not Provided
+2 CONT Submitter Not Provided
+0 @I2@ INDI
+1 NAME France /Smith/
+2 GIVN France
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE 2 Jan 1952
+2 PLAC San Pascual, Paris, France
+1 CENS Home - England
+2 DATE 1992
+2 PLAC Hempton, Norfork, England
+1 _UID CCB4110C14954A9E9B08EC0E8BB604C4D497
+1 CHAN
+2 DATE 27 Nov 2025
+3 TIME 20:43
+1 FAMS @F2@
+1 FAMC @F4@
+0 @I3@ INDI
+1 NAME John /Smith/
+2 GIVN John
+2 SURN Smith
+1 SEX M
+1 BIRT
+2 DATE 3 Feb 1923
+2 PLAC frankfurt Hesse germany
+1 DEAT
+2 DATE 3 Nov 1993
+2 PLAC Alcorcón Madrid, Spain
+1 _UID C8690BAC9DB44D79B5B1B4D1E4336EC534EE
+1 CHAN
+2 DATE 27 Nov 2025
+3 TIME 20:42
+1 FAMS @F4@
+0 @I4@ INDI
+1 NAME Mary /Jones/
+2 GIVN Mary
+2 SURN Jones
+1 SEX F
+1 BIRT
+2 DATE 4 Jan 1924
+2 PLAC Stockholm, Sweden
+1 DEAT
+2 DATE 4 Nov 1994
+2 PLAC Mirasierra, Madrid
+1 _UID E08B81CB45944CE4815532F07E244D660DB1
+1 CHAN
+2 DATE 27 Nov 2025
+3 TIME 20:42
+1 FAMS @F4@
+0 @I5@ INDI
+1 NAME Wayne /Newton/
+2 GIVN Wayne
+2 SURN Newton
+1 SEX M
+1 BIRT
+2 DATE 5 Jul 1965
+2 PLAC Hewlett, New York, NY
+1 _UID EB2F78ED8EB7467B95DA5E1EAA17A1C698FB
+1 CHAN
+2 DATE 27 Nov 2025
+3 TIME 20:44
+1 FAMS @F2@
+0 @I6@ INDI
+1 NAME Penny /Newton/
+2 GIVN Penny
+2 SURN Newton
+1 SEX F
+1 BIRT
+2 DATE 6 Apr 2006
+2 PLAC Penny Lane, Shepperton, UK
+1 _UID 7AD1FE9355B147368CA717A76450DBE9C85A
+1 CHAN
+2 DATE 27 Nov 2025
+3 TIME 20:48
+1 FAMC @F2@
+0 @F2@ FAM
+1 HUSB @I5@
+2 _PREF Y
+1 WIFE @I2@
+2 _PREF Y
+1 MARR
+2 _HTITL Husband
+2 _WTITL Wife
+2 DATE 1 Dec 1978
+2 PLAC London, England
+1 CHIL @I6@
+2 _PREF Y
+1 CHAN
+2 DATE 27 Nov 2025
+3 TIME 20:37
+0 @F4@ FAM
+1 HUSB @I3@
+2 _PREF Y
+1 WIFE @I4@
+2 _PREF Y
+1 MARR
+2 _HTITL Husband
+2 _WTITL Wife
+2 _SPOUSE_WORD Spouse
+2 _MARR_WORD Marriage
+2 DATE 1945
+2 PLAC Place Du Pont, Paris, France
+1 CHIL @I2@
+2 _PREF Y
+1 CHAN
+2 DATE 27 Nov 2025
+3 TIME 20:20
+0 _PLAC_DEFN
+1 PLAC frankfurt Hesse germany
+2 ABBR frankfurt Hesse germany
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC Stockholm, Sweden
+2 ABBR Stockholm, Sweden
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC Mirasierra, Madrid
+2 ABBR Mirasierra, Madrid
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC Place Du Pont, Paris, France
+2 ABBR Place Du Pont, Paris, France
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC San Pascual, Paris, France
+2 ABBR San Pascual, Paris, France
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC Hempton, Norfork, England
+2 ABBR Hempton, Norfork, England
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC Alcorcón Madrid, Spain
+2 ABBR Alcorcón Madrid, Spain
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC Hewlett, New York, NY
+2 ABBR Hewlett, New York, NY
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC London, England
+2 ABBR London, England
+2 _RESOLVED -1
+0 _PLAC_DEFN
+1 PLAC Penny Lane, Shepperton, UK
+2 ABBR Penny Lane, Shepperton, UK
+2 _RESOLVED -1
+0 _EVENT_DEFN Census
+1 TYPE I
+1 TITL Census
+1 _SEN1 [HeShe] appeared on the [Desc] census [onDate] [inPlace].
+1 _SEN2 [HeShe] appeared on the census [onDate].
+1 _SEN3 [HeShe] appeared on the census [inPlace].
+1 _SEN4 [HeShe] appeared on the [Desc] census.
+1 _SEN5 [HeShe] appeared on the [Desc] census [onDate].
+1 _SEN6 [HeShe] appeared on the [Desc] census [inPlace].
+1 _SEN7 [HeShe] appeared on the census [onDate] [inPlace].
+1 _SEN8 [HeShe] appeared on the census.
+1 ROLE Enumerator
+2 _SEN1 [FirstHeShe] gathered the census information of [MainPerson] [onDate] [inPlace]: [Desc].
+2 _SEN2 [FirstHeShe] gathered the census information of [MainPerson] [onDate].
+2 _SEN3 [FirstHeShe] gathered the census information of [MainPerson] [inPlace].
+2 _SEN4 [FirstHeShe] gathered the census information of [MainPerson]: [Desc].
+2 _SEN5 [FirstHeShe] gathered the census information of [MainPerson] [onDate]: [Desc].
+2 _SEN6 [FirstHeShe] gathered the census information of [MainPerson] [inPlace]: [Desc].
+2 _SEN7 [FirstHeShe] gathered the census information of [MainPerson] [onDate] [inPlace].
+2 _SEN8 [FirstHeShe] gathered the census information of [MainPerson].
+1 ROLE Head of Household
+2 _SEN1 [FirstHeShe] was the head of household in the census of [MainPerson] [onDate] [inPlace]: [Desc].
+2 _SEN2 [FirstHeShe] was the head of household in the census of [MainPerson] [onDate].
+2 _SEN3 [FirstHeShe] was the head of household in the census of [MainPerson] [inPlace].
+2 _SEN4 [FirstHeShe] was the head of household in the census of [MainPerson]: [Desc].
+2 _SEN5 [FirstHeShe] was the head of household in the census of [MainPerson] [onDate]: [Desc].
+2 _SEN6 [FirstHeShe] was the head of household in the census of [MainPerson] [inPlace]: [Desc].
+2 _SEN7 [FirstHeShe] was the head of household in the census of [MainPerson] [onDate] [inPlace].
+2 _SEN8 [FirstHeShe] was the head of household in the census of [MainPerson].
+1 ROLE Household Member
+2 _SEN1 [FirstHeShe] appeared in the household of [MainPerson] in the [Desc] census [onDate] [inPlace].
+2 _SEN2 [FirstHeShe] appeared in the household of [MainPerson] in a census [onDate].
+2 _SEN3 [FirstHeShe] appeared in the household of [MainPerson] in a census [inPlace].
+2 _SEN4 [FirstHeShe] appeared in the household of [MainPerson] in the [Desc] census.
+2 _SEN5 [FirstHeShe] appeared in the household of [MainPerson] in the [Desc] census [onDate].
+2 _SEN6 [FirstHeShe] appeared in the household of [MainPerson] in the [Desc] census [inPlace].
+2 _SEN7 [FirstHeShe] appeared in the household of [MainPerson] in a census [onDate] [inPlace].
+2 _SEN8 [FirstHeShe] appeared in the household of [MainPerson] in a census.
+2 _DEF Y
+1 ROLE Witness
+2 _SEN1 [FirstHeShe] witnessed the census of [MainCouple] in the [Desc] census [onDate] [inPlace].
+2 _SEN2 [FirstHeShe] witnessed the census of [MainCouple] [onDate].
+2 _SEN3 [FirstHeShe] witnessed the census of [MainCouple] [inPlace].
+2 _SEN4 [FirstHeShe] witnessed the census of [MainCouple] in the [Desc] census.
+2 _SEN5 [FirstHeShe] witnessed the census of [MainCouple] in the [Desc] census [onDate].
+2 _SEN6 [FirstHeShe] witnessed the census of [MainCouple] in the [Desc] census [inPlace].
+2 _SEN7 [FirstHeShe] witnessed the census of [MainCouple] [onDate] [inPlace].
+2 _SEN8 [FirstHeShe] witnessed the census of [MainCouple].
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _INC_NOTES
+0 TRLR
