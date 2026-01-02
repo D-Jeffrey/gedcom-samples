@@ -1,0 +1,917 @@
+latitude,found_country,no_result,timestamp,country_name,used,continent,alt_addr,country_code,longitude,address
+53.6923011,True,,,England,0,Europe,,GB,-1.5863917,"Gawthorpe, Yorkshire, England"
+53.9009367,True,,,England,0,Europe,,GB,-1.510442,"Harewood, Yorkshire, England"
+48.4695247,True,,,France,0,Europe,,FR,-0.1404619,"Maine, Normandy, France"
+56.1085281,True,,,Scotland,0,Europe,,GB,-4.9068527,"Carrick, Argyll, Scotland"
+56.7861112,True,,,Scotland,0,Europe,,GB,-4.1140518,Scotland
+49.0677708,True,,,France,0,Europe,,FR,0.3138532,"Carrick, Argyllshire, Scotland or Bruis, Normandy, France"
+54.9873333,True,,,Scotland,0,Europe,,GB,-3.2620207,"Annan, Dumfries, Scotland"
+48.2640845,True,,,,0,,,NONE,-2.9202408,"Brittany, France."
+59.3685194,True,,,Norway,0,Europe,,NO,10.4416421,"Norway, Vestfold, Norway"
+59.1954857,True,,,Norway,0,Europe,,NO,10.2662616,"Vestfold, Norway"
+47.8343976,True,,,France,0,Europe,,FR,1.934877,"Blois, Loir-et-Cher, Orleanais/Centre, France"
+48.2971626,True,,,France,0,Europe,,FR,4.0746257,"Troyes, Aube, Champagne, France"
+48.1895421,True,,,France,0,Europe,,FR,1.8324985,"Chartres, Eure-et-Loir, Beauce/Centre, France"
+58.9418231,True,,,,0,,,NONE,-3.1296944,"Orkney, Scotland."
+59.1519411,True,,,Scotland,0,Europe,,GB,-2.5918733,"Killed, Papa Stronsay, Orkney Islands, Scotland"
+64.6863136,True,,,Russian Federation,0,Europe,,RU,97.7453061,Russia
+59.6749712,True,,,,0,,,NONE,14.5208584,"Gothland, Sweden."
+53.3608138,True,,,Ireland,0,Europe,,IE,-6.1968538,"Clontarf, Ireland"
+58.8082603,True,,,,0,,,NONE,-2.9793516,"Orkney Islands, Norse Orkney"
+58.9418231,True,,,,0,,,NONE,-3.1296944,"Hoxa, Ronaldsey, Orkney"
+49.0677708,True,,,,0,,,NONE,0.3138532,"Rouen, Seine-Inferieure, Normandy"
+48.1113387,True,,,France,0,Europe,,FR,-1.6800198,"Rennes, Ille-et-Vilaine, Bretagne, France"
+47.2780873,True,,,,0,,,NONE,4.2224863,Burgundy France
+47.5876861,True,,,France,0,Europe,,FR,1.3337639,"Blois, France"
+49.6281356,True,,,France,0,Europe,,FR,-1.6253248,"Vermandois, Normandy, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Abbaye du Mont-Saint-Michael, France"
+50.3485994,True,,,Germany,0,Europe,,DE,6.607823,"Aachen, Rhineland, Prussia"
+45.4641943,True,,,,0,,,NONE,9.1896346,"Milan, Italy."
+49.4020469,True,,,France,0,Europe,,FR,3.35743,"Quierzy, Département de l'Aisne, Picardie, France"
+49.7948301,True,,,Belgium,0,Europe,,BE,5.0701814,"Liège, Walloon Region, Belgium"
+51.0690613,True,,,England,0,Europe,,GB,-1.7954134,"Salisbury, Wiltshire, England"
+52.7471344,True,,,England,0,Europe,,GB,-1.4712148,"Ashby, Leicestershire, England"
+47.5580242,True,,,France,0,Europe,,FR,-3.133089,"Penthievre, Morbihan, Bretagne, France"
+47.3037138,True,,,France,0,Europe,,FR,-1.5001047,"Fecamp, Seine-Inferieure, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Killed by Arnulf I de Flanders near Picquigny-sur-Somme, France"
+48.2640845,True,,,France,0,Europe,,FR,-2.9202408,"Bretagne, France"
+64.4680762,True,,,Norway,0,Europe,,NO,11.5030226,"Maer, Nord-Trondelag, Norway"
+49.0677708,True,,,France,0,Europe,,FR,0.3138532,"Notre Dame, Rouen, Seine-Inferieure, Normandy, France"
+49.0268903,True,,,France,0,Europe,,FR,1.1510164,"Evreux, Eure, Normandy, France"
+49.2764624,True,,,France,0,Europe,,FR,-0.7024738,"Bayeux, Calvados, Normandie, France"
+49.8465253,True,,,France,0,Europe,,FR,3.2876843,"St Quentin, Aisne, Picardy, France"
+44.6952006,True,,,Italy,0,Europe,,IT,10.0979869,"Parma, Italy"
+49.2703704,True,,,France,0,Europe,,FR,1.6168061,"Vexin, Normandy, France"
+48.0073849,True,,,France,0,Europe,,FR,0.1967849,"Mans, France"
+49.3837621,True,,,France,0,Europe,,FR,3.327613,"Soissons, Aisne, France"
+51.4789205,True,,,Germany,0,Europe,,DE,7.5543751,"Westphalia, Germany"
+53.8708374,True,,,England,0,Europe,,GB,-1.5589881,"Alwoodley, Yorkshire, England"
+53.8479388,True,,,England,0,Europe,,GB,-1.584959,"Gawthorpe Hall, West Riding of Yorkshire, England"
+53.9825271,True,,,England,0,Europe,,GB,-1.38525,"Lasingcroft, Yorkshire, England"
+53.9825271,True,,,England,0,Europe,,GB,-1.38525,"Yorkshire, England"
+52.5310214,True,,,England,0,Europe,,GB,-1.2649062,England
+49.0677708,True,,,France,0,Europe,,FR,0.3138532,"Normandy, France"
+43.6666667,True,,,France,0,Europe,,FR,0.3333333,"Gascony, France"
+44.2462064,True,,,France,0,Europe,,FR,-0.1839979,"Gascoigne, Aquitaine, France"
+54.2257498,True,,,England,0,Europe,,GB,-1.5124897,"Kirklington, North Yorkshire, England"
+46.5802596,True,,,France,0,Europe,,FR,0.340196,"Poitiers, Vienne, Poitou-Charentes, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,France
+44.2462064,True,,,,0,,,NONE,-0.1839979,Aquitaine
+50.9155734,True,,,England,0,Europe,,GB,-1.3949975,"Wessex, England"
+49.3579272,True,,,France,0,Europe,,FR,6.1675872,"Diedenhofen, Moselle, Lorraine, France"
+51.833333,True,,,,0,,,NONE,-1.25,"Wanating, now Wantage, Oxfordshire"
+64.4680762,True,,,Norway,0,Europe,,NO,11.5030226,"Maer, Sparbu, Nord Trondelag, Norway"
+63.3865692,True,,,Norway,0,Europe,,NO,10.1585603,"Oppland, Norway"
+58.8390063,True,,,Norway,0,Europe,,NO,5.6345712,"Jutland, Norway"
+47.0811658,True,,,France,0,Europe,,FR,2.399125,"Bourges, Centre, France"
+48.2688416,True,,,France,0,Europe,,FR,-2.118804,"Valois, Bretagne, France"
+47.3900474,True,,,France,0,Europe,,FR,0.6889268,"Tours, Indre-et-Loire, Touraine/Centre, France"
+49.4532855,True,,,France,0,Europe,,FR,3.606899,"Aisne, Picardy, France"
+47.9027336,True,,,France,0,Europe,,FR,1.9086066,"Orléans, Loiret, Centre, France"
+52.3403406,True,,,England,0,Europe,,GB,-0.8248132,"Orlinbury, Walgrave, Northampton, England"
+52.2343297,True,,,England,0,Europe,,GB,-0.9028043,"Northampton, Northamptonshire, England"
+52.3106138,True,,,England,0,Europe,,GB,-0.865913,"Northamptonshire, England"
+52.4986469,True,,,England,0,Europe,,GB,-1.706679,"Coleshill, Warwickshire, England"
+52.909683,True,,,England,0,Europe,,GB,-1.6900919,"Barton, Derbyshire, England"
+52.9739527,True,,,England,0,Europe,,GB,-1.0143987,"Shelford, Nottinghamshire, England"
+52.3106138,True,,,England,0,Europe,,GB,-0.865913,"Great Weldon, Northamptonshire, England"
+52.3106138,True,,,England,0,Europe,,GB,-0.865913,"Witering, Northamptonshire, England"
+51.4534889,True,,,England,0,Europe,,GB,-1.031873,"Wallingord, Berkshire, England"
+49.872775,True,,,,0,,,NONE,8.651177,"Ingelheim, Rheinhessen, Hesse-Darmstadt"
+50.8737646,True,,,Germany,0,Europe,,DE,6.0925408,"Aix-la-Chapelle (Aachen), Germany"
+47.3481615,True,,,France,0,Europe,,FR,-1.8727461,"Rheims, Mame, Loire-Atlantique, France"
+48.8867203,True,,,France,0,Europe,,FR,2.3420378,"Saint-Pierre Church, Paris, France"
+47.2780873,True,,,France,0,Europe,,FR,4.2224863,"Bourgogne, France"
+47.3900474,True,,,France,0,Europe,,FR,0.6889268,"Tours, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Thuringia, France"
+59.9332475,True,,,,0,,,NONE,10.7605538,0473
+47.2780873,True,,,,0,,,NONE,4.2224863,Burgundy
+48.8252181,True,,,France,0,Europe,,FR,2.7054865,"Paris, Seine, France"
+47.3481615,True,,,France,0,Europe,,FR,-1.8727461,"Braines, Loire Atlantique, France"
+47.3215806,True,,,France,0,Europe,,FR,5.0414701,"Dijon, Burgundy, France"
+50.7007285,True,,,France,0,Europe,,FR,3.160983,"Alsace, France"
+44.2273919,True,,,,0,,,NONE,-71.7478468,Franconia
+51.1638175,True,,,Germany,0,Europe,,DE,10.4478313,"Old Saxony, Germany"
+48.8588897,True,,,France,0,Europe,,FR,2.320041,"Paris, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Moselle, Austrasia, France"
+48.8534951,True,,,,0,,,NONE,2.3483915,Paris
+51.4975728,True,,,,0,,,NONE,-0.0788246,"Bermondsey, Abbey"
+51.4981579,True,,,England,0,Europe,,GB,-0.1319441,"Westminster, Abbey, London, England"
+51.4837886,True,,,England,0,Europe,,GB,-0.6040419,"Windsor Castle, Berkshire, England"
+39.9900983,True,,,,0,,,NONE,116.2647403,Sheen Palace
+50.3579317,True,,,,0,,,NONE,3.5234846,Valenciennes
+51.4837886,True,,,England,0,Europe,,GB,-0.6040419,"Windsor Castle, Windsor, Berkshire, England"
+51.2211097,True,,,Belgium,0,Europe,,BE,4.3997081,"Antwerp, Belgium"
+53.3493795,True,,,Ireland,0,Europe,,IE,-6.2605593,"Dublin, Ireland"
+51.0538286,True,,,,0,,,NONE,3.7250121,Ghent
+52.6323702,True,,,,0,,,NONE,-1.140593,Leicester Castle
+51.7135573,True,,,,0,,,NONE,-0.4503027,"Kings Langley, Herts"
+42.0410578,True,,,,0,,,NONE,-74.1182492,Woodstock
+50.9524769,True,,,,0,,,NONE,1.8538446,Calais
+55.977167,True,,,Scotland,0,Europe,,GB,-3.6006234,"Linlithgow, Scotland"
+56.1181242,True,,,Scotland,0,Europe,,GB,-3.9360012,"Stirling, Scotland"
+52.6299284,True,,,,0,,,NONE,1.2948722,Bedfords
+51.4977609,True,,,England,0,Europe,,GB,-0.1387624,"Westminster, Palace, London, England"
+54.913312,True,,,,0,,,NONE,-2.9192473,Near Carlisle
+42.6289515,True,,,,0,,,NONE,-78.0544514,Castile
+53.1823034,True,,,,0,,,NONE,-0.2031209,"Herdeby, Near Grantham, Lincolnshire"
+31.5197847,True,,,"Palestine, State of",0,Asia,,PS,35.0494777,"Acre, Palestine"
+52.0793283,True,,,England,0,Europe,,GB,0.5820634,"Clare, Suffolk, England"
+32.7432193,True,,,,0,,,NONE,-117.1057795,"Marlborough, Castle"
+51.2189247,True,,,England,0,Europe,,GB,1.3784493,"Grey Friars, Church, London, England"
+51.0612766,True,,,,0,,,NONE,-1.3131692,Winchester
+51.064366,True,,,,0,,,NONE,-1.3201176,"Winchester, Castle"
+43.5298424,True,,,,0,,,NONE,5.4474738,Aix-en-Provence
+51.1706875,True,,,,0,,,NONE,-1.7706128,"Amesbury, Wiltshire"
+42.8579536,True,,,,0,,,NONE,-70.9300921,"Convent Church, Amesbury"
+51.5074456,True,,,England,0,Europe,,GB,-0.1277653,"London, England"
+43.4945144,True,,,,0,,,NONE,-1.4736657,Bayonne
+40.8088861,True,,,,0,,,NONE,-96.7077751,Lincoln
+51.7704679,True,,,England,0,Europe,,GB,0.4646698,"Barking Abbey, Essex, England"
+52.865196,True,,,Ireland,0,Europe,,IE,-7.9794599,"Meath, Eire, Ireland"
+51.2070749,True,,,,0,,,NONE,0.7210362,Kent
+51.8985136,True,,,,0,,,NONE,-8.4726423,Cork
+52.2928116,True,,,Wales,0,Europe,,GB,-3.73893,Wales
+51.7520131,True,,,England,0,Europe,,GB,-1.2578499,"Beaumont Palace, Oxford, England"
+53.0802549,True,,,England,0,Europe,,GB,-0.8131753,"Newark Castle, Newark, Nottinghamshire, England"
+52.1895377,True,,,,0,,,NONE,-2.2201692,"Worcester, Cathedral"
+45.6484505,True,,,,0,,,NONE,0.1561947,Angouleme
+47.1813534,True,,,,0,,,NONE,0.0378807,Fontevraud
+48.0073849,True,,,,0,,,NONE,0.1967849,Le Mans
+47.1667182,True,,,,0,,,NONE,0.2402095,Chinon
+52.598712,True,,,,0,,,NONE,13.4357119,Bordeaux/Berlin
+48.5931801,True,,,,0,,,NONE,-0.6473487,"Domfront, Normandy"
+42.343926,True,,,,0,,,NONE,-3.696977,Burgos
+48.8964741,True,,,France,0,Europe,,FR,-0.1999129,"Falaise, Normandy, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Near Rouen, France"
+49.1813403,True,,,,0,,,NONE,-0.3635615,"St Stephen Abbey, Caen, Normandy"
+50.6112375,True,,,France,0,Europe,,FR,2.7451212,"Flanders, France"
+49.1813403,True,,,,0,,,NONE,-0.3635615,Caen
+48.9055604,True,,,,0,,,NONE,-0.2040307,"Holy Trinity, Abbey, Caen"
+53.785097,True,,,England,0,Europe,,GB,-1.0990407,"Selby, Yorkshire, England"
+51.456203,True,,,,0,,,NONE,-0.9650458,Reading Abbey
+56.0713724,True,,,,0,,,NONE,-3.4616183,Dunfermline
+47.6995205,True,,,,0,,,NONE,0.4310474,Chateau-du-Loir
+51.4837886,True,,,England,0,Europe,,GB,-0.6040419,"Wallingford, Castle, Berkshire, England"
+53.3493795,True,,,,0,,,NONE,-6.2605593,Dublin
+55.5778033,True,,,Scotland,0,Europe,,GB,-4.5947131,"Dundonald, Ayrshire, Scotland"
+56.0713724,True,,,Scotland,0,Europe,,GB,-3.4616183,"Dunfermline, Scotland"
+55.9533456,True,,,Scotland,0,Europe,,GB,-3.1883749,"Edinburgh, Scotland"
+55.5966085,True,,,Scotland,0,Europe,,GB,-2.4561649,"Roxburgh Castle, Scotland"
+51.5155459,True,,,,0,,,NONE,-0.0991304,St. Paul's
+52.1625283,True,,,,0,,,NONE,10.5348215,Wolfenbuttel
+55.9821565,True,,,Denmark,0,Europe,,DK,12.3950911,"Fredensborg, Denmark"
+55.6867243,True,,,Denmark,0,Europe,,DK,12.5700724,"Copenhagen, Denmark"
+55.6756505,True,,,Denmark,0,Europe,,DK,12.5800406,"Christiansborg, Denmark"
+54.7833021,True,,,,0,,,NONE,9.4333264,Flensborg
+51.3157833,True,,,,0,,,NONE,9.4978479,Cassel
+55.6867243,True,,,,0,,,NONE,12.5700724,Copenhagen
+55.9285735,True,,,,0,,,NONE,12.3063909,Frederiksborg
+55.2500715,True,,,Denmark,0,Europe,,DK,9.4997871,"Haderslev, Denmark"
+51.6565219,True,,,,0,,,NONE,10.3428415,Herzberg
+58.5649996,True,,,,0,,,NONE,15.4716503,Gottorp
+6.7855644,True,,,,0,,,NONE,-58.013347,Coldingen
+54.9089186,True,,,,0,,,NONE,9.7897999,Sonderburg
+48.9274192,True,,,France,0,Europe,,FR,2.0426301,"Poissy, France"
+42.6985304,True,,,,0,,,NONE,2.8953121,Perpignan
+48.9383732,True,,,France,0,Europe,,FR,2.3627508,"St. Denis, France"
+36.8107673,True,,,,0,,,NONE,10.1408787,"Tunis, Africa"
+51.14804,True,,,,0,,,NONE,-2.716577,Glastonbury
+52.1169259,True,,,,0,,,NONE,1.4840715,Hertfords
+48.2640845,True,,,,0,,,NONE,-2.9202408,Brittany
+48.539927,True,,,France,0,Europe,,FR,2.6608169,"Abbey Barbeaux, Melun, France"
+48.4049375,True,,,France,0,Europe,,FR,2.7015872,"Fontainebleau, France"
+52.0553813,True,,,,0,,,NONE,-2.7151735,Hereford
+36.9096897,True,,,,0,,,NONE,-77.2741121,Sussex
+51.5008444,True,,,,0,,,NONE,-0.166965,Knightsbridge
+53.6497514,True,,,Ireland,0,Europe,,IE,-6.5884245,"Meath, Ireland"
+35.8275458,True,,,,0,,,NONE,-78.7792394,Wessex
+51.0201383,True,,,England,0,Europe,,GB,-1.3373194,"Mercia, England"
+52.7705726,True,,,England,0,Europe,,GB,-0.3868731,"Mercia, Lincolnshire, England"
+56.1181242,True,,,,0,,,NONE,-3.9360012,Stirling
+56.7661548,True,,,Scotland,0,Europe,,GB,-3.3391095,"Atholl, Perthshire, Scotland"
+56.7661548,True,,,Scotland,0,Europe,,GB,-3.3391095,"Dunkeld, Perthshire, Scotland"
+56.7661548,True,,,Scotland,0,Europe,,GB,-3.3391095,"Perth, Perthshire, Scotland"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Gonesse, Nr: Paris, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Vitry-en-Brie, France"
+47.9027336,True,,,France,0,Europe,,FR,1.9086066,"Orleans, France"
+48.6485761,True,,,France,0,Europe,,FR,1.5322266,"Nogent-le-Roi, France"
+48.0073849,True,,,France,0,Europe,,FR,0.1967849,"Le Mans, France"
+48.8474508,True,,,France,0,Europe,,FR,2.4396714,"Vincennes, France"
+43.6666667,True,,,France,0,Europe,,FR,0.3333333,"Toulouse, Gascony, France"
+29.5463995,True,,,,0,,,NONE,-95.4933307,Modano
+51.505099,True,,,England,0,Europe,,GB,-0.1876332,"Kensington, Palace, London, England"
+50.7505772,True,,,England,0,Europe,,GB,-1.2700819,"Osborne House, Isle of Wight, England"
+51.4740348,True,,,England,0,Europe,,GB,-0.5982911,"Royal Mausoleum, Frogmore, Berkshire, England"
+51.1638175,True,,,Germany,0,Europe,,DE,10.4478313,"Schloss Rosenau, Near Coburg, Germany"
+51.4756084,True,,,England,0,Europe,,GB,-0.597552,"Royal Masoleum, Frogmore, Windsor, England"
+51.4978676,True,,,England,0,Europe,,GB,-0.1438839,"Buckingham, Palace, London, England"
+51.4837886,True,,,England,0,Europe,,GB,-0.6040419,"Windsor, Berkshire, England"
+55.6867243,True,,,Denmark,0,Europe,,DK,12.5700724,"Yellow Palace, Copenhagen, Denmark"
+52.8427652,True,,,England,0,Europe,,GB,0.4318137,"Sandringham, Norfolk, England"
+51.4837886,True,,,England,0,Europe,,GB,-0.6040419,"St. George Chap., Windsor, Berkshire, England"
+51.504975,True,,,England,0,Europe,,GB,-0.1360297,"Marlborough Hse, London, England"
+51.4837886,True,,,England,0,Europe,,GB,-0.6040419,"St. George's, Chapel, Windsor Castle, England"
+52.8262326,True,,,England,0,Europe,,GB,0.5162681,"York Cottage, Sandringham, Norfolk, England"
+51.4837886,True,,,England,0,Europe,,GB,-0.6040419,"St. George Chap., Windsor, England"
+50.9241486,True,,,England,0,Europe,,GB,0.4375916,"17 Bruton St., London, W1, England"
+39.6062313,True,,,Greece,0,Europe,,GR,19.9261335,"Isle of Kerkira, Mon Repos, Corfu, Greece"
+52.7969167,True,,,England,0,Europe,,GB,0.4673371,"Castle Rising, Norfolk, England"
+50.6995104,True,,,England,0,Europe,,GB,-1.2952483,"Norfolk-House, St. James Square, London, England"
+53.2851568,True,,,,0,,,NONE,12.847677,Mirow
+51.4838317,True,,,,0,,,NONE,-0.2950549,Kew Palace
+50.6790033,True,,,England,0,Europe,,GB,-3.237657,"Sidmouth, Devon, England"
+51.4404664,True,,,England,0,Europe,,GB,0.0810511,"Buckingham House, London, England"
+51.4743933,True,,,England,0,Europe,,GB,-0.5944637,"Frogmore House, Windsor, England"
+50.2582226,True,,,,0,,,NONE,10.964561,Coburg
+50.9014721,True,,,,0,,,NONE,11.0377839,Thuringia
+49.0907886,True,,,France,0,Europe,,FR,-0.241238,"Calvados, France"
+55.6839601,True,,,,0,,,NONE,12.5930781,Amalienborg
+55.6433478,True,,,Denmark,0,Europe,,DK,12.0819247,"Roskilde, Denmark"
+55.7584315,True,,,,0,,,NONE,12.5523479,Bernstorff
+51.753359,True,,,Wales,0,Europe,,GB,-3.420704,"Caernarvon, Castle, Wales"
+51.6888596,True,,,,0,,,NONE,-2.456937,"Berkeley Castle, Gloucestershire"
+51.8673377,True,,,,0,,,NONE,-2.2467498,"Gloucester, Cathedral"
+52.3909854,True,,,Germany,0,Europe,,DE,9.6972057,"Herrenhausen, Palace, Hannover, Germany"
+52.3744779,True,,,,0,,,NONE,9.7385532,Hanover
+51.4676401,True,,,England,0,Europe,,GB,-0.1057857,"Leicester-House, London, England"
+52.407334,True,,,,0,,,NONE,9.675882,Herrenhausen
+52.0799838,True,,,,0,,,NONE,4.3113461,The Hague
+51.4676401,True,,,,0,,,NONE,-0.1057857,Leicester House
+50.132881,True,,,,0,,,NONE,8.9169797,Hanau
+51.4676401,True,,,England,0,Europe,,GB,-0.1057857,"Leicester House, London, England"
+50.9494849,True,,,,0,,,NONE,10.7014435,Gotha
+42.3531675,True,,,,0,,,NONE,-71.0717763,Carlton House
+52.3744779,True,,,Germany,0,Europe,,DE,9.7385532,"Leineschloss, Osnabruck, Hanover, Germany"
+52.407334,True,,,,0,,,NONE,9.675882,"Moved in 1957 to, Herrenhausen"
+52.2719595,True,,,,0,,,NONE,8.047635,Osnabruck
+52.624056,True,,,,0,,,NONE,10.081052,Celle
+55.6756505,True,,,,0,,,NONE,12.5800406,Christiansborg
+55.9486867,True,,,Scotland,0,Europe,,GB,-3.2004175,"Edinburgh Castle, Scotland"
+51.6963806,True,,,England,0,Europe,,GB,-0.0458452,"Theobalds Park, Hertfordshire, Herts, England"
+51.6247029,True,,,,0,,,NONE,-3.9454009,"Skanderborg, Castle"
+51.406013,True,,,,0,,,NONE,-0.340939,"Hampton Court, Palace"
+55.2498739,True,,,,0,,,NONE,9.4914451,Haderslevhus
+51.6247029,True,,,,0,,,NONE,-3.9454009,"Antvorslev, Castle"
+55.6426437,True,,,Denmark,0,Europe,,DK,12.0804349,"Roskilde, Cathedral, Denmark"
+53.8909832,True,,,,0,,,NONE,11.4647932,Wismar
+54.7646137,True,,,,0,,,NONE,11.8709918,Nykobing
+52.5310214,True,,,England,0,Europe,,GB,-1.2649062,"Pembroke Castle, Pembrokeshire, England"
+51.3066341,True,,,England,0,Europe,,GB,-0.7166168,"Richmond Palace, Richmond Surrey, England"
+51.004756,True,,,England,0,Europe,,GB,-2.2000702,"Henry VII Chapel, Westminster, Abbey, England"
+51.508217,True,,,England,0,Europe,,GB,-0.0761879,"Tower of London, London, England"
+51.5346682,True,,,,0,,,NONE,-0.1809044,"Henry VII Chapel, Westminster, Abbey, London"
+56.4168208,True,,,,0,,,NONE,-3.5549253,Methven Castle
+52.5310214,True,,,England,0,Europe,,GB,-1.2649062,"Greenwich Palace, England"
+51.5023278,True,,,England,0,Europe,,GB,-0.1260912,"Whitehall, London, England"
+49.4404591,True,,,France,0,Europe,,FR,1.0939658,"Rouen, France"
+52.3106138,True,,,,0,,,NONE,-0.865913,"Grafton Regis, Northants"
+51.5155075,True,,,England,0,Europe,,GB,-0.0747648,"Sussex Square, London, Middlesex, England"
+49.6460204,True,,,France,0,Europe,,FR,2.570196,"Montdidier, France"
+49.6460204,True,,,France,0,Europe,,FR,2.570196,"Montdidier, Somme, France"
+45.8693961,True,,,France,0,Europe,,FR,5.609007,"Ponthieu, Ain, France"
+49.2577886,True,,,France,0,Europe,,FR,4.031926,"Reims, Marne, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Deurdan, France"
+50.9295798,True,,,Germany,0,Europe,,DE,13.4585052,"Saxony, Germany"
+51.2646037,True,,,,0,,,NONE,11.4914523,"Memleben, Saxony"
+51.1638175,True,,,Germany,0,Europe,,DE,10.4478313,Germany
+48.9467562,True,,,,0,,,NONE,11.4038717,"Bavaria, Germany."
+52.3412273,True,,,Germany,0,Europe,,DE,14.549452,"Frankfort, Brandenburg, Germany"
+44.3691703,True,,,France,0,Europe,,FR,0.4539158,"Lot-Et-Garonne, France"
+50.6080651,True,,,Germany,0,Europe,,DE,9.0284647,"Hesse, Germany"
+50.4708135,True,,,Belgium,0,Europe,,BE,5.7735658,"Liege, Belgium"
+47.4739884,True,,,France,0,Europe,,FR,-0.5515588,"Angers, France"
+48.5549274,True,,,Germany,0,Europe,,DE,12.1080947,"Altdorf, Bavaria, Germany"
+48.3652663,True,,,Germany,0,Europe,,DE,10.8916558,"Swabia, Bavaria, Germany"
+49.564665,True,,,France,0,Europe,,FR,3.620686,"Laon, Picardie, France"
+46.0690407,True,,,France,0,Europe,,FR,6.3445321,"Haute-Savoie, France"
+43.6542031,True,,,France,0,Europe,,FR,3.6746699,"Aniane, Département de l'Hérault (Erau), Languedoc, France"
+48.9582708,True,,,France,0,Europe,,FR,2.8773541,"Meaux, Seine-et-Marne, France"
+51.4748475,True,,,England,0,Europe,,GB,-0.9877182,"Caversham, Berkshire, England"
+51.6970661,True,,,,0,,,NONE,-2.6766949,Tintern Abbey
+52.5897916,True,,,,0,,,NONE,-6.4952889,Ferns
+53.118465,True,,,Ireland,0,Europe,,IE,-6.9918183,"Leinster, Ireland"
+53.3608138,True,,,Ireland,0,Europe,,IE,-6.1968538,"Clontarf, Dublin, Ireland"
+53.2180958,True,,,Ireland,0,Europe,,IE,-6.6626107,"of, Naas, Kildare, Ireland"
+52.1584946,True,,,Ireland,0,Europe,,IE,-7.1571681,"Kincora, Munster, Ireland"
+52.3076216,True,,,Ireland,0,Europe,,IE,-8.5708973,"Grinan, Munster, Ireland"
+52.3076216,True,,,Ireland,0,Europe,,IE,-8.5708973,"Munster, Ireland"
+52.8572575,True,,,Ireland,0,Europe,,IE,-8.9374359,"Clare, Munster, Ireland"
+52.865196,True,,,Ireland,0,Europe,,IE,-7.9794599,Ireland
+52.9119491,True,,,Ireland,0,Europe,,IE,-6.8368376,"Castledermot, Kildare, Ireland"
+49.8120961,True,,,,0,,,NONE,6.4214859,Echternach
+50.2997124,True,,,Germany,0,Europe,,DE,8.1869789,"Ohren, Limburg-Weilburg, Hessen, Germany"
+51.1638175,True,,,Germany,0,Europe,,DE,10.4478313,"Weissenburg, Monastery of / Kloster von Weissenburg, Germany"
+34.0298028,True,,,Iraq,0,Asia,,IQ,45.4436142,"Bab-Ilu or Babylon, Mesopotamia, Now, Iraq"
+43.6044638,True,,,France,0,Europe,,FR,1.4442433,"Toulouse, Haute, France"
+50.6650412,True,,,Belgium,0,Europe,,BE,5.629981,"Heristal, Liege, Belgium"
+49.564665,True,,,France,0,Europe,,FR,3.620686,"Laon, Aisne, France"
+50.6402809,True,,,Belgium,0,Europe,,BE,4.6667145,"upile-Sur-Meuse, On The Meuse River, near Leige, Belgium"
+48.2640562,True,,,France,0,Europe,,FR,6.1804941,"Orplegrandmonast, Brabant, Vosges, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Austrasia, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Andene Monastery, France"
+50.6729873,True,,,Belgium,0,Europe,,BE,5.0792856,"Landen, Liege, Belgium"
+49.9046481,True,,,Belgium,0,Europe,,BE,4.9859857,"Ardenne, Namur, Belgium"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"near, Nancy, Austrasia, France"
+48.9467562,True,,,Germany,0,Europe,,DE,11.4038717,"Saxony, Bavaria, Germany"
+44.0773,True,,,France,0,Europe,,FR,3.3889,"Treves, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Landen, Austrasia, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Metz, Austrasia, France"
+46.603354,True,,,France,0,Europe,,FR,1.8883335,"Heristall, Metz, Austrasia, France"
+47.9027336,True,,,France,0,Europe,,FR,1.9086066,"Orléans, Loiret, France"
+51.2800275,True,,,England,0,Europe,,GB,1.0802533,"Canterbury, Kent, England"
+43.9515125,True,,,France,0,Europe,,FR,2.1292319,"Gaul, France"
+44.3517623,True,,,France,0,Europe,,FR,2.0375431,"Rouergue, Aveyron, France"
+43.6542031,True,,,France,0,Europe,,FR,3.6746699,"Narbonne, Languedoc, France"
+43.9515125,True,,,France,0,Europe,,FR,2.1292319,"The Auvergne, Gaul, France"
+41.8933203,True,,,Italy,0,Europe,,IT,12.4829321,"Rome, Italy"
+49.6302618,True,,,Germany,0,Europe,,DE,8.3620898,"Worms, Rhineland-Palatinate, Germany"
+54.3151594,True,,,,0,,,NONE,-1.9181532,"Colchester, Bythnia, Britain"
+51.8896903,True,,,England,0,Europe,,GB,0.8994651,"Colchester, Essex, England"
+32.5377918,True,,,,0,,,NONE,44.4270029,Babylon
+42.4501169,True,,,,0,,,NONE,-87.8337753,Zion
+-1.45056,True,,,,0,,,NONE,-48.4682453,Bethlehem
+44.244415,True,,,,0,,,NONE,-97.040895,Sinai
+31.666667,True,,,,0,,,NONE,35.166667,Judah
+26.2540493,True,,,Egypt,0,Africa,,EG,29.2675469,Egypt
+31.5197847,True,,,"Palestine, State of",0,Asia,,PS,35.0494777,Palestine
+40.969029,True,,,,0,,,NONE,-91.2871485,Shinar
+41.006381,True,,,,0,,,NONE,28.9758715,Constantinople
+45.7100132,True,,,France,0,Europe,,FR,3.1531803,"Auvergne, France"
+54.3151594,True,,,,0,,,NONE,-1.9181532,Britain
+43.6465313,True,,,,0,,,NONE,-72.0119915,Canaan
+46.7864413,True,,,,0,,,NONE,8.6420159,Ur
+-33.4596678,True,,,,0,,,NONE,149.5481193,killed
+31.7788472,True,,,,0,,,NONE,35.2257856,Jerusalem
+40.2683344,True,,,,0,,,NONE,-94.0282861,Bethany?
+34.7723168,True,,,,0,,,NONE,136.8654385,assassinated
+23.1316691,True,,,,0,,,NONE,113.2828516,sacrificed
+59.6749712,True,,,,0,,,NONE,14.5208584,Sweeden
+59.8586126,True,,,,0,,,NONE,17.6387436,Uppsala
+55.670249,True,,,Denmark,0,Europe,,DK,10.3333283,Denmark
+40.08067,True,,,,0,,,NONE,-76.2411283,"Chapelry Of Latham, Lancaster County"
+52.9142235,True,,,,0,,,NONE,-1.4719885,Derby
+40.08067,True,,,,0,,,NONE,-76.2411283,"Lathom House, Lancaster County"
+54.0488361,True,,,England,0,Europe,,GB,-2.807799,"Lancaster, Lancaster, England"
+53.5701192,True,,,England,0,Europe,,GB,-2.7502179,"Dalton, Lancashire, England"
+53.2141028,True,,,England,0,Europe,,GB,-2.4717701,"Cheshire, England"
+51.8356022,True,,,England,0,Europe,,GB,0.0211825,"Castlebury, England"
+53.3552976,True,,,England,0,Europe,,GB,-1.5283681,"Latham, Yorkshire, England"
+52.5310214,True,,,England,0,Europe,,GB,-1.2649062,"Chestershire, England"
+52.4382602,True,,,,0,,,NONE,-1.8048081,Saxon England
+51.7704679,True,,,,0,,,NONE,0.4646698,Essex
+-33.9181792,True,,,,0,,,NONE,18.3934678,Northumbria
+52.2437937,True,,,England,0,Europe,,GB,-0.9212977,"Northumbria, England"
+55.25,True,,,England,0,Europe,,GB,-2.000559,"Northumberland, England"
+49.2512297,True,,,,0,,,NONE,4.0600491,"Asgard, Asia Or, East Europe"
+51.5155075,True,,,England,0,Europe,,GB,-0.0747648,"London, Middlesex, England"
+52.5114773,True,,,England,0,Europe,,GB,-1.1712236,"Ashby Magna, Leicestershire, England"
+52.0278975,True,,,England,0,Europe,,GB,-1.1484657,"Brackley, Northamptonshire, England"
+52.6351273,True,,,England,0,Europe,,GB,-1.0345963,"SEGRAVE, Leicestershire, England"
+53.5284097,True,,,England,0,Europe,,GB,-2.7410475,"Upholland, Lancashire, England"
+53.7593363,True,,,England,0,Europe,,GB,-2.6992717,"Preston, Lancashire, England"
+54.1066832,True,,,England,0,Europe,,GB,-2.8028352,"Bolton Le Sands, Lancashire, England"
+49.8031514,True,,,France,0,Europe,,FR,2.9906764,"Y, Somme, Picardie, France"
+53.8416337,True,,,England,0,Europe,,GB,-3.0284564,"Salmesbury, Lancashire, England"
+53.8611712,True,,,England,0,Europe,,GB,-2.5650945,"Lancashire, England"
+53.7962878,True,,,England,0,Europe,,GB,-1.5496037,"West Riding, Yorkshire, England"
+53.7476049,True,,,,0,,,NONE,-2.4844886,Heiress
+51.0612766,True,,,England,0,Europe,,GB,-1.3131692,"Winchester, Hampshire, England"
+52.2748039,True,,,England,0,Europe,,GB,-0.8890394,"Sutton, Northamptonshire, England"
+52.7625121,True,,,England,0,Europe,,GB,-1.0876541,"Seagrave, Leicestershire, England"
+52.3106138,True,,,England,0,Europe,,GB,-0.865913,"Chaucombe, Northamptonshire, England"
+52.7392639,True,,,England,0,Europe,,GB,-1.1370833,"Charnwood, Leicestershire, England"
+45.5792284,True,,,France,0,Europe,,FR,-0.5471901,"Pons, Charente-Maritime, Poitou-Charentes, France"
+50.8545384,True,,,England,0,Europe,,GB,-0.5648163,"Arundel, Sussex, England"
+52.3106138,True,,,England,0,Europe,,GB,-0.865913,"Chacombe Priory, Northamptonshire, England"
+51.1706875,True,,,England,0,Europe,,GB,-1.7706128,"Amesbury, Wiltshire, England"
+51.4214178,True,,,England,0,Europe,,GB,-2.1193391,"Lacock, Wiltshire, England"
+49.356241,True,,,France,0,Europe,,FR,0.515331,"Pont-Audemer, Eure, France"
+48.602598,True,,,France,0,Europe,,FR,-3.7013405,"Normandy, Plouigneau, Brittany, France"
+52.5138731,True,,,,0,,,NONE,13.3787346,murdered
+45.5662672,True,,,France,0,Europe,,FR,5.9203636,"Chambery, Savoie, Rhône-Alpes, France"
+50.6402809,True,,,Belgium,0,Europe,,BE,4.6667145,Belgium
+49.0207259,True,,,France,0,Europe,,FR,6.5380352,"Gaul, Moselle, Lorraine, France"
+45.7429432,True,,,Italy,0,Europe,,IT,10.4829322,"Lombard, Lombardia, Italy"
+-12.5790048,True,,,Angola,0,Africa,,AO,13.4037117,"Franco, Benguela, Angola"
+49.2625682,True,,,France,0,Europe,,FR,1.8821405,"Vexin, France"
+50.7806267,True,,,Belgium,0,Europe,,BE,5.4639172,"Tongeren, Limburg, Vlaams Gewest, Belgium"
+59.4155934,True,,,,0,,,NONE,29.0148659,killed in battle
+41.9165042,True,,,,0,,,NONE,12.5197197,"killed by Pyrrhus, son of Achilles, q.v."
+52.865196,True,,,,0,,,NONE,-7.9794599,Eire
+53.6497514,True,,,Ireland,0,Europe,,IE,-6.5884245,"Odhbha, County Meath, Leinster, Ireland"
+42.61946,True,,,,0,,,NONE,-7.863112,Galicia
+37.8219963,True,,,,0,,,NONE,-86.9052698,Scythia
+41.7789772,True,,,,0,,,NONE,50.5607579,Caspian Sea
+35.3084952,True,,,,0,,,NONE,24.4633423,Crete
+41.9165042,True,,,,0,,,NONE,12.5197197,"killed by 40th Monarch, q.v."
+54.610268,True,,,,0,,,NONE,-5.9425968,executed
+55.6400504,True,,,,0,,,NONE,-4.8148569,Ardrossan
+54.6471043,True,,,England,0,Europe,,GB,-3.5512363,"Allerdale Workington, Cumberland, England"
+56.7861112,True,,,Scotland,0,Europe,,GB,-4.1140518,"Ubbanford, Scotland"
+53.9825271,True,,,England,0,Europe,,GB,-1.38525,"Leckonfield, Yorkshire, England"
+53.9825271,True,,,England,0,Europe,,GB,-1.38525,"Battle of, Towtown, Yorkshire, England"
+55.4133398,True,,,England,0,Europe,,GB,-1.7072354,"Alnwick, Northumberland, England"
+51.3934788,True,,,England,0,Europe,,GB,0.190539,"Battle of, St Albans, Kent, England"
+55.3477629,True,,,England,0,Europe,,GB,-1.6103256,"Warkworth, Northumberland, England"
+52.6523394,True,,,,0,,,NONE,-2.6435641,"Shropshire, England, UK"
+53.8852975,True,,,England,0,Europe,,GB,-1.2595975,"Tadcaster, Yorkshire, England"
+54.5800156,True,,,England,0,Europe,,GB,-1.8068071,"Staindrop, Durham, England"
+55.4154664,True,,,,0,,,NONE,-1.7064926,"Alnwick Castle, England, UK"
+55.3452245,True,,,England,0,Europe,,GB,-1.6117004,"Warkworth Castle, Northumberland, England"
+52.8492143,True,,,England,0,Europe,,GB,-1.7025715,"Tutbury, Staffordshire, England"
+55.4154664,True,,,England,0,Europe,,GB,-1.7064926,"Alnwick Castle, Alnwick, Northumberland, England"
+50.9445139,True,,,England,0,Europe,,GB,-0.0622673,"Pentworth, Sussex, England"
+46.4351549,True,,,France,0,Europe,,FR,0.1223765,"Lusignan, Vienne, France"
+54.5910607,True,,,,0,,,NONE,-1.8017245,"Raby Castle, Durham"
+53.3114473,True,,,,0,,,NONE,-3.0351591,Raby
+54.666667,True,,,,0,,,NONE,-1.75,Durham
+54.5910607,True,,,,0,,,NONE,-1.8017245,"Raby, Staindrop"
+49.8236368,True,,,France,0,Europe,,FR,0.7075316,"Neville, France"
+45.3462,True,,,,0,,,NONE,4.88149,Anjou
+43.3684225,True,,,,0,,,NONE,-0.8465779,Montfort
+48.1549752,True,,,,0,,,NONE,2.8114192,Gatinais
+55.9396905,True,,,,0,,,NONE,9.3180562,Jutland
+51.4336592,True,,,,0,,,NONE,-0.5688331,(of Bromfield)
+42.6384261,True,,,Italy,0,Europe,,IT,12.674297,Italy
+41.9165042,True,,,,0,,,NONE,12.5197197,"killed  (along with husband and children) by King Aegisthus, q.v."
+43.6465313,True,,,,0,,,NONE,-72.0119915,"Zoar, Canaan"
+55.670249,True,,,Denmark,0,Europe,,DK,10.3333283,"Hleithra, Denmark"
+39.2694729,True,,,,0,,,NONE,-77.1968886,Damascus
+48.8823012,True,,,,0,,,NONE,2.3213298,of Rome
+38.9953683,True,,,Greece,0,Europe,,GR,21.9877132,Greece
+51.4534889,True,,,,0,,,NONE,-1.031873,Berkshire
+49.0677708,True,,,,0,,,NONE,0.3138532,Normandy
+52.2410014,True,,,,0,,,NONE,1.0465716,Suffolk
+51.0449814,True,,,,0,,,NONE,-1.2433133,Hampshire
+51.3713049,True,,,,0,,,NONE,-0.101957,Croydon
+51.324162,True,,,,0,,,NONE,-1.9032487,Wiltshire
+52.083333,True,,,,0,,,NONE,-2.75,Herefordshire
+51.4789205,True,,,Germany,0,Europe,,DE,7.5543751,"Nordrhein-Westfalen, Germany"
+45.5703694,True,,,,0,,,NONE,9.7732524,Lombardy
+50.938361,True,,,Germany,0,Europe,,DE,6.959974,"Cologne, North Rhine, Westfalen, Germany"
+50.938361,True,,,,0,,,NONE,6.959974,"Cologne, Westfalia"
+41.8933203,True,,,,0,,,NONE,12.4829321,Rome
+51.4948022,True,,,,0,,,NONE,-2.6176837,of DUMNONIA
+49.8941708,True,,,,0,,,NONE,2.2956951,Amiens Picardy France
+51.0443875,True,,,,0,,,NONE,13.7468025,"Sachsen, German"
+50.9051264,True,,,,0,,,NONE,7.0539556,"Cologne, Sachsen"
+41.2476307,True,,,Italy,0,Europe,,IT,14.7057054,"Reino Ostrogodo, Benevento, Campania, Italy"
+51.2070749,True,,,England,0,Europe,,GB,0.7210362,"Kent, England"
+50.6710482,True,,,England,0,Europe,,GB,-1.3327111,"Isle of Wight, England"
+50.6820927,True,,,England,0,Europe,,GB,-1.2883731,"Isle of Wight County, England"
+50.9733939,True,,,England,0,Europe,,GB,-1.3709387,"Isle of Wight, Hampshire, England"
+52.9984575,True,,,Ireland,0,Europe,,IE,-7.3980338,"Ossory modern Kilkenny, Laois, Ireland"
+53.0030842,True,,,Ireland,0,Europe,,IE,-7.5228587,"Clonenagh Parish, Laois, Ireland"
+53.3411249,True,,,Ireland,0,Europe,,IE,-6.2545,"Leinster, County Leinster, Ireland"
+52.6571391,True,,,Ireland,0,Europe,,IE,-7.2433945,"Ossory, Kilkenny, Ireland"
+52.6571391,True,,,Ireland,0,Europe,,IE,-7.2433945,"Ossory, Kilkenny, Leinster, Ireland"
+53.2977887,True,,,Ireland,0,Europe,,IE,-6.2195102,"Alba, Ireland"
+52.6704619,True,,,Ireland,0,Europe,,IE,-7.3088311,"Ossory, Ireland"
+52.486463,True,,,Ireland,0,Europe,,IE,-7.2172237,"Leinster, Kilkenny, Ireland"
+32.5541738,True,,,Pakistan,0,Asia,,PK,71.5995376,"Mail, Punjab, Pakistan"
+52.6506255,True,,,Ireland,0,Europe,,IE,-7.2514438,"Kilkenny, Ireland"
+51.705737,True,,,Ireland,0,Europe,,IE,-8.5229823,"Kinsale, Cork, Ireland"
+53.3493795,True,,,Ireland,0,Europe,,IE,-6.2605593,"Baile Átha Cliath, 5302, Ireland"
+53.118465,True,,,Ireland,0,Europe,,IE,-6.9918183,"Orgaill, Leinster, Ireland"
+52.865196,True,,,Ireland,0,Europe,,IE,-7.9794599,"Orgaill, Ireland"
+53.3493795,True,,,Ireland,0,Europe,,IE,-6.2605593,"Baile Átha Cliath, Ireland"
+54.2720696,True,,,Ireland,0,Europe,,IE,-8.4751357,"Sligo, Ireland"
+52.630989,True,,,,0,,,NONE,-7.2782951,"Ossary, Kilkenny, Leinster, Eireann"
+52.865196,True,,,Ireland,0,Europe,,IE,-7.9794599,"Dinn Righ, near River Barrow (Bearbha), Ireland"
+48.1492981,True,,,Germany,0,Europe,,DE,11.615625,"Tealach An Chosgair, Ireland, Bayern, Germany"
+53.6497514,True,,,Ireland,0,Europe,,IE,-6.5884245,"Tealach-An-Chosgair, Ireland, Tara Castle, Meath, Leinster, Ireland"
+54.5859836,True,,,,0,,,NONE,-6.9591554,"Ossory, Eireann"
+53.3493795,True,,,Ireland,0,Europe,,IE,-6.2605593,"Dublin, Leinster, Ireland"
+52.6152731,True,,,Wales,0,Europe,,GB,-3.4649973,"Powys, Montgomeryshire, Wales"
+52.2928116,True,,,Wales,0,Europe,,GB,-3.73893,"Deheubarth, Wales"
+53.178404,True,,,Wales,0,Europe,,GB,-2.9208857,"Rhuddlan, Flintshire, Wales"
+52.3005931,True,,,,0,,,NONE,-3.5104134,Powys Castle
+51.439358,True,,,,0,,,NONE,-3.3044144,Dyffryn
+52.32715,True,,,,0,,,NONE,-3.3553352,Powys
+40.2017745,True,,,,0,,,NONE,-75.2551759,of GWYNEDD
+57.1482429,True,,,,0,,,NONE,-2.0928095,Aberdeen
+56.7861112,True,,,Scotland,0,Europe,,GB,-4.1140518,"Dunlichtie & Dunbeath Castle, Ivernes, Scotland"
+57.083333,True,,,Scotland,0,Europe,,GB,-4.666667,"Dunbeath, Inverness-shire, Scotland"
+53.2782258,True,,,,0,,,NONE,-4.3319194,Anglesey
+53.3391564,True,,,,0,,,NONE,-6.2626992,"Dublin and reared near Swords, County Dublin in Ireland"
+53.2265094,True,,,,0,,,NONE,-4.1274751,Bangor Cathedral
+33.1590087,True,,,,0,,,NONE,-87.5525062,Morayshire
+53.1908873,True,,,England,0,Europe,,GB,-2.8908955,"Lathom, Chester, England"
+52.8539841,True,,,England,0,Europe,,GB,-1.9857802,"Chartley Castle, Staffordshire, England"
+53.1908985,True,,,England,0,Europe,,GB,-2.4152093,"Kinderton, Cheshire, England"
+53.5673603,True,,,England,0,Europe,,GB,-2.8859603,"Ormskirk, Lancashire, England"
+53.2602539,True,,,England,0,Europe,,GB,-2.5145104,"Northwich, Cheshire, England"
+43.9702453,True,,,,0,,,NONE,-71.8742626,Grafton
+51.2715316,True,,,,0,,,NONE,-0.3414524,Surrey
+55.9533456,True,,,,0,,,NONE,-3.1883749,Edinburgh
+52.2814519,True,,,,0,,,NONE,-1.5815742,Warwick
+56.7861112,True,,,Scotland,0,Europe,,GB,-4.1140518,"Forfars., Scotland"
+56.7861112,True,,,Scotland,0,Europe,,GB,-4.1140518,"Perths., Scotland"
+52.3106138,True,,,,0,,,NONE,-0.865913,Northamptonshire
+53.1287493,True,,,,0,,,NONE,-2.6932179,Beeston Castle
+52.3034588,True,,,,0,,,NONE,-0.3813987,Kimbolton
+52.2343297,True,,,,0,,,NONE,-0.9028043,Northampton
+48.96895,True,,,France,0,Europe,,FR,-0.5050242,"Montfort, Normandy, France"
+51.5074456,True,,,,0,,,NONE,-0.1277653,London
+37.1232245,True,,,,0,,,NONE,-78.4927721,Virginia
+37.2356655,True,,,United States,0,North America,,US,-76.5136495,"Yorktown, York, Virginia, United States"
+52.5310214,True,,,England,0,Europe,,GB,-1.2649062,"Wircestershier, England"
+36.8639003,True,,,United States,0,North America,,US,-76.3079924,"Elizabeth City, Virginia, United States"
+51.6432869,True,,,England,0,Europe,,GB,-2.2005697,"Beverstone, Gloucestershire, England"
+51.2712823,True,,,England,0,Europe,,GB,-1.046029,"Basing, Hampshire, England"
+52.2410014,True,,,,0,,,NONE,1.0465716,"Suffolk, UK"
+51.5155075,True,,,England,0,Europe,,GB,-0.0747648,"St Bartholomew Exchange, London, Middlesex, England"
+47.4714556,True,,,Germany,0,Europe,,DE,11.2145198,"Spa, Germany"
+50.7241405,True,,,,0,,,NONE,-3.6607788,Devon
+51.840894,True,,,,0,,,NONE,-0.8998074,Buckinghamshire
+53.479246,True,,,England,0,Europe,,GB,-1.4201935,"Wentworth, Yorkshire, England"
+53.4104675,True,,,,0,,,NONE,-1.0206117,"Scrooby, Nottinghamshire, England."
+50.7241405,True,,,,0,,,NONE,-3.6607788,Devonshire
+52.5453397,True,,,,0,,,NONE,-7.3347052,"Castle Eve, Kilkenny"
+53.9825271,True,,,,0,,,NONE,-1.38525,Yorkshire
+52.6506255,True,,,,0,,,NONE,-7.2514438,"Kilkenny, Eire"
+56.2517333,True,,,Scotland,0,Europe,,GB,-5.2513764,"Lochow, Argyllshire, Scotland"
+53.1185033,True,,,,0,,,NONE,-1.5566179,Derbyshire
+52.7395787,True,,,,0,,,NONE,-2.0791954,Teddesley
+38.995878,True,,,,0,,,NONE,-88.9528394,Brownstown
+44.9947369,True,,,,0,,,NONE,-85.1133189,Antrim
+53.8598047,True,,,,0,,,NONE,-9.2979572,"Antrim, Eire"
+52.6523394,True,,,,0,,,NONE,-2.6435641,Shropshire
+54.1131444,True,,,,0,,,NONE,-6.3617346,"Down, Eire"
+-0.0583741,True,,,,0,,,NONE,38.9319506,"Kilbride, Scot."
+43.102988,True,,,,0,,,NONE,-71.617126,Dunbarton
+55.9725499,True,,,,0,,,NONE,-3.1709492,Leith
+51.4826035,True,,,,0,,,NONE,-0.6069278,"Castle Hill, Edinburgh"
+49.3411969,True,,,France,0,Europe,,FR,-0.9571655,"Longueville, Normandy, France"
+44.3691703,True,,,France,0,Europe,,FR,0.4539158,"Lot-et-Garonne, Aquitaine, France"
+51.1962997,True,,,England,0,Europe,,GB,0.2736246,"Tonbridge Castle, Kent, England"
+51.833333,True,,,England,0,Europe,,GB,-1.25,"Oxfordshire, England"
+52.666667,True,,,England,0,Europe,,GB,1.0,"Norfolk, England"
+52.5599125,True,,,England,0,Europe,,GB,0.8392182,"Wayland, Norfolk, England"
+51.7957409,True,,,England,0,Europe,,GB,-0.078521,"Hertford, Hertfordshire, England"
+51.8213212,True,,,Wales,0,Europe,,GB,-3.0147935,"Abergavenny, Monmouthshire, Wales"
+51.8400523,True,,,England,0,Europe,,GB,-0.0978552,"Hertfordshire, England"
+48.5419449,True,,,France,0,Europe,,FR,0.9018581,"Harcourt, Eure, Haute-Normandie, France"
+52.8942426,True,,,England,0,Europe,,GB,0.8734457,"Walsingham, Norfolk, England"
+56.0701208,True,,,Scotland,0,Europe,,GB,-3.9087351,"Stirlingshire, Scotland"
+52.9135529,True,,,England,0,Europe,,GB,1.0218832,"Dalling, Norfolk, England"
+44.2437073,True,,,France,0,Europe,,FR,0.4249545,"France, Lot-et-Garonne, Aquitaine, France"
+51.8400523,True,,,England,0,Europe,,GB,-0.0978552,"Later of Linton, Hertfordshire, England"
+56.4506934,True,,,,0,,,NONE,-3.1308885,Castle Huntly
+52.8246942,True,,,,0,,,NONE,-2.0074547,Staffordshire
+52.3106138,True,,,,0,,,NONE,-0.865913,Northants.
+55.25,True,,,,0,,,NONE,-2.000559,Northumberland
+53.1459288,True,,,,0,,,NONE,-1.0214971,Nottinghamshire
+51.0701354,True,,,,0,,,NONE,-1.6126956,"Wolvey, Warwicks."
+40.1541581,True,,,,0,,,NONE,-77.2803933,Cumberland
+53.2141028,True,,,,0,,,NONE,-2.4717701,Cheshire
+52.811735,True,,,England,0,Europe,,GB,1.2317081,"Blickling Hall, Blickling, Norfolk, England"
+51.4303523,True,,,England,0,Europe,,GB,-2.1839201,"Hungerford, Wiltshire, England"
+52.5999587,True,,,,0,,,NONE,-1.716108,Drayton Basset
+52.2860353,True,,,,0,,,NONE,0.6727342,Hengrave
+50.1024606,True,,,,0,,,NONE,2.7247515,Picardie
+49.4093582,True,,,,0,,,NONE,8.694724,Heidelberg
+51.1638175,True,,,Germany,0,Europe,,DE,10.4478313,Prussia
+52.2333742,True,,,,0,,,NONE,21.0711489,Warsaw
+48.7602075,True,,,,0,,,NONE,16.9944292,Turnitz
+52.215933,True,,,Poland,0,Europe,,PL,19.134422,Poland
+73.3566667,True,,,,0,,,NONE,-26.6383333,Jomsborg
+51.9059936,True,,,,0,,,NONE,10.4266284,Goslar
+50.4708135,True,,,,0,,,NONE,5.7735658,Liege
+43.5357116,True,,,,0,,,NONE,13.5619149,San Germano
+40.770609,True,,,,0,,,NONE,-73.1200703,Bohemia
+49.453872,True,,,Germany,0,Europe,,DE,11.077298,"Nurnberg, Bavaria"
+48.866628,True,,,,0,,,NONE,16.0355078,"Znaim, Bohemia"
+47.0083129,True,,,,0,,,NONE,16.6133697,Raab
+48.2083537,True,,,,0,,,NONE,16.3725042,Vienna
+47.1817585,True,,,Hungary,0,Europe,,HU,19.5060937,Hungary
+54.3227085,True,,,,0,,,NONE,10.135555,Kiel
+51.3913436,True,,,,0,,,NONE,-1.8101523,Boreham Wood
+51.7520131,True,,,,0,,,NONE,-1.2578499,Oxford
+52.2928116,True,,,Wales,0,Europe,,GB,-3.73893,"Rutlands., Wales"
+41.000028,True,,,Albania,0,Europe,,AL,19.9999619,Albania
+31.4167427,True,,,Egypt,0,Africa,,EG,31.8213657,"Damietta, Egypt"
+52.666667,True,,,,0,,,NONE,1.0,Norfolk
+42.4034753,True,,,,0,,,NONE,-83.3791875,North Hampshire
+41.8933203,True,,,,0,,,NONE,12.4829321,nr. Rome
+49.4404591,True,,,,0,,,NONE,1.0939658,Rouen
+51.1617509,True,,,,0,,,NONE,-3.0753867,Somerset
+43.6501428,True,,,,0,,,NONE,-79.3647162,of Berkeley Castle
+34.6401861,True,,,,0,,,NONE,39.0494106,Syria
+38.4167265,True,,,,0,,,NONE,-77.4579783,Stafford
+31.037566,True,,,Egypt,0,Africa,,EG,31.38649,"Mansourah, Egypt"
+51.833333,True,,,,0,,,NONE,-1.25,Oxfordshire
+53.9825271,True,,,,0,,,NONE,-1.38525,"Killdale, Yorkshire"
+52.2928116,True,,,,0,,,NONE,-3.73893,"Flints., Wale"
+53.4794892,True,,,,0,,,NONE,-2.2451148,Manchester
+52.5100779,True,,,,0,,,NONE,-0.9501074,"Groby, Leics."
+52.5100779,True,,,,0,,,NONE,-0.9501074,Leics.
+51.9946106,True,,,,0,,,NONE,-8.2389283,"Cork, Eire"
+53.2582075,True,,,,0,,,NONE,-6.7371361,"Kildare, Eire"
+49.9462622,True,,,,0,,,NONE,15.2641187,Gask
+49.0677708,True,,,,0,,,NONE,0.3138532,? Normandy
+54.1936805,True,,,Isle of Man,0,Europe,,IM,-4.5591148,Isle of Man
+50.1813995,True,,,,0,,,NONE,7.6535842,Gaul
+47.4885365,True,,,,0,,,NONE,3.9070658,Avalon?
+56.7861112,True,,,Scotland,0,Europe,,GB,-4.1140518,"Tweeddale, Peebleshire, Scotland"
+48.2640845,True,,,,0,,,NONE,-2.9202408,"Dol-et-Bretaigne, Isle de Vilaines, Brittany"
+31.5197847,True,,,"Palestine, State of",0,Asia,,PS,35.0494777,"Jerusalem, Palestine"
+48.5498295,True,,,France,0,Europe,,FR,-1.754257,"Dol, Ille-et Vilaine, Bretagne, France"
+45.0138671,True,,,,0,,,NONE,-93.2471084,"Jerusalem, Palestine, Holy Land"
+58.404267,True,,,Scotland,0,Europe,,GB,-3.434027,"Caithness, Scotland"
+48.1172166,True,,,France,0,Europe,,FR,-1.6814837,"Dinan, Ille-et-Vilaine, Bretagne, France"
+48.4539775,True,,,France,0,Europe,,FR,-2.047687,"Dinan, Cotes d'Armor, Bretagne, France"
+44.0580563,True,,,France,0,Europe,,FR,6.0638506,"Bretagne, Indre Et Loire, Provence, France"
+48.1185985,True,,,France,0,Europe,,FR,-1.2103632,"Ille-et-Vilaine, Vitré, Bretagne, France"
+48.1727681,True,,,France,0,Europe,,FR,-1.6498092,"Fourgeres, Ille-et-Vilaine, Bretagne, France"
+55.8931408,True,,,Scotland,0,Europe,,GB,-4.2211748,"Stobhill, Scotland"
+39.3260685,True,,,Spain,0,Europe,,ES,-4.8379791,Spain
+53.9825271,True,,,,0,,,NONE,-1.38525,"Walley, Yorkshire, England."
+51.2070749,True,,,England,0,Europe,,GB,0.7210362,"Forwich, Kent, England"
+53.1823034,True,,,England,0,Europe,,GB,-0.2031209,"Marblethorpe, Lincolnshire, England"
+53.2293545,True,,,England,0,Europe,,GB,-0.5404819,"Lincoln, Lincolnshire, England"
+53.1780161,True,,,England,0,Europe,,GB,-0.1023101,"Scrivelsby, Lincolnshire, England"
+53.7319746,True,,,England,0,Europe,,GB,-1.6602524,"Birstall, Yorkshire, England"
+54.0041612,True,,,England,0,Europe,,GB,-2.2914667,"Hamerton, Yorkshire, England"
+53.9825271,True,,,England,0,Europe,,GB,-1.38525,"Hamerton, Wicklesworth, Yorkshire, England"
+53.9425879,True,,,England,0,Europe,,GB,-2.0450686,"Long Preston, Craven, Yorkshire, England"
+53.7979109,True,,,England,0,Europe,,GB,-1.8281943,"Bracewell, Yorkshire, England"
+53.6829541,True,,,England,0,Europe,,GB,-1.4967286,"Wakefield, Yorkshire, England"
+49.1196964,True,,,,0,,,NONE,6.1763552,Metz
+37.3422707,True,,,,0,,,NONE,-87.930851,Gibralter
+22.3742506,True,,,,0,,,NONE,49.4770891,Arabia
+34.2,True,,,,0,,,NONE,43.9,Samarra
+24.471153,True,,,,0,,,NONE,39.6111216,al-Medina
+21.420847,True,,,,0,,,NONE,39.826869,Mecca
+33.0955793,True,,,Iraq,0,Asia,,IQ,44.1749775,Iraq
+29.2836281,True,,,,0,,,NONE,-99.1126826,Medina
+28.3347722,True,,,Morocco,0,Africa,,MA,-10.3713379,Morocco
+38.3436365,True,,,Spain,0,Europe,,ES,-0.4881708,"Alicante, Spain"
+55.915797,True,,,,0,,,NONE,-2.7511952,East Lothian
+57.2800033,True,,,,0,,,NONE,-2.2326663,of Straloch
+53.0788581,True,,,,0,,,NONE,-1.9006835,Hamps.
+51.8123023,True,,,,0,,,NONE,-2.7168988,Monmouth Castle
+50.75211,True,,,,0,,,NONE,8.31573,Dillenburg
+52.0114017,True,,,,0,,,NONE,4.35839,Delft
+51.2211097,True,,,,0,,,NONE,4.3997081,Antwerp
+53.1823034,True,,,,0,,,NONE,-0.2031209,Lincolnshire
+51.0787261,True,,,England,0,Europe,,GB,0.7689602,"Woodchurch, Kent, England"
+51.8171756,True,,,,0,,,NONE,-3.0609358,"Raglan Castle, Monmouthshire, South Wales"
+52.2460367,True,,,England,0,Europe,,GB,0.7125173,"Bury St Edmunds, Suffolk, England"
+51.6666717,True,,,,0,,,NONE,-3.000007,Gwent
+37.3886303,True,,,Spain,0,Europe,,ES,-5.9953403,"Seville, Spain"
+42.1105502,True,,,,0,,,NONE,-88.0434304,Palatine
+50.879202,True,,,,0,,,NONE,4.7011675,Louvain
+50.938361,True,,,,0,,,NONE,6.959974,Cologne
+40.0289955,True,,,,0,,,NONE,-75.6207651,Exton
+18.1850507,True,,,Jamaica,0,North America,,JM,-77.3947693,Jamaica
+52.2691945,True,,,,0,,,NONE,-1.8560283,Rutlands.
+51.5460558,True,,,,0,,,NONE,-0.2537791,Middlesex
+52.3213064,True,,,,0,,,NONE,-1.5536906,Warwickshire
+38.80255,True,,,,0,,,NONE,-77.2212396,Ravensworth
+54.4670283,True,,,,0,,,NONE,-1.7835808,"Ravensworth, Yorkshire"
+57.416667,True,,,,0,,,NONE,-3.25,Moray
+57.416667,True,,,Scotland,0,Europe,,GB,-3.25,"Moray, Scotland"
+51.0690613,True,,,,0,,,NONE,-1.7954134,Salisbury
+52.2928116,True,,,Wales,0,Europe,,GB,-3.73893,"Glamorgans., Wales"
+51.7363873,True,,,,0,,,NONE,-4.3062309,Kidwelly
+51.8591257,True,,,Wales,0,Europe,,GB,-4.3115907,"Carmarthen, Wales"
+53.0549304,True,,,,0,,,NONE,-1.4143389,"Ferrers, Derbyshire"
+45.4039367,True,,,,0,,,NONE,0.3756199,Poitou
+48.5427347,True,,,,0,,,NONE,-0.9615456,"Ferrieres, Normandy"
+52.8590612,True,,,,0,,,NONE,-1.6878432,Tutbury Priory
+52.8597616,True,,,,0,,,NONE,-1.6903381,"Tutbury Castle, Staffordshire"
+41.9046231,True,,,,0,,,NONE,75.1844877,k. in Battle
+51.8527674,True,,,England,0,Europe,,GB,-2.2553694,"Bristol, Gloucestershire, England"
+51.6888596,True,,,England,0,Europe,,GB,-2.456937,"Berkeley Castle Berkeley, Gloucestershire, England"
+51.6813885,True,,,England,0,Europe,,GB,-2.3531863,"Dursley, Gloucestershire, England"
+51.6913643,True,,,England,0,Europe,,GB,-2.4585247,"Berkeley, Gloucestershire, England"
+52.6078167,True,,,England,0,Europe,,GB,-1.0317702,"Leicester, Leicestershire, England"
+51.7643786,True,,,England,0,Europe,,GB,-2.1880662,"Tewkesbury Castle, Gloucestershire, England"
+51.5007679,True,,,England,0,Europe,,GB,-2.5503106,"Bur Priory of St. Michael's Hill, Bristol, and, England"
+51.8653705,True,,,England,0,Europe,,GB,-2.2458192,"Whetonhurst, Gloucester, England"
+51.2221748,True,,,England,0,Europe,,GB,-2.8429244,"Bristol, Somerset, England"
+53.9891083,True,,,England,0,Europe,,GB,-0.8988821,"Stamford Bridge, Yorkshire, England"
+52.971471,True,,,England,0,Europe,,GB,-1.2387673,"Strelley, Nottinghamshire, England"
+53.1459288,True,,,England,0,Europe,,GB,-1.0214971,"Strelley Wooderough, Nottinghamshire, England"
+52.9318033,True,,,England,0,Europe,,GB,-1.2194429,"Wollaton, Nottinghamshire, England"
+39.7548446,True,,,,0,,,NONE,-75.6654565,Dunbarton Castle
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Derbyshire, England"
+52.8228134,True,,,England,0,Europe,,GB,-1.4283564,"Melbourne, Derbyshire, England"
+52.9212617,True,,,England,0,Europe,,GB,-1.4761491,"Derby, Derbyshire, England"
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Ecclestone, Burton On Hill, Derbyshire, England"
+52.8362626,True,,,England,0,Europe,,GB,-1.504119,"Foremark, Derbyshire, England"
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Cambridgeshire, Derbyshire, England"
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Osmondeston, Derbyshire, England"
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Trusley, Burton Upon Trent, Derbyshire, England"
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Burton Upon Trent, Derbyshire, England"
+52.7798895,True,,,England,0,Europe,,GB,-2.8369846,"Walford, Baschurch, Shropshire, England"
+53.1030117,True,,,,0,,,NONE,-2.6323933,Haughton
+51.4024634,True,,,,0,,,NONE,-0.7770369,Welbeck
+51.5074456,True,,,United Kingdom,0,Europe,,GB,-0.1277653,"London, United Kingdom"
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Ashby De La Zouche, Derbyshire, England"
+53.1185033,True,,,England,0,Europe,,GB,-1.5566179,"Osmondeston Manor, Derbyshire, England"
+52.8120645,True,,,England,0,Europe,,GB,-1.4794243,"Ticknall, Derbyshire, England"
+51.2764863,True,,,England,0,Europe,,GB,-0.4391,"Horsley Hall, Surrey, England"
+52.9212617,True,,,England,0,Europe,,GB,-1.4761491,"Litchurch Manor, Derby, Derbyshire, England"
+51.2715316,True,,,England,0,Europe,,GB,-0.3414524,"Surrey, England"
+51.2795154,True,,,England,0,Europe,,GB,-0.4352969,"Horsley, Surrey, England"
+50.7241405,True,,,England,0,Europe,,GB,-3.6607788,"Halton, Devon, England"
+50.7241405,True,,,England,0,Europe,,GB,-3.6607788,"Halton Hendry, Devonshire, England"
+49.0677708,True,,,France,0,Europe,,FR,0.3138532,"of the district of Vologne, Normandy, France"
+52.7906166,True,,,England,0,Europe,,GB,-2.8538717,"Stanwardine-in-the-Woods, Baschurch, Shropshire, England"
+52.5982784,True,,,England,0,Europe,,GB,-3.0620969,"Wotherton, Chirbury, Shropshire, England"
+52.722962,True,,,England,0,Europe,,GB,-2.9491023,"Alberbury, Shropshire, England"
+53.787927,True,,,,0,,,NONE,9.4238157,Gluckstadt
+53.3789803,True,,,,0,,,NONE,10.5513889,Lauenburg
+51.4987815,True,,,England,0,Europe,,GB,-0.1423506,"Chapel Royal, St. James Palace, England"
+51.5055097,True,,,,0,,,NONE,-0.1368605,"Chapel Royal, St. James Palace"
+51.1270155,True,,,,0,,,NONE,0.2599546,"Chapel Royal, St. James"
+59.9133301,True,,,Norway,0,Europe,,NO,10.7389701,"Oslo, Norway"
+51.5028139,True,,,,0,,,NONE,-0.1261997,Whitehall
+51.5004439,True,,,England,0,Europe,,GB,-0.1265398,"Westminster, England"
+53.9623561,True,,,,0,,,NONE,-1.0820834,York Minster
+38.0135643,True,,,,0,,,NONE,-3.7968446,Las Huelgas
+51.2797999,True,,,,0,,,NONE,1.082766,"Canterbury, Cathedral"
+44.841225,True,,,,0,,,NONE,-0.5800364,Bordeaux
+44.841225,True,,,France,0,Europe,,FR,-0.5800364,"Bordeaux, France"
+54.0689002,True,,,England,0,Europe,,GB,-1.28041,"Aldwark, Yorkshire, England"
+48.2143607,True,,,,0,,,NONE,16.4860715,1220
+52.2609997,True,,,Ireland,0,Europe,,IE,-7.1119081,"Waterford, Ireland"
+51.2317073,True,,,,0,,,NONE,6.8092477,2nd wife
+56.2517333,True,,,Scotland,0,Europe,,GB,-5.2513764,"Carrick, Argyllshire, Scotland"
+45.4641943,True,,,Italy,0,Europe,,IT,9.1896346,"Milan, Italy"
+53.9825271,True,,,England,0,Europe,,GB,-1.38525,"Gawkethorpe, Yorkshire, England"
+47.3900474,True,,,France,0,Europe,,FR,0.6889268,"	Tours, Indre-et-Loire, Touraine/Centre, France"
+52.4959743,True,,,England,0,Europe,,GB,-0.6392632,"Weldon, Northamptonshire, England"
+43.1467407,True,,,France,0,Europe,,FR,-0.3189166,"Mantes, France"
+52.1169259,True,,,,0,,,NONE,1.4840715,Hertfords.
+51.4975728,True,,,,0,,,NONE,-0.0788246,Bermondsey Abbey
+48.9467562,True,,,Germany,0,Europe,,DE,11.4038717,"Bavaria, Germany"
+53.7307543,True,,,England,0,Europe,,GB,-1.5728767,"Harwood, Yorkshire, England"
+50.2997124,True,,,Germany,0,Europe,,DE,8.1869789,"	Ohren, Limburg-Weilburg, Hessen, Germany"
+50.6402809,True,,,Belgium,0,Europe,,BE,4.6667145,"Heristal, Leige, Belgium"
+-33.8228135,True,,,,0,,,NONE,25.6282202,"Asgard, Asia Or, Eastern Europe"
+54.1066832,True,,,England,0,Europe,,GB,-2.8028352,"Bolton, Lancashire, England"
+45.5792284,True,,,France,0,Europe,,FR,-0.5471901,"	Pons, Charente-Maritime, Poitou-Charentes, France"
+48.2640845,True,,,France,0,Europe,,FR,-2.9202408,"Brittany, France"
+-16.5405017,True,,,,0,,,NONE,-68.0672707,Fance
+50.7806267,True,,,Belgium,0,Europe,,BE,5.4639172,"	Tongeren, Limburg, Vlaams Gewest, Belgium"
+49.6011153,True,,,,0,,,NONE,11.0058968,Gothia
+55.25,True,,,England,0,Europe,,GB,-2.000559,"Ainwick, Northumberland, England"
+53.8834471,True,,,England,0,Europe,,GB,-0.4435804,"Leconfield, Yorkshire, England"
+55.4154664,True,,,England,0,Europe,,GB,-1.7064926,"Alnwick Castle, England"
+51.5169194,True,,,,0,,,NONE,-0.1187449,Lincolns
+59.6749712,True,,,Sweden,0,Europe,,SE,14.5208584,Sweden
+52.865196,True,,,Ireland,0,Europe,,IE,-7.9794599,"	Dinn Righ, near River Barrow (Bearbha), Ireland"
+51.7643786,True,,,England,0,Europe,,GB,-2.1880662,"Beaverstone, Gloucestershire, England"
+52.3106138,True,,,,0,,,NONE,-0.865913,Northants
+53.6101088,True,,,England,0,Europe,,GB,-1.5249249,"Woolley, Yorkshire, England"
+53.3408271,True,,,England,0,Europe,,GB,0.2606772,"Mablethorpe, Lincolnshire, England"
+53.7195967,True,,,England,0,Europe,,GB,-1.3689836,"Wooley, Yorkshire, England"
+51.8400523,True,,,,0,,,NONE,-0.0978552,Hertfordshire
+51.4470646,True,,,Wales,0,Europe,,GB,-3.3988831,"Glamorgan, Wales"
+51.7643786,True,,,England,0,Europe,,GB,-2.1880662,"	Tewkesbury Castle, Gloucestershire, England"
+51.5007679,True,,,England,0,Europe,,GB,-2.5503106,"	Bur Priory of St. Michael's Hill, Bristol, and, England"
+51.7643786,True,,,England,0,Europe,,GB,-2.1880662,"Whetonhurst, Gloucestershire, England"
+55.3477629,True,,,,0,,,NONE,-1.6103256,Warkworth
+52.6523394,True,,,England,0,Europe,,GB,-2.6435641,"Shropshire, England"
+50.7241405,True,,,England,0,Europe,,GB,-3.6607788,"Halton Hendry Manor, Devonshire, England"
+52.8276765,True,,,,0,,,NONE,-2.7706849,"Stanwardine-in-the-Woods, Baschurch, Shropshire, E"
+,True,True,1767375040.2543101,,0,,,,,"Probably Austrasia (within present Belgium), Frankish Kingdom"
+,True,True,1767375041.996899,,0,,,,,"Dunfermline Abbey, heart was interred in Melrose Abbey"
+,True,True,1767375044.0027034,,0,,,,,"Vermandois, Austrasia"
+,True,True,1767375045.0015395,,0,,,,,buried in Matemoutier Abbe
+,True,True,1767375046.5957458,,0,,,,,Oder Vistula River Region Of Germany
+,True,True,1767375047.0947797,,0,,,,,Fontevraud Abbey
+,True,True,1767375050.1063578,,0,,,,,"St Denis-le-, Fermont, Near Gisors"
+,True,True,1767375051.8947885,,0,,,,,k. at Battle of Merton
+,True,True,1767375052.2238119,,0,,,,,Normandy at the Château Guernon
+,True,True,1767375056.167801,,0,,,,,"Laon, (Present département de l'Aisne), Duché d'Austrasie (Present région Picardie), Frankish Kingdom (Present France)"
+,True,True,1767375058.0648084,,0,,,,,"Either Neustria or Austrasia, Frankish Kingdom"
+,True,True,1767375059.0755026,,0,,,,,Frankish Kingdom
+,True,True,1767375060.0260813,,0,,,,,Pilgrammage to Rome
+,True,True,1767375061.128792,,0,,,,,Killed fighting the Danes
+,True,True,1767375065.7300713,,0,,,,,"Probably Liege, Austrasia, Frankish Empire (within present Belgium)"
+,True,True,1767375069.7997568,,0,,,,,"Austrasia, Frankish Empire"
+,True,True,1767375074.2943342,,0,,,,,"Remiremont Monastery, Habendum, France Find all individuals with events at this location"
+,True,True,1767375077.1904595,,0,,,,,"Metz, Austrasia, France Find all individuals with events at this location"
+,True,True,1767375077.9525616,,0,,,,,Roman province of Moesia
+,True,True,1767375080.3040688,,0,,,,,Died in Germany
+,True,True,1767375080.5957482,,0,,,,,Burg Hohenstaufen (murdered)
+,True,True,1767375081.5387254,,0,,,,,in exile in Rome
+,True,True,1767375084.2069218,,0,,,,,Italy - executed by Shem
+,True,True,1767375084.283313,,0,,,,,Paddan Aram
+,True,True,1767375085.5015247,,0,,,,,murdered by Emperor Julian
+,True,True,1767375086.707802,,0,,,,,at Battle of Megiddo
+,True,True,1767375087.6164997,,0,,,,,at Battle of Megiddo (against Necho II of Egypt)
+,True,True,1767375088.411719,,0,,,,,Lachish - assassinated
+,True,True,1767375091.3333092,,0,,,,,killed by his servants
+,True,True,1767375091.5331633,,0,,,,,killed by Yehu (King of Israel)
+,True,True,1767375092.5364819,,0,,,,,killed by Jehu
+,True,True,1767375093.4552367,,0,,,,,slain by Thurebrand the Dane
+,True,True,1767375094.7262688,,0,,,,,Killed By Edred
+,True,True,1767375095.7567914,,0,,,,,was buried at the Abbaye du Bec
+,True,True,1767375098.6978564,,0,,,,,killed in Battle with the Gauls
+,True,True,1767375098.8438919,,0,,,,,slain by Conn
+,True,True,1767375099.9450102,,0,,,,,killed by 49th Monarch
+,True,True,1767375100.8231208,,0,,,,,killed by 13th Monarch (Tighernmus)
+,True,True,1767375103.2505887,,0,,,,,in the Hill of Tara
+,True,True,1767375104.0645149,,0,,,,,Gothia (Carthage)
+,True,True,1767375104.3745646,,0,,,,,killed at Battle of Soirrean by 10th Monarch
+,True,True,1767375105.3818867,,0,,,,,killed by 19th Monarch at Battle of Belgadain
+,True,True,1767375106.7041035,,0,,,,,killed at Battle of Carman by 21st/22nd Monarch
+,True,True,1767375107.630551,,0,,,,,killed by by 23rd Monarch
+,True,True,1767375108.6012058,,0,,,,,killed by 56th Monarch at Battle of Borin
+,True,True,1767375109.432793,,0,,,,,killed self
+,True,True,1767375110.814827,,0,,,,,died from a horse fall
+,True,True,1767375111.3995821,,0,,,,,massacred by plebians
+,True,True,1767375112.6526423,,0,,,,,slain by Mal (107th Monarch)
+,True,True,1767375113.4132025,,0,,,,,killed at Battle of Crionna Fregabhail
+,True,True,1767375114.607264,,0,,,,,killed at Siege of Orleans
+,True,True,1767375115.5648186,,0,,,,,killed in feud
+,True,True,1767375116.3999307,,0,,,,,Warworth
+,True,True,1767375117.4043386,,0,,,,,slain attempting to avenge murder by MacBeth
+,True,True,1767375118.6463287,,0,,,,,driven out by his subjects
+,True,True,1767375119.4044356,,0,,,,,killed by Eofor (soldier of King Hygelac)
+,True,True,1767375121.235544,,0,,,,,killed in Battle with Cynric of Wessex
+,True,True,1767375124.3525915,,0,,,,,killed accidentally by son Brutus
+,True,True,1767375127.3150725,,0,,,,,died giving birth to Brutus
+,True,True,1767375129.111413,,0,,,,,"Ur, Chaldea"
+,True,True,1767375133.4776635,,0,,,,,killed  in Sea Battle of Bravik
+,True,True,1767375133.607895,,0,,,,,killed by Ivar Vidfadma
+,True,True,1767375134.810712,,0,,,,,burned alive after capture by Shabaka
+,True,True,1767375135.603153,,0,,,,,Alabastronopolis?
+,True,True,1767375136.6424549,,0,,,,,killed by Sulayman ibn Abd al-Malik because of his sympathies for Christians
+,True,True,1767375137.6535387,,0,,,,,died of plague
+,True,True,1767375139.6642597,,0,,,,,"killed by asp, perhaps suicide"
+,True,True,1767375140.8230116,,0,,,,,killed self on news of Cleopatra's death
+,True,True,1767375142.6618874,,0,,,,,"murdered by Maeonius, his nephew"
+,True,True,1767375143.8247716,,0,,,,,died of typhoid fever
+,True,True,1767375144.7332942,,0,,,,,murdered by Cassander
+,True,True,1767375145.6098053,,0,,,,,Lacashire
+,True,True,1767375146.93745,,0,,,,,walled-up alive by King John
+,True,True,1767375147.7942536,,0,,,,,killed for EU
+,True,True,1767375148.6115143,,0,,,,,Carnarvons
+,True,True,1767375149.6133997,,0,,,,,Dolyddelan
+,True,True,1767375150.8147132,,0,,,,,at Battle of Halidon Hill
+,True,True,1767375151.779265,,0,,,,,Danzig     k. in fight with English knights
+,True,True,1767375152.879171,,0,,,,,at Battle of Blore Heath
+,True,True,1767375156.7112994,,0,,,,,at sea     d. en route to Lisbon
+,True,True,1767375156.8803337,,0,,,,,murdered by nephew
+,True,True,1767375158.638727,,0,,,,,d. enroute to Jerusalem
+,True,True,1767375159.4094477,,0,,,,,slain in defense of York Castle
+,True,True,1767375161.820762,,0,,,,,k. at Battle of Borough Bridge
+,True,True,1767375162.4535356,,0,,,,,k. at Battle of Northampton
+,True,True,1767375162.9843576,,0,,,,,beheaded
+,True,True,1767375164.1446881,,0,,,,,k. at Battle of Flodden Field
+,True,True,1767375164.9389307,,0,,,,,Angusshire
+,True,True,1767375166.960369,,0,,,,,k. at Battle of Standard
+,True,True,1767375167.0836139,,0,,,,,Worchestershire
+,True,True,1767375168.5719836,,0,,,,,d. Sea Battle of Bravik
+,True,True,1767375169.8109798,,0,,,,,k. at Battle of Hastings
+,True,True,1767375170.7161374,,0,,,,,Gainsborough     (buried in Denmark)
+,True,True,1767375171.6045003,,0,,,,,k. at Battle of Shrewsbury
+,True,True,1767375172.2589,,0,,,,,Isle of Rhoads
+,True,True,1767375173.2426043,,0,,,,,d. in childbirth ?
+,True,True,1767375174.5730908,,0,,,,,k. at Battle of Evesham
+,True,True,1767375176.5565705,,0,,,,,k. at the seige of Arques
+,True,True,1767375176.9207408,,0,,,,,k. at Battle of Homildon Hill
+,True,True,1767375178.6330616,,0,,,,,k. at Battle of Dunbar
+,True,True,1767375178.6862361,,0,,,,,Leicesters.
+,True,True,1767375180.3519902,,0,,,,,Northampts.
+,True,True,1767375181.104464,,0,,,,,fatally wounded at Siege of Pevensey Castle
+,True,True,1767375181.9827049,,0,,,,,Gloucestshire
+,True,True,1767375183.384501,,0,,,,,k. in Battle of Orleans
+,True,True,1767375183.813135,,0,,,,,Gloucshire
+,True,True,1767375186.0711544,,0,,,,,k. at Battle of Bannockburn
+,True,True,1767375187.0144813,,0,,,,,poss. k. at 3rd Battle of Badon Hill
+,True,True,1767375187.9379902,,0,,,,,poisoned by one of his wives
+,True,True,1767375188.1920373,,0,,,,,of Durrisdeer
+,True,True,1767375189.8002083,,0,,,,,k. at Battle of Soissons
+,True,True,1767375192.568554,,0,,,,,k. at Battle of Falkirk
+,True,True,1767375192.6103835,,0,,,,,Bocton
+,True,True,1767375194.0835683,,0,,,,,k. at Battle of Towton
+,True,True,1767375194.9904625,,0,,,,,Bohemia     d. in exile
+,True,True,1767375196.4854896,,0,,,,,k. in Battle at Florennes
+,True,True,1767375197.0988328,,0,,,,,k. at Battle of Vouille
+,True,True,1767375199.0365248,,0,,,,,Wales or Normandy
+,True,True,1767375199.0745666,,0,,,,,Tredegyr
+,True,True,1767375200.1498945,,0,,,,,Blaenbradach
+,True,True,1767375201.1845756,,0,,,,,Rhiw'rperrai
+,True,True,1767375202.4650328,,0,,,,,Cibwr
+,True,True,1767375203.169269,,0,,,,,k. at Battle of Walcheran
+,True,True,1767375204.4355443,,0,,,,,Asia Minor     d. on pilgrimage
+,True,True,1767375205.1644037,,0,,,,,Lanarks. Scotl
+,True,True,1767375206.8155286,,0,,,,,k. at Battle of Durham
+,True,True,1767375207.3374522,,0,,,,,Bolongne
+,True,True,1767375208.1859293,,0,,,,,Holyrod Abbey
+,True,True,1767375210.1902711,,0,,,,,"	Either Neustria or Austrasia, Frankish Kingdom"
+,True,True,1767375211.3438811,,0,,,,,killed by 35th Monarch
+,True,True,1767375212.3430948,,0,,,,,killed by 38th Monarch
+,True,True,1767375213.3673,,0,,,,,killed by 45th Monarch
+,True,True,1767375214.315492,,0,,,,,killed by 47th Monarch
+,True,True,1767375216.4052212,,0,,,,,killed  by 60th Monarch
+,True,True,1767375216.6061916,,0,,,,,Caernarvons
+,True,True,1767375217.868409,,0,,,,,k. at Battle of Halidon Hill

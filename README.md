@@ -1,5 +1,7 @@
 # Gedcom Samples
- A set of GED files for GEDCOM projects, useful for performance testing and comparing outputs from various GEDCOM generators. This collection also features `geo_code.csv` files compatible with [geo_gedcom](https://github.com/colin0brass/geo_gedcom) and [gedcom-to-visualmap](https://github.com/D-Jeffrey/gedcom-to-visualmap).
+ A set of GED files for GEDCOM projects, useful for performance testing and comparing outputs from various GEDCOM generators. This collection also features `geo_code.csv` files compatible with [geo_gedcom](https:github.comcolin0brassgeo_gedcom) and [gedcom-to-visualmap](https:github.comD-Jeffreygedcom-to-visualmap).  The geo_code.csv has a timestamp, so if you are leveraging it wiht geocom-to-visualmap then check the `Cache Only` checkbox for a quick load within the need to reverifying the addresses.
+
+This included 'Famous Family Trees'.
 
 GED Name | # People | Timeframe | Addresses | Unique Surnames | Author | Soure
 ---      | ---:      |---:        |---:        |---: | --- | ---
@@ -7,25 +9,27 @@ GED Name | # People | Timeframe | Addresses | Unique Surnames | Author | Soure
 [Bronte](bronte.ged) | 14 | 1744-1861 | 7 | 6 | |webtreeprint
 [input](input.ged)  | 15 | ?-? | 12 | 8 | Louis Mallez | hand coded
 [shakespeare](shakespeare.ged) | 31 | 1490-1674 | 4 | 10 | |webtreeprint
-[bourbon](sample-bourbon/bourbon.ged) | 303| 820-1775 | 66 | 81 | Yannick VOYEAUD | ANCESTRIS
-[kennedy](sample-kennedy/kennedy.ged) | 208 | 1727-1999 | 83 | 73 | |  ANCESTRIS
-[royal92](royal92.ged) |3,010 |534-1992 |669 | 421 |Denis R. Reid|Personal Ancestral 2.2
-[pres2020](pres2020.ged) |2,322 |1016-2018 |842 |873 | Paul E Stobbe |Family Tree Maker
 [bach](bach.ged) | 33 | 1550-1871 | 0 | 8 | PAF 2.2
-[washington](washington.ged) | 529 | 1391-1799 | 301 | 88| | FamilyOrigins 
-[IvarKingOfDublin](ivar/IvarKingOfDublin.ged) | 1,288 | 794-1302 | 563 | 558 | Darren Jeffrey | Legacy / FamilySearch
-[WilliamLongsword](longsword/WilliamLongsword.ged) | 203,154 | 860-2020 | 60,584 | 57040| Darren Jeffrey | Legacy / FamilySearch
+[bourbon](sample-bourbonbourbon.ged) | 303| 820-1775 | 66 | 81 | Yannick VOYEAUD | ANCESTRIS
+[kennedy](sample-kennedykennedy.ged) | 208 | 1727-1999 | 83 | 73 | |  ANCESTRIS
+[washington](washingtonwashington.ged) | 529 | 1391-1799 | 301 | 88| | FamilyOrigins 
+[IvarKingOfDublin](ivarIvarKingOfDublin.ged) | 1,288 | 794-1302 | 563 | 558 | Darren Jeffrey | Legacy  FamilySearch
+[pres2020](prespres2020.ged) |2,322 |1016-2018 |842 |873 | Paul E Stobbe |Family Tree Maker
+[royal92](royalroyal92.ged) |3,010 |534-1992 |669 | 421 |Denis R. Reid|Personal Ancestral 2.2
+[Queen](queenQueen.ged) |4,683 |4004BC-1926|871|1024|M M Wardle| RootsMagic 8
+[Habsburg](habsHabsburg.ged) |34,020|1-2007|6722|7902|| Family Tree Maker 20
+[WilliamLongsword](longswordWilliamLongsword.ged) | 203,154 | 860-2020 | 60,584 | 57040| Darren Jeffrey | Legacy  FamilySearch
 **GED files in other Github** | | |||**Repo**
-[xavier](https://github.com/lesfleursdelanuitdev/ligneous-gedcom/blob/main/testdata/xavier.ged) | 312 | 1894-| ||[ligneous-gedcom](https://github.com/lesfleursdelanuitdev/ligneous-gedcom)|Gramps
-[tree1](https://github.com/lesfleursdelanuitdev/ligneous-gedcom/blob/main/testdata/tree1.ged) | 1040 | | | |[ligneous-gedcom](https://github.com/lesfleursdelanuitdev/ligneous-gedcom)| webtrees
-[gracis](https://github.com/lesfleursdelanuitdev/ligneous-gedcom/blob/main/testdata/gracis.ged) | 580 | | ||[ligneous-gedcom](https://github.com/lesfleursdelanuitdev/ligneous-gedcom)|Gramps
-[jeffersondemo](https://github.com/neelsmith/GedCom.jl/blob/main/test/data/jeffersondemo.ged)| 24||||[gedcom.jl](https://github.com/neelsmith/GedCom.jl)|Ancestry.com Family Trees
+[xavier](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdataxavier.ged) | 312 | 1894-| ||[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)|Gramps
+[tree1](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdatatree1.ged) | 1040 | | | |[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)| webtrees
+[gracis](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdatagracis.ged) | 580 | | ||[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)|Gramps
+[jeffersondemo](https:github.comneelsmithGedCom.jlblobmaintestdatajeffersondemo.ged)| 24||||[gedcom.jl](https:github.comneelsmithGedCom.jl)|Ancestry.com Family Trees
 ## basic
 Imaginary families used for testing oceanic geolines and family relationships.
 
 ## Bronte
 This GED file provides a straightforward genealogical record of the Brontë family, renowned for producing acclaimed writers such as Charlotte, Emily, and Anne Brontë. You can expect to find information on Patrick Brontë, the family patriarch, as well as the siblings and possibly additional relatives, offering a concise view of the family structure that influenced some of English literature’s most celebrated works.
-https://en.wikipedia.org/wiki/Bront%C3%AB_family 
+https:en.wikipedia.orgwikiBront%C3%AB_family 
 
 ## input
 The GED file includes various locations in France, each accompanied by embedded GPS coordinates.
@@ -33,34 +37,38 @@ The GED file includes various locations in France, each accompanied by embedded 
 ## shakespeare
 ### William Shakespeare and family
 The Shakespeare GED file offers a comprehensive family tree of William Shakespeare, tracing his lineage back to his grandfather Richard Shakespeare. This genealogical record highlights key family members, including William’s father, John Shakespeare, and mother, Mary Arden, as well as siblings and descendants. Explore the ancestry and familial context of William Shakespeare, gaining insight into the environment that influenced his works and legacy.
-https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/william-shakespeares-family/
+https:www.shakespeare.org.ukexplore-shakespeareshakespediawilliam-shakespearewilliam-shakespeares-family
 
 
 ## pres2020
 ### US Presidents and their relatives
 The Pres2020 GED file presents a comprehensive compilation of U.S. presidents along with their ancestors and descendants, spanning from 1016 to 2018. This resource meticulously documents familial relationships, providing detailed information such as names, birth and death dates, and connections among relatives. In addition to tracing presidential lineages, the file highlights significant family milestones and may include notable events, locations, and migration patterns that shaped the history of the presidential families.
 
-https://www.ourfamtree.org/attach/List_of_US_Presidents_by_Genealogical_Relationship.pdf
-https://en.wikipedia.org/wiki/Ancestral_background_of_presidents_of_the_United_States
+https:www.ourfamtree.orgattachList_of_US_Presidents_by_Genealogical_Relationship.pdf
+https:en.wikipedia.orgwikiAncestral_background_of_presidents_of_the_United_States
 
 ## bourbon
-https://voyeaud.org/Genealogie.php
+https:voyeaud.orgGenealogie.php
 This includes photos as references to a few of the individuals
 
 ## kennedy
 ### Kennedy Family
 Kennedy family from 1727-1999 include their immigration 
 This includes photos as references to a few of the individuals
-https://en.wikipedia.org/wiki/Kennedy_family
+https:en.wikipedia.orgwikiKennedy_family
 
 ## royal92
 ### Kings and Queens of Europe
+
 The Kings and Queens of Europe including Great Britain.
-This lead to an interesting discovery on github [using Neo4j with Gedcom](https://github.com/neo4j-examples/discoveraurafree/blob/fc19b3ddfba1026ecab83d541216ba994bde6cde/week-18.adoc)
+
+AKA `famous family trees/royalty/Royal92-Famous+European+Royalty+Gedcom.ged`
+
+This lead to an interesting discovery on github [using Neo4j with Gedcom](https:github.comneo4j-examplesdiscoveraurafreeblobfc19b3ddfba1026ecab83d541216ba994bde6cdeweek-18.adoc)
 
 This file contains instances of 12 familial relations which were extracted from royal92.ged, a widely-distributed public domain GEDCOM file containing information on 3,010 individuals and 1,422 families of European royalty. The 12 relations are those used originally in (Hinton 1986).  The data parsed used to convert the code was modified from code distributed on with (Yang et al, 2017).
 
- Comment from original data source on http://www.daml.org/2001/01/gedcom/ 
+ Comment from original data source on http:www.daml.org200101gedcom 
  - _royal92.ged is a public domain GEDCOM file containing information on 3010 individuals and 1422 families of European royalty. royal92.daml was produced using ged2daml._
 
 #### From the header:
@@ -93,9 +101,9 @@ _Thanks for your interest.   Denis Reid_
 George Washington and descendants GED file
 This GEDCOM file contains a comprehensive genealogical record of George Washington, the first President of the United States, and his extended family. The file documents his ancestors, immediate family members, and descendants through detailed birth, marriage, and death records. This _had_ a lot of post death BAPL records.
 
-- https://www.archives.com/genealogy/president-washington.html
-- https://www.mountvernon.org/george-washington/family
-- https://en.wikipedia.org/wiki/Washington_family
+- https:www.archives.comgenealogypresident-washington.html
+- https:www.mountvernon.orggeorge-washingtonfamily
+- https:en.wikipedia.orgwikiWashington_family
 
 
 ## IvarKingOfDublin
@@ -104,7 +112,84 @@ This GEDCOM file, sourced from FamilySearch, offers a thorough genealogical reco
 
 This was pulled from FamilySearch on Dec 25, 2025 using Legend 10.0.  Manual adjustment of 5 year dates where required to bring the qaulity up.
 
-https://en.wikipedia.org/wiki/%C3%8Dmar
+https:en.wikipedia.orgwiki%C3%8Dmar
+
+## Queen
+### Queen of the World
+Queens along with King
+
+- Queen of England
+- Queen of the Britons
+- Gurandukht (Queen) of ABKHAZIA
+- Blanche d' ARTOIS Regent Queen of NAVARRE
+- Athalia of ISRAEL (9th Queen) of JUDAH
+- Azubah (Queen) of JUDEA
+- Queen of the SWEDES
+- Audur IVARSDOTTIR (Queen) of HOLMGARD
+- Danpi (Queen of DENMARK)
+- Henuttawy (I; Queen) of EGYPT (Hanttwy)
+- Baktwernel (Queen) of EGYPT
+- Nubkhas (Queen) of EGYPT
+- Mentuhotep (Queen) of EGYPT
+- Sancha Alfonsez (Queen) of LEON
+- Cleopatra Selene (Queen) of LIBYA
+- Cleopatra VII (Queen) of EGYPT
+- Libya (Queen) of EGYPT
+- Theoclea ZENOBIA (Queen) of PALMYRA
+- Cleopatra I of SYRIA (Queen of EGYPT) (al-SURIYAH)
+- Queen Amalaberge "Queen of Thurgia" Ostrogoths
+- Queen Frigida of Ossory
+- Emma `the Flower' of NORMANDY (Regent Queen of ENGLAND)
+- Canute `the Great' (King) of DENMARK & ENGLAND
+- Gyrid (Gunhilda Cyrid Gynrithe) (Queen) OLAFSDOTTIR
+- Anna Morgause (Queen) of GODODDIN
+- Boadicea (Queen) of ICENIANS
+#### Kings
+- Mellobaude de Toxandrie, King of Worms
+- Chilperich King Of Burgundy
+- Gundicus King Of Burgundy
+- Atanarich King Of The West Goths
+- Charibert I King of Franks
+- I King Of Germany Henry
+- King Of Italy Carloman
+- Donnchad KING OF MUNSTER
+- King Of Neustria & Burgundy Theuderic
+- Coel I King Cole
+- Alphonso II King of Aragon The Chaste Berenger
+- King Wihtgar of the Isles of Wright
+- King Maelaithgen of Ossory
+- Anmchad Mac Con Cherca King of Ossory
+- Faelan MacCrundmael King of Osraige (Ossory)
+- King Dunghal Macfearghal
+- King Daimine, Rí na Orgaill, mac Caipre Argait
+- Bernard I CAROLING King of Italy
+- Genebald King Of The Salic Franks
+- Dagobert II King Of The Salic Franks
+- Donnchad KING OF MUNSTER
+- King Of Neustria & Burgundy Theuderic
+- Owain Finddu ap Macsen King of Cernyw
+- David King of Israel
+- Solomon King of Israel
+- Jacob King of Goshen
+- Nahor King of Ur and Agade
+- Serug King of Ur and Agade
+- Reu King of Lagash
+- Peleg King of Babylon
+- Eber King of Babylon
+- Coel I King Cole
+- Ithon ap CAMBER King in BRITAIN
+- Sancho II Abarca GARCES King of PAMPLONA
+- Owain ap Gruffudd  King of Gwynedd, north Wales
+- Gruffudd ap Cynan  King of Gwynedd
+- WALTER I  Lord Giffard Earl Buckingham De BOLEBEC
+- Bridget PAKINGTON
+
+## Habsburg
+### Habsburg
+Germany 
+
+https://habsburg-dynasty.com/family-tree/
+
 
 ## WilliamLongsword
 ### William Longsword Count of Rouen
@@ -116,13 +201,13 @@ https://en.wikipedia.org/wiki/%C3%8Dmar
  - 29+ million lines
 
  From 860 to 2020 but not a complete record of all linage during that time.
-https://en.wikipedia.org/wiki/William_Longsword
+https:en.wikipedia.orgwikiWilliam_Longsword
 
  People included
 - Guillaume 'Longue-Épée' de Normandie comte de Rouen  Known As William Longsword Count of Rouen
-- William 'the Conqueror' /of Normandy/
-- [Richard I 'the Lionheart'](https://en.wikipedia.org/wiki/Richard_I_of_England)
-- Richard II Ferte /Fresnel/ [Richard the Good](https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy)
+- William 'the Conqueror' of Normandy
+- [Richard I 'the Lionheart'](https:en.wikipedia.orgwikiRichard_I_of_England)
+- Richard II Ferte Fresnel [Richard the Good](https:en.wikipedia.orgwikiRichard_II,_Duke_of_Normandy)
 - 681 'Sir' 
 - 446 'Lady'
 - 5 Kings & 1 Queen

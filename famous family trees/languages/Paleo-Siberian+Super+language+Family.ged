@@ -1,0 +1,121 @@
+0 HEAD
+1 SOUR FTM
+2 VERS Family Tree Maker (17.0.0.965)
+2 NAME Family Tree Maker for Windows
+2 CORP The Generations Network
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST FTM
+1 DATE 13 AUG 2008
+1 CHAR ANSI
+1 FILE C:\Users\socrtwo\Desktop\Paleo-Siberian Super language Family.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+0 @I00160@ INDI
+1 NAME /Alutor/
+1 SEX U
+1 FAMC @F00115@
+0 @I00158@ INDI
+1 NAME /Chukchi/
+1 SEX U
+1 FAMC @F00115@
+0 @I00115@ INDI
+1 NAME Chukotko-Kamchatkan Family //
+1 SEX M
+1 ALIA Luoravetlan
+1 FAMS @F00115@
+1 FAMC @F00109@
+0 @I00165@ INDI
+1 NAME /Chuvantsy/
+1 SEX U
+1 FAMC @F00135@
+0 @I00157@ INDI
+1 NAME Nivkh /Family/
+1 SEX U
+1 FAMS @F00227@
+1 FAMC @F00109@
+0 @I00162@ INDI
+1 NAME /Itelmen/
+1 SEX U
+1 ALIA Kamchadal
+1 FAMC @F00115@
+0 @I00161@ INDI
+1 NAME /Kerek/
+1 SEX U
+1 FAMC @F00115@
+0 @I00159@ INDI
+1 NAME /Koryak/
+1 SEX U
+1 FAMC @F00115@
+0 @I00166@ INDI
+1 NAME /Nivkh/
+1 SEX U
+1 FAMC @F00227@
+0 @I00109@ INDI
+1 NAME Paleosiberian Super Family //
+1 SEX M
+1 FAMS @F00109@
+0 @I00135@ INDI
+1 NAME Yukaghir Family //
+1 SEX M
+1 FAMS @F00135@
+1 FAMC @F00109@
+0 @I00164@ INDI
+1 NAME Indigirka Valley /Yukaghir/
+1 SEX U
+1 FAMC @F00135@
+0 @I00163@ INDI
+1 NAME Kolyma Valley /Yukaghir/
+1 SEX U
+1 FAMC @F00135@
+0 @I00478@ INDI
+1 NAME Northern /Yukaghir/
+1 SEX U
+1 ALIA Tundra Yukaghir, Odul, Tundra, Tundre
+1 FAMC @F00135@
+0 @I00479@ INDI
+1 NAME Southern /Yukaghir/
+1 SEX U
+1 ALIA Forest Yukaghir, Kolym, Kolyma, Odul
+1 FAMC @F00135@
+0 @F00115@ FAM
+1 HUSB @I00115@
+1 CHIL @I00158@
+2 _FREL Natural
+1 CHIL @I00159@
+2 _FREL Natural
+1 CHIL @I00160@
+2 _FREL Natural
+1 CHIL @I00161@
+2 _FREL Natural
+1 CHIL @I00162@
+2 _FREL Natural
+0 @F00227@ FAM
+1 HUSB @I00157@
+1 CHIL @I00166@
+2 _FREL Natural
+0 @F00109@ FAM
+1 HUSB @I00109@
+1 CHIL @I00115@
+2 _FREL Natural
+1 CHIL @I00135@
+2 _FREL Natural
+1 CHIL @I00157@
+2 _FREL Natural
+0 @F00135@ FAM
+1 HUSB @I00135@
+1 CHIL @I00163@
+2 _FREL Natural
+1 CHIL @I00164@
+2 _FREL Natural
+1 CHIL @I00165@
+2 _FREL Natural
+1 CHIL @I00478@
+2 _FREL Natural
+1 CHIL @I00479@
+2 _FREL Natural
+0 TRLR

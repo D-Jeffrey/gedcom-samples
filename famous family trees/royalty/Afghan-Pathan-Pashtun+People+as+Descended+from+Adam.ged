@@ -1,0 +1,1850 @@
+0 HEAD
+1 SOUR FTM
+2 VERS Family Tree Maker (17.0.0.965)
+2 NAME Family Tree Maker for Windows
+2 CORP The Generations Network
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST FTM
+1 DATE 01 SEP 2008
+1 CHAR ANSI
+1 FILE C:\Users\socrtwo\Documents\Family Tree Maker\Afgan People.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+0 @I00001@ INDI
+1 NAME /Afghana/
+2 SOUR @S00001@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Afghana
+1 SEX M
+1 ALIA Founder of the Afgan Taifeh
+1 FAMS @F00088@
+1 FAMC @F00001@
+0 @I00121@ INDI
+1 NAME Sherani /(Elder Son)/
+1 SEX M
+1 FAMC @F00087@
+0 @I00009@ INDI
+1 NAME Abraham (Abram) //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2046 B.C.
+1 DEAT
+2 PLAC Abt 1872 B.C.
+1 NOTE @N00001@
+1 FAMS @F00009@
+1 FAMS @F00010@
+1 FAMS @F00011@
+1 FAMC @F00008@
+0 @I00010@ INDI
+1 NAME Adam //
+1 SEX M
+1 BIRT
+2 PLAC Abt 4000 B.C., Garden of Eden, Mortal Creation
+1 DEAT
+2 PLAC Abt 3070 B.C., East of Eden
+1 NOTE @N00002@
+1 FAMS @F00012@
+0 @I00011@ INDI
+1 NAME Arphaxad //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2342
+1 DEAT
+2 DATE 1904
+2 PLAC B.C.
+1 FAMS @F00014@
+1 FAMC @F00013@
+0 @I00012@ INDI
+1 NAME Bethuel //
+1 SEX M
+1 FAMS @F00016@
+1 FAMC @F00015@
+0 @I00013@ INDI
+1 NAME Bilhah //
+1 SEX F
+1 FAMS @F00017@
+0 @I00014@ INDI
+1 NAME Cainan //
+1 SEX M
+1 BIRT
+2 PLAC Abt 3675, , B.C.
+1 DEAT
+2 PLAC 2765, , B.C.
+1 FAMS @F00019@
+1 FAMC @F00018@
+0 @I00015@ INDI
+1 NAME Eber //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2277
+1 DEAT
+2 DATE 1814
+2 PLAC B.C.
+1 FAMS @F00021@
+1 FAMC @F00020@
+0 @I00016@ INDI
+1 NAME Enoch //
+1 SEX M
+1 BIRT
+2 PLAC Abt 3378
+1 DEAT
+2 PLAC 3013, , B.C.
+1 FAMS @F00023@
+1 FAMC @F00022@
+0 @I00017@ INDI
+1 NAME Enos //
+1 SEX M
+1 BIRT
+2 PLAC Abt 3765, , B.C.
+1 DEAT
+2 PLAC 2860, , B.C.
+1 FAMS @F00018@
+1 FAMC @F00024@
+0 @I00018@ INDI
+1 NAME Eve //
+1 SEX F
+1 BIRT
+2 PLAC Abt 4000 B.C., Garden of Eden
+1 DEAT
+2 PLAC East of Eden
+1 NOTE @N00003@
+1 FAMS @F00012@
+0 @I00019@ INDI
+1 NAME Hagar //
+1 SEX F
+1 FAMS @F00010@
+0 @I00020@ INDI
+1 NAME Haran //
+1 SEX M
+1 FAMS @F00025@
+1 FAMC @F00008@
+0 @I00021@ INDI
+1 NAME Isaac //
+1 SEX M
+1 BIRT
+2 DATE ABT 1946
+2 PLAC B.C.
+1 DEAT
+2 DATE ABT 1766
+2 PLAC B.C.
+1 FAMS @F00026@
+1 FAMC @F00009@
+0 @I00022@ INDI
+1 NAME Jacob // Israel
+1 SEX M
+1 FAMS @F00017@
+1 FAMS @F00027@
+1 FAMS @F00028@
+1 FAMS @F00029@
+1 FAMC @F00026@
+0 @I00023@ INDI
+1 NAME Jared //
+1 SEX M
+1 CHR
+2 PLAC Abt 3540
+1 DEAT
+2 PLAC 2578, , B.C.
+1 FAMS @F00022@
+1 FAMC @F00030@
+0 @I00007@ INDI
+1 NAME Judah (Judas) //
+1 SEX M
+1 NAME /Judah/
+1 FAMS @F00006@
+1 FAMS @F00031@
+1 FAMS @F00032@
+1 FAMC @F00027@
+0 @I00025@ INDI
+1 NAME Keturah //
+1 SEX F
+1 FAMS @F00011@
+0 @I00026@ INDI
+1 NAME Laban //
+1 SEX M
+1 FAMS @F00033@
+1 FAMC @F00016@
+0 @I00027@ INDI
+1 NAME Lamech //
+1 SEX M
+1 BIRT
+2 PLAC Abt 3126
+1 DEAT
+2 PLAC 2349, , B.C.
+1 FAMS @F00035@
+1 FAMC @F00034@
+0 @I00028@ INDI
+1 NAME Leah //
+1 SEX F
+1 FAMS @F00027@
+1 FAMS @F00036@
+1 FAMC @F00033@
+0 @I00029@ INDI
+1 NAME Mahalaleel //
+1 SEX M
+1 BIRT
+2 PLAC Abt 3605, , B.C.
+1 DEAT
+2 PLAC 2710, , B.C.
+1 FAMS @F00030@
+1 FAMC @F00019@
+0 @I00030@ INDI
+1 NAME Methuselah //
+1 SEX M
+1 BIRT
+2 PLAC Abt 3313, , B.C.
+1 DEAT
+2 PLAC 2344, , B.C., B.C.
+1 FAMS @F00034@
+1 FAMC @F00023@
+0 @I00031@ INDI
+1 NAME Milcah //
+1 SEX F
+1 FAMS @F00015@
+1 FAMC @F00025@
+0 @I00032@ INDI
+1 NAME Nahor //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2152, , B.C.
+1 DEAT
+2 PLAC 2003, , B.C.
+1 FAMS @F00038@
+1 FAMC @F00037@
+0 @I00033@ INDI
+1 NAME Nahor //
+1 SEX M
+1 FAMS @F00015@
+1 FAMS @F00039@
+1 FAMC @F00008@
+0 @I00034@ INDI
+1 NAME Noah //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2944, , B.C.
+1 DEAT
+2 DATE 1994
+2 PLAC B.C.
+1 NOTE @N00004@
+1 FAMS @F00040@
+1 FAMC @F00035@
+0 @I00035@ INDI
+1 NAME Peleg //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2244 B.C.
+1 DEAT
+2 PLAC 2004 B.C.
+1 NOTE @N00005@
+1 FAMS @F00041@
+1 FAMC @F00021@
+0 @I00036@ INDI
+1 NAME Rachal //
+1 SEX F
+1 FAMS @F00028@
+1 FAMC @F00033@
+0 @I00037@ INDI
+1 NAME Rebekah //
+1 SEX F
+1 FAMS @F00026@
+1 FAMC @F00016@
+0 @I00038@ INDI
+1 NAME Reu //
+1 SEX M
+1 BIRT
+2 PLAC 2213, , B.C.
+1 DEAT
+2 DATE 1973
+2 PLAC B.C.
+1 FAMS @F00042@
+1 FAMC @F00041@
+0 @I00039@ INDI
+1 NAME Reumah //
+1 SEX F
+1 FAMS @F00039@
+0 @I00040@ INDI
+1 NAME Salah //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2307, , B.C.
+1 DEAT
+2 DATE 1874
+2 PLAC B.C.
+1 FAMS @F00020@
+1 FAMC @F00014@
+0 @I00041@ INDI
+1 NAME Sarai [Sarah] //
+1 SEX F
+1 FAMS @F00009@
+1 FAMC @F00025@
+0 @I00042@ INDI
+1 NAME Serug //
+1 SEX M
+1 BIRT
+2 PLAC 2181, , B.C.
+1 DEAT
+2 DATE 1951
+2 PLAC B.C.
+1 FAMS @F00037@
+1 FAMC @F00042@
+0 @I00043@ INDI
+1 NAME Seth //
+1 SEX M
+1 BIRT
+2 PLAC Abt 3870, , B.C.
+1 DEAT
+2 PLAC 2978, , B.C.
+1 FAMS @F00024@
+1 FAMC @F00012@
+0 @I00044@ INDI
+1 NAME Shem //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2442, , B.C.
+1 DEAT
+2 DATE 1842
+2 PLAC B.C.
+1 NOTE @N00006@
+1 FAMS @F00013@
+1 FAMC @F00040@
+0 @I00045@ INDI
+1 NAME Shuah //
+1 SEX F
+1 FAMS @F00031@
+0 @I00046@ INDI
+1 NAME Tamar //
+1 SEX F
+1 FAMS @F00032@
+0 @I00047@ INDI
+1 NAME Terah //
+1 SEX M
+1 BIRT
+2 PLAC Abt 2122, , B.C.
+1 DEAT
+2 DATE ABT 1917
+2 PLAC B.C.
+1 FAMS @F00008@
+1 FAMC @F00038@
+0 @I00048@ INDI
+1 NAME Titea //
+1 SEX F
+1 FAMS @F00040@
+0 @I00049@ INDI
+1 NAME Zalpah //
+1 SEX F
+1 FAMS @F00029@
+0 @I00064@ INDI
+1 NAME /Aaron/
+1 SEX M
+1 FAMS @F00056@
+1 FAMC @F00057@
+0 @I00130@ INDI
+1 NAME /Abdal/
+1 SEX M
+1 ALIA Dooranee
+1 FAMS @F00094@
+1 FAMC @F00089@
+0 @I00061@ INDI
+1 NAME /Abishua/
+1 SEX M
+1 FAMS @F00053@
+1 FAMC @F00054@
+0 @I00148@ INDI
+1 NAME /Afreed/
+1 SEX M
+1 FAMC @F00091@
+0 @I00068@ INDI
+1 NAME /Afridï/
+1 SEX M
+1 FAMC @F00060@
+0 @I00053@ INDI
+1 NAME /Ahimaaz/
+1 SEX M
+1 FAMS @F00045@
+1 FAMC @F00046@
+0 @I00050@ INDI
+1 NAME /Ahinoam/
+2 SOUR @S00001@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Ahinoam
+1 SEX F
+1 FAMS @F00002@
+1 FAMC @F00045@
+0 @I00055@ INDI
+1 NAME /Ahitub/
+1 SEX M
+1 FAMS @F00047@
+1 FAMC @F00048@
+0 @I00186@ INDI
+1 NAME /Ahmedzye/
+1 SEX M
+1 FAMC @F00101@
+0 @I00069@ INDI
+1 NAME /Ako/
+1 SEX M
+1 FAMS @F00062@
+1 FAMC @F00061@
+0 @I00070@ INDI
+1 NAME /Akozai/
+1 SEX M
+1 ALIA Swat Valley and Dïr
+1 FAMC @F00062@
+0 @I00192@ INDI
+1 NAME /Alekzye/
+1 SEX M
+1 FAMC @F00102@
+0 @I00181@ INDI
+1 NAME /Alikiouzye/
+1 SEX M
+1 FAMS @F00099@
+1 FAMC @F00096@
+0 @I00190@ INDI
+1 NAME /Alizye/
+1 SEX M
+1 FAMS @F00102@
+1 FAMC @F00100@
+0 @I00056@ INDI
+1 NAME /Amariah/
+1 SEX M
+1 FAMS @F00048@
+1 FAMC @F00049@
+0 @I00065@ INDI
+1 NAME /Amram/
+1 SEX M
+1 FAMS @F00057@
+1 FAMC @F00058@
+0 @I00128@ INDI
+1 NAME /Argoutch/
+1 SEX M
+1 FAMS @F00090@
+1 FAMC @F00088@
+0 @I00187@ INDI
+1 NAME /Avazye/
+1 SEX M
+1 FAMC @F00101@
+0 @I00170@ INDI
+1 NAME /Ayoobzye/
+1 SEX M
+1 FAMC @F00097@
+0 @I00151@ INDI
+1 NAME /Bab/
+1 SEX M
+1 FAMC @F00091@
+0 @I00124@ INDI
+1 NAME /Babarh/
+1 SEX M
+1 FAMC @F00087@
+0 @I00132@ INDI
+1 NAME /Baboor/
+1 SEX M
+1 FAMC @F00089@
+0 @I00168@ INDI
+1 NAME /Badoozye/
+1 SEX M
+1 FAMC @F00097@
+0 @I00196@ INDI
+1 NAME /Bahaderzye/
+1 SEX M
+1 FAMC @F00103@
+0 @I00174@ INDI
+1 NAME /Barukyze/
+1 SEX U
+1 FAMS @F00098@
+1 FAMC @F00096@
+0 @I00071@ INDI
+1 NAME /Basso/
+1 SEX F
+1 FAMS @F00063@
+0 @I00072@ INDI
+1 NAME /Batan/
+1 SEX M
+1 ALIA Bait Nika
+1 RESI
+2 PLAC Descendanst now live on the borders of Dera Ismail and Dera Ghãzi Khãn Districts in Baluchistãn
+1 FAMC @F00064@
+0 @I00161@ INDI
+1 NAME /Bede-kheelee/
+1 SEX M
+1 FAMC @F00093@
+0 @I00202@ INDI
+1 NAME /Bedelzye/
+1 SEX M
+1 FAMC @F00105@
+0 @I00127@ INDI
+1 NAME Tsera- /Bend/
+1 SEX M
+1 ALIA Suleimanees
+1 FAMS @F00089@
+1 FAMC @F00088@
+0 @I00152@ INDI
+1 NAME /Benguech/
+1 SEX M
+1 ALIA Shiahs
+1 FAMS @F00093@
+1 FAMC @F00091@
+0 @I00135@ INDI
+1 NAME /Beritch/
+1 SEX M
+1 FAMC @F00089@
+0 @I00158@ INDI
+1 NAME /Bertedjee/
+1 SEX M
+1 FAMC @F00093@
+0 @I00189@ INDI
+1 NAME /Biroozye/
+1 SEX M
+1 FAMC @F00101@
+0 @I00125@ INDI
+1 NAME /Brhits/
+1 SEX U
+1 FAMC @F00087@
+0 @I00060@ INDI
+1 NAME /Bukki/
+1 SEX M
+1 FAMS @F00052@
+1 FAMC @F00053@
+0 @I00073@ INDI
+1 NAME /Burhãn/
+1 SEX M
+1 FAMS @F00066@
+1 FAMC @F00065@
+0 @I00160@ INDI
+1 NAME /Chaloozanee/
+1 SEX M
+1 FAMC @F00093@
+0 @I00074@ INDI
+1 NAME /Chamkani/
+1 SEX M
+1 ALIA Safed Koh
+1 FAMC @F00067@
+0 @I00137@ INDI
+1 NAME /Chiran/
+1 SEX M
+1 FAMC @F00089@
+0 @I00075@ INDI
+1 NAME /Daudzai/
+1 SEX M
+1 RESI
+2 PLAC Peshãwar District
+1 FAMC @F00067@
+0 @I00197@ INDI
+1 NAME /Derzakee/
+1 SEX M
+1 FAMC @F00103@
+0 @I00076@ INDI
+1 NAME Sharaf /Din/
+1 SEX M
+1 ALIA Sharkhabun, Sharakhboon
+1 FAMS @F00087@
+1 FAMC @F00068@
+0 @I00159@ INDI
+1 NAME /Djajee/
+1 SEX M
+1 FAMC @F00093@
+0 @I00182@ INDI
+1 NAME /Djaloozye/
+1 SEX M
+1 FAMC @F00099@
+0 @I00140@ INDI
+1 NAME /Djumourian/
+1 SEX M
+1 FAMC @F00090@
+0 @I00063@ INDI
+1 NAME /Eleazar/
+1 SEX M
+1 FAMS @F00055@
+1 FAMC @F00056@
+0 @I00180@ INDI
+1 NAME /Etchekzye/
+1 SEX M
+1 FAMC @F00098@
+0 @I00212@ INDI
+1 NAME /Euderee./
+1 SEX M
+1 FAMC @F00108@
+0 @I00077@ INDI
+1 NAME /Farïdun/
+1 SEX M
+1 FAMS @F00060@
+1 FAMC @F00069@
+0 @I00004@ INDI
+1 NAME /Felegh/
+1 SEX M
+1 FAMS @F00003@
+1 FAMC @F00004@
+0 @I00203@ INDI
+1 NAME /Firoozye/
+1 SEX M
+1 FAMC @F00105@
+0 @I00078@ INDI
+1 NAME /Gag/
+1 SEX F
+1 FAMS @F00071@
+1 FAMC @F00070@
+0 @I00138@ INDI
+1 NAME /Ghildj/
+1 SEX M
+1 FAMS @F00106@
+1 FAMC @F00090@
+0 @I00079@ INDI
+1 NAME Ibrãhïm /Ghorai/
+1 SEX M
+1 ALIA Ghurai Khel
+1 FAMS @F00067@
+1 FAMC @F00072@
+0 @I00080@ INDI
+1 NAME /Ghurghust/
+1 SEX M
+1 ALIA Ghorghasht
+1 FAMS @F00065@
+1 FAMC @F00064@
+0 @I00081@ INDI
+1 NAME /Gigani/
+1 SEX M
+1 ALIA Doaba in Peshawar
+1 FAMC @F00071@
+0 @I00193@ INDI
+1 NAME /Guerazye/
+1 SEX M
+1 FAMC @F00102@
+0 @I00179@ INDI
+1 NAME /Gurjizye/
+1 SEX M
+1 FAMC @F00098@
+0 @I00191@ INDI
+1 NAME /Hassanzalee/
+1 SEX M
+1 FAMC @F00102@
+0 @I00167@ INDI
+1 NAME /Husr-enzalee/
+1 SEX M
+1 FAMC @F00097@
+0 @I00205@ INDI
+1 NAME /Ibrahim/
+1 SEX M
+1 FAMS @F00107@
+1 FAMC @F00106@
+0 @I00082@ INDI
+1 NAME /Ilias/
+1 SEX M
+1 FAMS @F00074@
+1 FAMC @F00073@
+0 @I00083@ INDI
+1 NAME /Iliãs/
+1 SEX M
+1 FAMS @F00075@
+1 FAMC @F00074@
+0 @I00084@ INDI
+1 NAME /Iliãszai/
+1 SEX M
+1 ALIA Buner
+1 RESI
+2 PLAC Buner
+1 FAMC @F00075@
+0 @I00178@ INDI
+1 NAME /Inguizye/
+1 SEX M
+1 FAMC @F00098@
+0 @I00085@ INDI
+1 NAME /Isa/
+1 SEX M
+1 FAMS @F00076@
+1 FAMC @F00061@
+0 @I00185@ INDI
+1 NAME /Isakzye/
+1 SEX M
+1 FAMS @F00101@
+1 FAMC @F00100@
+0 @I00086@ INDI
+1 NAME /Isazai/
+1 SEX M
+1 RESI
+2 PLAC Black Mountain and banks of Indus
+1 FAMC @F00076@
+0 @I00087@ INDI
+1 NAME /Jamdad/
+1 SEX M
+1 ALIA Zamand
+1 FAMS @F00078@
+1 FAMC @F00077@
+0 @I00002@ INDI
+1 NAME /Jeremiah/
+1 SEX M
+1 ALIA Irmia
+1 FAMS @F00001@
+1 FAMC @F00002@
+0 @I00088@ INDI
+1 NAME /Kais/
+1 SEX M
+1 ALIA Abdur Rashid, Qais Abdul Rashid Awlaad
+1 FAMS @F00064@
+0 @I00089@ INDI
+1 NAME /Kakai/
+1 SEX M
+1 FAMC @F00079@
+0 @I00090@ INDI
+1 NAME /Kalani/
+1 SEX M
+1 ALIA Kanran
+1 FAMS @F00079@
+1 FAMC @F00066@
+0 @I00169@ INDI
+1 NAME /Kalenderzye/
+1 SEX M
+1 FAMC @F00097@
+0 @I00091@ INDI
+1 NAME /Kand/
+1 SEX M
+1 FAMS @F00072@
+1 FAMC @F00077@
+0 @I00143@ INDI
+1 NAME /Kass/
+1 SEX M
+1 FAMC @F00090@
+0 @I00139@ INDI
+1 NAME /Kauker/
+1 SEX M
+1 FAMC @F00090@
+0 @I00092@ INDI
+1 NAME /Kausi/
+1 SEX M
+1 FAMS @F00080@
+1 FAMC @F00077@
+0 @I00093@ INDI
+1 NAME Utman /Kel/
+1 SEX M
+1 FAMC @F00081@
+0 @I00199@ INDI
+1 NAME Khaouganee /Kelan/
+1 SEX M
+1 FAMC @F00104@
+0 @I00129@ INDI
+1 NAME /Kerlen/
+1 SEX M
+1 FAMS @F00091@
+1 FAMC @F00088@
+0 @I00094@ INDI
+1 NAME /Khair-ud-dïn/
+1 SEX M
+1 ALIA Karshabun
+1 DEAT
+2 PLAC Kharashboon
+1 FAMS @F00077@
+1 FAMC @F00068@
+0 @I00095@ INDI
+1 NAME /Khakhai/
+1 SEX M
+1 ALIA Shakhai Khel
+1 FAMS @F00063@
+1 FAMS @F00082@
+1 FAMC @F00072@
+0 @I00210@ INDI
+1 NAME /Khaleelee/
+1 SEX M
+1 FAMC @F00108@
+0 @I00096@ INDI
+1 NAME /Khalïl/
+1 SEX M
+1 RESI
+2 PLAC Peshãwar District
+1 FAMC @F00067@
+0 @I00198@ INDI
+1 NAME /Khaouganee/
+1 SEX M
+1 FAMS @F00104@
+1 FAMC @F00100@
+0 @I00176@ INDI
+1 NAME /Kharzye/
+1 SEX M
+1 FAMC @F00098@
+0 @I00146@ INDI
+1 NAME /Khattack/
+1 SEX M
+1 FAMC @F00091@
+0 @I00097@ INDI
+1 NAME /Kheshgi/
+1 SEX M
+1 FAMC @F00078@
+0 @I00136@ INDI
+1 NAME /Khooguian/
+1 SEX M
+1 FAMC @F00089@
+0 @I00200@ INDI
+1 NAME Khaouganee /Kitchik/
+1 SEX M
+1 FAMC @F00104@
+0 @I00098@ INDI
+1 NAME /Kodai/
+1 SEX M
+1 FAMS @F00081@
+1 FAMC @F00079@
+0 @I00066@ INDI
+1 NAME /Kohath/
+1 SEX M
+1 FAMS @F00058@
+1 FAMC @F00059@
+0 @I00165@ INDI
+1 NAME /Koofelzye/
+1 SEX M
+1 ALIA Popolzye
+1 FAMS @F00097@
+1 FAMC @F00096@
+0 @I00120@ INDI
+1 NAME /Korlah/
+1 SEX M
+1 FAMC @F00064@
+0 @I00153@ INDI
+1 NAME /Lendeh-poor/
+1 SEX M
+1 FAMC @F00091@
+0 @I00067@ INDI
+1 NAME /Levi/
+1 SEX M
+1 FAMS @F00059@
+1 FAMC @F00027@
+0 @I00134@ INDI
+1 NAME /Lohooan/
+1 SEX M
+1 FAMC @F00089@
+0 @I00099@ INDI
+1 NAME /Lukãn/
+1 SEX M
+1 ALIA Khattack
+1 FAMC @F00081@
+0 @I00100@ INDI
+1 NAME /Mak/
+1 SEX M
+1 FAMS @F00070@
+1 FAMC @F00082@
+0 @I00201@ INDI
+1 NAME /Makoohee/
+1 SEX M
+1 FAMS @F00105@
+1 FAMC @F00100@
+0 @I00101@ INDI
+1 NAME /Mali/
+1 SEX M
+1 RESI
+2 PLAC Buner
+1 FAMS @F00083@
+1 FAMC @F00061@
+0 @I00102@ INDI
+1 NAME /Malizai/
+1 SEX M
+1 FAMC @F00083@
+0 @I00103@ INDI
+1 NAME /Manal/
+1 SEX M
+1 FAMS @F00069@
+1 FAMC @F00081@
+0 @I00104@ INDI
+1 NAME /Mand/
+1 SEX M
+1 ALIA Mundai
+1 FAMS @F00084@
+1 FAMC @F00082@
+0 @I00105@ INDI
+1 NAME /Mandaur/
+1 SEX M
+1 RESI
+2 PLAC Descendents live in the Mardan sudivision of Peshawar District and are known as Utmanzai, Usmanzai and Razzar
+1 FAMC @F00085@
+0 @I00106@ INDI
+1 NAME /Mangal/
+1 SEX M
+1 ALIA Kurram Khost
+1 FAMC @F00081@
+0 @I00107@ INDI
+1 NAME /Marjana/
+1 SEX M
+1 FAMS @F00082@
+0 @I00183@ INDI
+1 NAME /Melazye/
+1 SEX M
+1 FAMC @F00099@
+0 @I00052@ INDI
+1 NAME /Merab/
+2 SOUR @S00001@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Ahinoam
+1 SEX M
+1 FAMC @F00002@
+0 @I00057@ INDI
+1 NAME /Meraioth/
+1 SEX M
+1 FAMS @F00049@
+1 FAMC @F00050@
+0 @I00188@ INDI
+1 NAME /Merdinzye/
+1 SEX M
+1 FAMC @F00101@
+0 @I00126@ INDI
+1 NAME /Mianah/
+1 SEX M
+1 FAMC @F00087@
+0 @I00173@ INDI
+1 NAME /Miriam/
+1 SEX F
+1 FAMC @F00057@
+0 @I00175@ INDI
+1 NAME /Mohamedzye/
+1 SEX M
+1 FAMC @F00098@
+0 @I00108@ INDI
+1 NAME /Mohmand/
+1 SEX M
+1 FAMC @F00067@
+0 @I00172@ INDI
+1 NAME /Moses/
+1 SEX M
+1 FAMC @F00057@
+0 @I00109@ INDI
+1 NAME /Muhammadzai/
+1 SEX M
+1 ALIA Of the Peshawar District
+1 FAMC @F00078@
+0 @I00110@ INDI
+1 NAME /Musa/
+1 SEX M
+1 FAMS @F00073@
+1 FAMC @F00061@
+0 @I00145@ INDI
+1 NAME /Nassar/
+1 SEX M
+1 FAMC @F00090@
+0 @I00194@ INDI
+1 NAME /Noorzye/
+1 SEX M
+1 FAMS @F00103@
+1 FAMC @F00100@
+0 @I00111@ INDI
+1 NAME /Omar/
+1 SEX M
+1 FAMS @F00085@
+1 FAMC @F00084@
+0 @I00112@ INDI
+1 NAME /Orakzai/
+1 SEX M
+1 FAMC @F00081@
+0 @I00208@ INDI
+1 NAME /Outekee/
+1 SEX M
+1 FAMC @F00107@
+0 @I00142@ INDI
+1 NAME /Pen/
+1 SEX M
+1 FAMC @F00090@
+0 @I00062@ INDI
+1 NAME /Phinehas/
+1 SEX M
+1 FAMS @F00054@
+1 FAMC @F00055@
+0 @I00164@ INDI
+1 NAME /Pindjpa/
+1 SEX M
+1 FAMS @F00100@
+1 FAMC @F00095@
+0 @I00113@ INDI
+1 NAME /Sarban/
+1 SEX M
+1 ALIA Sarhban Baba
+1 FAMS @F00068@
+1 FAMC @F00064@
+0 @I00003@ INDI
+1 NAME /Saul/
+1 SEX M
+1 ALIA King Talut
+1 FAMS @F00002@
+1 FAMC @F00003@
+0 @I00204@ INDI
+1 NAME /Sebzalee/
+1 SEX M
+1 FAMC @F00105@
+0 @I00177@ INDI
+1 NAME /Sefretzye/
+1 SEX M
+1 FAMC @F00098@
+0 @I00184@ INDI
+1 NAME /Serkanee/
+1 SEX M
+1 FAMC @F00099@
+0 @I00114@ INDI
+1 NAME /Shinwãri/
+1 SEX M
+1 ALIA Tartarra Landi Kotal
+1 FAMC @F00080@
+0 @I00147@ INDI
+1 NAME /Soor/
+1 SEX M
+1 FAMC @F00091@
+0 @I00141@ INDI
+1 NAME /Storian/
+1 SEX M
+1 FAMC @F00090@
+0 @I00171@ INDI
+1 NAME /Suddozye/
+1 SEX M
+1 FAMC @F00097@
+0 @I00207@ INDI
+1 NAME /Suleiman-Kheilee/
+1 SEX M
+1 FAMC @F00107@
+0 @I00144@ INDI
+1 NAME /Takan/
+1 SEX M
+1 FAMC @F00090@
+0 @I00115@ INDI
+1 NAME /Tarik/
+1 SEX M
+1 FAMS @F00086@
+1 FAMC @F00063@
+0 @I00123@ INDI
+1 NAME /Tarin/
+1 SEX M
+1 FAMC @F00087@
+0 @I00116@ INDI
+1 NAME /Tarkilauri/
+1 SEX M
+1 ALIA Bajaur Tarkanri
+1 FAMC @F00086@
+0 @I00195@ INDI
+1 NAME /Tchalakzye/
+1 SEX M
+1 FAMC @F00103@
+0 @I00162@ INDI
+1 NAME /Teryn/
+1 SEX M
+1 FAMS @F00095@
+1 FAMC @F00094@
+0 @I00206@ INDI
+1 NAME /Thooran/
+1 SEX M
+1 FAMS @F00108@
+1 FAMC @F00106@
+0 @I00209@ INDI
+1 NAME /Tookhee/
+1 SEX M
+1 FAMC @F00107@
+0 @I00149@ INDI
+1 NAME /Toor/
+1 SEX M
+1 FAMC @F00091@
+0 @I00211@ INDI
+1 NAME /Toorkee/
+1 SEX M
+1 FAMC @F00108@
+0 @I00005@ INDI
+1 NAME /Ukhnaakh/
+1 SEX M
+1 FAMS @F00004@
+1 FAMC @F00005@
+0 @I00117@ INDI
+1 NAME /Uria/
+1 SEX M
+1 ALIA Badi
+1 RESI
+2 PLAC Extinct
+1 FAMC @F00061@
+0 @I00122@ INDI
+1 NAME /Urmarh/
+1 SEX M
+1 ALIA Omar ud Din
+1 FAMC @F00087@
+0 @I00006@ INDI
+1 NAME /Ushruah/
+1 SEX M
+1 FAMS @F00005@
+1 FAMC @F00006@
+0 @I00059@ INDI
+1 NAME /Uzzi/
+1 SEX M
+1 FAMS @F00051@
+1 FAMC @F00052@
+0 @I00133@ INDI
+1 NAME /Wear/
+1 SEX M
+1 FAMC @F00089@
+0 @I00131@ INDI
+1 NAME /Yoosoof/
+1 SEX M
+1 FAMC @F00089@
+0 @I00118@ INDI
+1 NAME /Ysuf/
+1 SEX M
+1 ALIA Yusufzai
+1 FAMS @F00061@
+1 FAMC @F00084@
+0 @I00054@ INDI
+1 NAME /Zadok/
+1 SEX M
+1 FAMS @F00046@
+1 FAMC @F00047@
+0 @I00150@ INDI
+1 NAME /Zaz/
+1 SEX M
+1 FAMS @F00092@
+1 FAMC @F00091@
+0 @I00058@ INDI
+1 NAME /Zerahiah/
+1 SEX M
+1 FAMS @F00050@
+1 FAMC @F00051@
+0 @I00119@ INDI
+1 NAME /Ziran/
+1 SEX M
+1 ALIA Ningrahar
+1 FAMC @F00067@
+0 @I00163@ INDI
+1 NAME /Zirek/
+1 SEX M
+1 FAMS @F00096@
+1 FAMC @F00095@
+0 @F00001@ FAM
+1 HUSB @I00002@
+1 CHIL @I00001@
+2 _FREL Natural
+0 @F00003@ FAM
+1 HUSB @I00004@
+1 CHIL @I00003@
+2 _FREL Natural
+0 @F00004@ FAM
+1 HUSB @I00005@
+1 CHIL @I00004@
+2 _FREL Natural
+0 @F00005@ FAM
+1 HUSB @I00006@
+1 CHIL @I00005@
+2 _FREL Natural
+0 @F00006@ FAM
+1 HUSB @I00007@
+1 CHIL @I00006@
+2 _FREL Natural
+0 @F00008@ FAM
+1 HUSB @I00047@
+1 CHIL @I00009@
+2 _FREL Natural
+1 CHIL @I00020@
+2 _FREL Natural
+1 CHIL @I00033@
+2 _FREL Natural
+0 @F00013@ FAM
+1 HUSB @I00044@
+1 CHIL @I00011@
+2 _FREL Natural
+0 @F00014@ FAM
+1 HUSB @I00011@
+1 CHIL @I00040@
+2 _FREL Natural
+0 @F00016@ FAM
+1 HUSB @I00012@
+1 CHIL @I00037@
+2 _FREL Natural
+1 CHIL @I00026@
+2 _FREL Natural
+0 @F00018@ FAM
+1 HUSB @I00017@
+1 CHIL @I00014@
+2 _FREL Natural
+0 @F00019@ FAM
+1 HUSB @I00014@
+1 CHIL @I00029@
+2 _FREL Natural
+0 @F00020@ FAM
+1 HUSB @I00040@
+1 CHIL @I00015@
+2 _FREL Natural
+0 @F00021@ FAM
+1 HUSB @I00015@
+1 CHIL @I00035@
+2 _FREL Natural
+0 @F00022@ FAM
+1 HUSB @I00023@
+1 CHIL @I00016@
+2 _FREL Natural
+0 @F00023@ FAM
+1 HUSB @I00016@
+1 CHIL @I00030@
+2 _FREL Natural
+0 @F00024@ FAM
+1 HUSB @I00043@
+1 CHIL @I00017@
+2 _FREL Natural
+0 @F00025@ FAM
+1 HUSB @I00020@
+1 CHIL @I00041@
+2 _FREL Natural
+1 CHIL @I00031@
+2 _FREL Natural
+0 @F00030@ FAM
+1 HUSB @I00029@
+1 CHIL @I00023@
+2 _FREL Natural
+0 @F00033@ FAM
+1 HUSB @I00026@
+1 CHIL @I00028@
+2 _FREL Natural
+1 CHIL @I00036@
+2 _FREL Natural
+0 @F00034@ FAM
+1 HUSB @I00030@
+1 CHIL @I00027@
+2 _FREL Natural
+0 @F00035@ FAM
+1 HUSB @I00027@
+1 CHIL @I00034@
+2 _FREL Natural
+0 @F00037@ FAM
+1 HUSB @I00042@
+1 CHIL @I00032@
+2 _FREL Natural
+0 @F00038@ FAM
+1 HUSB @I00032@
+1 CHIL @I00047@
+2 _FREL Natural
+0 @F00041@ FAM
+1 HUSB @I00035@
+1 CHIL @I00038@
+2 _FREL Natural
+0 @F00042@ FAM
+1 HUSB @I00038@
+1 CHIL @I00042@
+2 _FREL Natural
+0 @F00045@ FAM
+1 HUSB @I00053@
+1 CHIL @I00050@
+2 _FREL Natural
+0 @F00046@ FAM
+1 HUSB @I00054@
+1 CHIL @I00053@
+2 _FREL Natural
+0 @F00047@ FAM
+1 HUSB @I00055@
+1 CHIL @I00054@
+2 _FREL Natural
+0 @F00048@ FAM
+1 HUSB @I00056@
+1 CHIL @I00055@
+2 _FREL Natural
+0 @F00049@ FAM
+1 HUSB @I00057@
+1 CHIL @I00056@
+2 _FREL Natural
+0 @F00050@ FAM
+1 HUSB @I00058@
+1 CHIL @I00057@
+2 _FREL Natural
+0 @F00051@ FAM
+1 HUSB @I00059@
+1 CHIL @I00058@
+2 _FREL Natural
+0 @F00052@ FAM
+1 HUSB @I00060@
+1 CHIL @I00059@
+2 _FREL Natural
+0 @F00053@ FAM
+1 HUSB @I00061@
+1 CHIL @I00060@
+2 _FREL Natural
+0 @F00054@ FAM
+1 HUSB @I00062@
+1 CHIL @I00061@
+2 _FREL Natural
+0 @F00055@ FAM
+1 HUSB @I00063@
+1 CHIL @I00062@
+2 _FREL Natural
+0 @F00056@ FAM
+1 HUSB @I00064@
+1 CHIL @I00063@
+2 _FREL Natural
+0 @F00057@ FAM
+1 HUSB @I00065@
+1 CHIL @I00064@
+2 _FREL Natural
+1 CHIL @I00172@
+2 _FREL Natural
+1 CHIL @I00173@
+2 _FREL Natural
+0 @F00058@ FAM
+1 HUSB @I00066@
+1 CHIL @I00065@
+2 _FREL Natural
+0 @F00059@ FAM
+1 HUSB @I00067@
+1 CHIL @I00066@
+2 _FREL Natural
+0 @F00060@ FAM
+1 HUSB @I00077@
+1 CHIL @I00068@
+2 _FREL Natural
+0 @F00061@ FAM
+1 HUSB @I00118@
+1 CHIL @I00069@
+2 _FREL Natural
+1 CHIL @I00085@
+2 _FREL Natural
+1 CHIL @I00101@
+2 _FREL Natural
+1 CHIL @I00110@
+2 _FREL Natural
+1 CHIL @I00117@
+2 _FREL Natural
+0 @F00062@ FAM
+1 HUSB @I00069@
+1 CHIL @I00070@
+2 _FREL Natural
+0 @F00064@ FAM
+1 HUSB @I00088@
+1 CHIL @I00072@
+2 _FREL Natural
+1 CHIL @I00080@
+2 _FREL Natural
+1 CHIL @I00113@
+2 _FREL Natural
+1 CHIL @I00120@
+2 _FREL Natural
+0 @F00065@ FAM
+1 HUSB @I00080@
+1 CHIL @I00073@
+2 _FREL Natural
+0 @F00066@ FAM
+1 HUSB @I00073@
+1 CHIL @I00090@
+2 _FREL Natural
+0 @F00067@ FAM
+1 HUSB @I00079@
+1 CHIL @I00074@
+2 _FREL Natural
+1 CHIL @I00075@
+2 _FREL Natural
+1 CHIL @I00096@
+2 _FREL Natural
+1 CHIL @I00108@
+2 _FREL Natural
+1 CHIL @I00119@
+2 _FREL Natural
+0 @F00068@ FAM
+1 HUSB @I00113@
+1 CHIL @I00076@
+2 _FREL Natural
+1 CHIL @I00094@
+2 _FREL Natural
+0 @F00069@ FAM
+1 HUSB @I00103@
+1 CHIL @I00077@
+2 _FREL Natural
+0 @F00070@ FAM
+1 HUSB @I00100@
+1 CHIL @I00078@
+2 _FREL Natural
+0 @F00072@ FAM
+1 HUSB @I00091@
+1 CHIL @I00079@
+2 _FREL Natural
+1 CHIL @I00095@
+2 _FREL Natural
+0 @F00073@ FAM
+1 HUSB @I00110@
+1 CHIL @I00082@
+2 _FREL Natural
+0 @F00074@ FAM
+1 HUSB @I00082@
+1 CHIL @I00083@
+2 _FREL Natural
+0 @F00075@ FAM
+1 HUSB @I00083@
+1 CHIL @I00084@
+2 _FREL Natural
+0 @F00076@ FAM
+1 HUSB @I00085@
+1 CHIL @I00086@
+2 _FREL Natural
+0 @F00077@ FAM
+1 HUSB @I00094@
+1 CHIL @I00087@
+2 _FREL Natural
+1 CHIL @I00091@
+2 _FREL Natural
+1 CHIL @I00092@
+2 _FREL Natural
+0 @F00078@ FAM
+1 HUSB @I00087@
+1 CHIL @I00109@
+2 _FREL Natural
+1 CHIL @I00097@
+2 _FREL Natural
+0 @F00079@ FAM
+1 HUSB @I00090@
+1 CHIL @I00089@
+2 _FREL Natural
+1 CHIL @I00098@
+2 _FREL Natural
+0 @F00080@ FAM
+1 HUSB @I00092@
+1 CHIL @I00114@
+2 _FREL Natural
+0 @F00081@ FAM
+1 HUSB @I00098@
+1 CHIL @I00093@
+2 _FREL Natural
+1 CHIL @I00099@
+2 _FREL Natural
+1 CHIL @I00103@
+2 _FREL Natural
+1 CHIL @I00106@
+2 _FREL Natural
+1 CHIL @I00112@
+2 _FREL Natural
+0 @F00083@ FAM
+1 HUSB @I00101@
+1 CHIL @I00102@
+2 _FREL Natural
+0 @F00084@ FAM
+1 HUSB @I00104@
+1 CHIL @I00118@
+2 _FREL Natural
+1 CHIL @I00111@
+2 _FREL Natural
+0 @F00085@ FAM
+1 HUSB @I00111@
+1 CHIL @I00105@
+2 _FREL Natural
+0 @F00086@ FAM
+1 HUSB @I00115@
+1 CHIL @I00116@
+2 _FREL Natural
+0 @F00087@ FAM
+1 HUSB @I00076@
+1 CHIL @I00121@
+2 _FREL Natural
+1 CHIL @I00122@
+2 _FREL Natural
+1 CHIL @I00123@
+2 _FREL Natural
+1 CHIL @I00124@
+2 _FREL Natural
+1 CHIL @I00125@
+2 _FREL Natural
+1 CHIL @I00126@
+2 _FREL Natural
+0 @F00088@ FAM
+1 HUSB @I00001@
+1 CHIL @I00127@
+2 _FREL Natural
+1 CHIL @I00128@
+2 _FREL Natural
+1 CHIL @I00129@
+2 _FREL Natural
+0 @F00089@ FAM
+1 HUSB @I00127@
+1 CHIL @I00130@
+2 _FREL Natural
+1 CHIL @I00131@
+2 _FREL Natural
+1 CHIL @I00132@
+2 _FREL Natural
+1 CHIL @I00133@
+2 _FREL Natural
+1 CHIL @I00134@
+2 _FREL Natural
+1 CHIL @I00135@
+2 _FREL Natural
+1 CHIL @I00136@
+2 _FREL Natural
+1 CHIL @I00137@
+2 _FREL Natural
+0 @F00090@ FAM
+1 HUSB @I00128@
+1 CHIL @I00138@
+2 _FREL Natural
+1 CHIL @I00139@
+2 _FREL Natural
+1 CHIL @I00140@
+2 _FREL Natural
+1 CHIL @I00141@
+2 _FREL Natural
+1 CHIL @I00142@
+2 _FREL Natural
+1 CHIL @I00143@
+2 _FREL Natural
+1 CHIL @I00144@
+2 _FREL Natural
+1 CHIL @I00145@
+2 _FREL Natural
+0 @F00091@ FAM
+1 HUSB @I00129@
+1 CHIL @I00146@
+2 _FREL Natural
+1 CHIL @I00147@
+2 _FREL Natural
+1 CHIL @I00148@
+2 _FREL Natural
+1 CHIL @I00149@
+2 _FREL Natural
+1 CHIL @I00150@
+2 _FREL Natural
+1 CHIL @I00151@
+2 _FREL Natural
+1 CHIL @I00152@
+2 _FREL Natural
+1 CHIL @I00153@
+2 _FREL Natural
+0 @F00092@ FAM
+1 HUSB @I00150@
+0 @F00093@ FAM
+1 HUSB @I00152@
+1 CHIL @I00158@
+2 _FREL Natural
+1 CHIL @I00159@
+2 _FREL Natural
+1 CHIL @I00160@
+2 _FREL Natural
+1 CHIL @I00161@
+2 _FREL Natural
+0 @F00094@ FAM
+1 HUSB @I00130@
+1 CHIL @I00162@
+2 _FREL Natural
+0 @F00095@ FAM
+1 HUSB @I00162@
+1 CHIL @I00163@
+2 _FREL Natural
+1 CHIL @I00164@
+2 _FREL Natural
+0 @F00096@ FAM
+1 HUSB @I00163@
+1 CHIL @I00165@
+2 _FREL Natural
+1 CHIL @I00174@
+2 _FREL Natural
+1 CHIL @I00181@
+2 _FREL Natural
+0 @F00097@ FAM
+1 HUSB @I00165@
+1 CHIL @I00167@
+2 _FREL Natural
+1 CHIL @I00168@
+2 _FREL Natural
+1 CHIL @I00169@
+2 _FREL Natural
+1 CHIL @I00170@
+2 _FREL Natural
+1 CHIL @I00171@
+2 _FREL Natural
+0 @F00098@ FAM
+1 HUSB @I00174@
+1 CHIL @I00175@
+2 _FREL Natural
+1 CHIL @I00176@
+2 _FREL Natural
+1 CHIL @I00177@
+2 _FREL Natural
+1 CHIL @I00178@
+2 _FREL Natural
+1 CHIL @I00179@
+2 _FREL Natural
+1 CHIL @I00180@
+2 _FREL Natural
+0 @F00099@ FAM
+1 HUSB @I00181@
+1 CHIL @I00182@
+2 _FREL Natural
+1 CHIL @I00183@
+2 _FREL Natural
+1 CHIL @I00184@
+2 _FREL Natural
+0 @F00100@ FAM
+1 HUSB @I00164@
+1 CHIL @I00185@
+2 _FREL Natural
+1 CHIL @I00190@
+2 _FREL Natural
+1 CHIL @I00194@
+2 _FREL Natural
+1 CHIL @I00198@
+2 _FREL Natural
+1 CHIL @I00201@
+2 _FREL Natural
+0 @F00101@ FAM
+1 HUSB @I00185@
+1 CHIL @I00186@
+2 _FREL Natural
+1 CHIL @I00187@
+2 _FREL Natural
+1 CHIL @I00188@
+2 _FREL Natural
+1 CHIL @I00189@
+2 _FREL Natural
+0 @F00102@ FAM
+1 HUSB @I00190@
+1 CHIL @I00191@
+2 _FREL Natural
+1 CHIL @I00192@
+2 _FREL Natural
+1 CHIL @I00193@
+2 _FREL Natural
+0 @F00103@ FAM
+1 HUSB @I00194@
+1 CHIL @I00195@
+2 _FREL Natural
+1 CHIL @I00196@
+2 _FREL Natural
+1 CHIL @I00197@
+2 _FREL Natural
+0 @F00104@ FAM
+1 HUSB @I00198@
+1 CHIL @I00199@
+2 _FREL Natural
+1 CHIL @I00200@
+2 _FREL Natural
+0 @F00105@ FAM
+1 HUSB @I00201@
+1 CHIL @I00202@
+2 _FREL Natural
+1 CHIL @I00203@
+2 _FREL Natural
+1 CHIL @I00204@
+2 _FREL Natural
+0 @F00106@ FAM
+1 HUSB @I00138@
+1 CHIL @I00205@
+2 _FREL Natural
+1 CHIL @I00206@
+2 _FREL Natural
+0 @F00107@ FAM
+1 HUSB @I00205@
+1 CHIL @I00207@
+2 _FREL Natural
+1 CHIL @I00208@
+2 _FREL Natural
+1 CHIL @I00209@
+2 _FREL Natural
+0 @F00108@ FAM
+1 HUSB @I00206@
+1 CHIL @I00210@
+2 _FREL Natural
+1 CHIL @I00211@
+2 _FREL Natural
+1 CHIL @I00212@
+2 _FREL Natural
+0 @F00017@ FAM
+1 HUSB @I00022@
+1 WIFE @I00013@
+0 @F00012@ FAM
+1 HUSB @I00010@
+1 WIFE @I00018@
+1 CHIL @I00043@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00010@ FAM
+1 HUSB @I00009@
+1 WIFE @I00019@
+0 @F00011@ FAM
+1 HUSB @I00009@
+1 WIFE @I00025@
+0 @F00027@ FAM
+1 HUSB @I00022@
+1 WIFE @I00028@
+1 CHIL @I00007@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00067@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00036@ FAM
+1 WIFE @I00028@
+0 @F00015@ FAM
+1 HUSB @I00033@
+1 WIFE @I00031@
+1 CHIL @I00012@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00028@ FAM
+1 HUSB @I00022@
+1 WIFE @I00036@
+0 @F00026@ FAM
+1 HUSB @I00021@
+1 WIFE @I00037@
+1 CHIL @I00022@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00039@ FAM
+1 HUSB @I00033@
+1 WIFE @I00039@
+0 @F00009@ FAM
+1 HUSB @I00009@
+1 WIFE @I00041@
+1 CHIL @I00021@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00031@ FAM
+1 HUSB @I00007@
+1 WIFE @I00045@
+0 @F00032@ FAM
+1 HUSB @I00007@
+1 WIFE @I00046@
+0 @F00040@ FAM
+1 HUSB @I00034@
+1 WIFE @I00048@
+1 CHIL @I00044@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00029@ FAM
+1 HUSB @I00022@
+1 WIFE @I00049@
+0 @F00002@ FAM
+1 HUSB @I00003@
+1 WIFE @I00050@
+1 CHIL @I00002@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00052@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00063@ FAM
+1 HUSB @I00095@
+1 WIFE @I00071@
+1 CHIL @I00115@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00071@ FAM
+1 WIFE @I00078@
+1 CHIL @I00081@
+2 _MREL Natural
+0 @F00082@ FAM
+1 HUSB @I00095@
+1 WIFE @I00107@
+1 CHIL @I00100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00104@
+2 _FREL Natural
+2 _MREL Natural
+0 @N00001@ NOTE
+1 CONC Ancestry and Progeny of Captain James Blount - Inmigrant. by Robert Ff
+1 CONC afman p.
+1 CONT E- 15.
+0 @N00002@ NOTE
+1 CONC Adam is the Father [ and Patriach ] of all of the human family. He ist
+1 CONC he
+1 CONT ancestor of all persons who ever lived or will liveon this earth.
+1 CONT
+1 CONT In the pre-existenct life, he was known as Michael the Archangle. Whe
+1 CONC n Lucifer
+1 CONT and one-third of the host of heaven rebeled againest the Father, Micha
+1 CONC el led
+1 CONT the righteous forces in the war in heaven. He participated with Chris
+1 CONC t in the
+1 CONT creation of the earth.
+1 CONT
+1 CONT Adam was placed in the Garden of Eden with a body created in the imag
+1 CONC e of God.
+1 CONT When  Eve and  Adam  fell from grace in the Garden, their bodies becam
+1 CONC e mortal
+1 CONT and subject to death. The fall of Adam, by introducing sin and death i
+1 CONC nto the
+1 CONT world, made necessary the mission of a Savior to overcome both sin an
+1 CONC d death.
+1 CONT
+1 CONT [The aggregate of the scriptures certifies that his transgression in t
+1 CONC he Garden
+1 CONT of Eden, although designated as a "fall," was necessary to the advance
+1 CONC ment and
+1 CONT spiritual progress of human race on the earth (Adam fell that
+1 CONT
+1 CONT men might be; and men are, that they might have joy.- 2 Nephi 2:25).- 
+1 CONC Bible
+1 CONT Dictionary p 604]. [children]
+1 CONT
+1 CONT One of the greatest spiritual gathering of all the ages took place int
+1 CONC he
+1 CONT Valley of Adam-ondi-Ahman shortly before the death of Adam some more t
+1 CONC hen five
+1 CONT thousand years ago. The Lord has revealed:
+1 CONT
+1 CONT Three years previous to the death of Adam, he Called Seth, Enos,
+1 CONT
+1 CONT Cainan, Mahalaleel, Jared, who were all high priests, with the residu
+1 CONC e of his
+1 CONT posterity who were righteous, into   the valley of Adam-ondi-Ahman, an
+1 CONC d there
+1 CONT bestowed upon them his last blessing. And the Lord appeared unto them
+1 CONC , and they
+1 CONT rose up and blessed Adam, and they  called him Michael, the prince, th
+1 CONC e
+1 CONT archangel.
+1 CONT
+1 CONT And the Lord administered comfort unto Adam, and said unto him: I hav
+1 CONC e set
+1 CONT thee to be at the head; a multitude of nations shall come of thee, tho
+1 CONC u art  a
+1 CONT prince over them forever.
+1 CONT
+1 CONT And Adam stood up in the midst of the congergation; and, notwithstandi
+1 CONC ng  he
+1 CONT was bowed down with age, being full of the Holy Ghost, perdicted whats
+1 CONC oever
+1 CONT should befall his posterity unto the lastest generation. (D&C 107:53-5
+1 CONC 7)
+1 CONT Shortly before the Second Coming of Christ, Adam will again visit thee
+1 CONC arth and
+1 CONT preside over an important  council at Adam-ondi-Ahman. There he will r
+1 CONC eceive an
+1 CONT accounting from those who have held the keys of authority in the vario
+1 CONC us
+1 CONT dispensations. Christ will then come to the gathering and receive bac
+1 CONC k the
+1 CONT keys, thus taking one of the final steps leading to His coming in glor
+1 CONC y and
+1 CONT personal reign upon the earth.
+0 @N00003@ NOTE
+1 CONC Eve Is the Mother of all the living human family, Companion of Adam; s
+1 CONC he and
+1 CONT Adam are the nobel parents of all the people of this Earth.
+0 @N00004@ NOTE
+1 CONC Noah and his Sons (Japheth, Shem, and Ham) and their wives, were save
+1 CONC d from a
+1 CONT flood that covered the earth, because they followed the commandments o
+1 CONC f God.
+1 CONT
+1 CONT He is also known as the angle Gabriel.
+1 CONT
+1 CONT Noah is the Patriach of all person that has lived in the earth since h
+1 CONC is day.
+0 @N00005@ NOTE
+1 CONC Noah divided the the Earth in Peleg time. The people of ther earth wou
+1 CONC ldn't
+1 CONT disperse and started to build the Tower of Bable; working on it for 5
+1 CONC 3 years.
+1 CONT The people despersed after tha Lord confounded their language, which s
+1 CONC topped
+1 CONT the work on the tower (Genesis 11:1-9).
+0 @N00006@ NOTE
+1 CONC He received a special blessing from his father, Noah, "that he would b
+1 CONC e the
+1 CONT Progenitor of the Messiah". Also referred to as "The Great High Priest
+1 CONC ".
+1 CONT
+1 CONT Shem was the Father of Shemitic(Semitic) Race: Arabs, Hebrews,Phoenici
+1 CONC ans,
+1 CONT Syrians, Babylonians, and Assyrians.  He was given Aisia within the Eu
+1 CONC phrates
+1 CONT to the Indian Ocean, by his father Noah.
+0 @S00001@ SOUR
+1 AUTH Ancestry.com
+1 TITL OneWorldTree
+1 PUBL Name: The Generations Network, Inc.; Location: Provo, UT, USA;
+1 REPO @R00001@
+0 @R00001@ REPO
+1 NAME www.ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 TRLR

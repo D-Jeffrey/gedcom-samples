@@ -1,86 +1,86 @@
-continent,no_result,timestamp,longitude,country_code,address,country_name,found_country,alt_addr,used,latitude
-North America,,,-71.0281505,US,"East Boston, , Suffolk County, MA, USA",USA,True,,0,42.3718183
-North America,,,-70.2983549,US,"Hyannis Port, , Barnstable County, MA, USA",USA,True,,0,41.6334445
-North America,,,-71.1187829,US,"Brookline, , Norfolk County, MA, USA",USA,True,,0,42.332918
-North America,,,-70.2823287,US,"Hyannis, , , MA, USA",USA,True,,0,41.6535345
-North America,,,-70.9078243,US,"Hull, , Plymouth County, MA, USA",USA,True,,0,42.3020436
-Europe,,,1.0465716,GB,"the air, , Suffolk, Angleterre, England",England,True,,0,52.2410014
-North America,,,-96.7968559,US,"Dallas, , Dallas County, TX, USA",USA,True,,0,32.7762719
-North America,,,-77.0841585,US,"Arlington, 22209, Arlington County, VA, USA",USA,True,,0,38.8903961
-North America,,,-88.8073273,US,"Jefferson, , Jefferson County, WI, USA",USA,True,,0,43.0055594
-Europe,,,4.6739282,FR,"Saint-Bauzile, , , Ardeche, France",France,True,,0,44.6762244
-Europe,,,-1.4262989,GB,"Chatsworth, , Derbyshire, Angleterre, England",England,True,,0,52.9571375
-North America,,,-77.0365427,US,"Washington, , , DC, USA",USA,True,,0,38.8950368
-North America,,,-76.9959168,US,"Westminster, , Carroll County, MD, USA",USA,True,,0,39.5751717
-North America,,,-74.0060152,US,"New York City, , , NY, USA",USA,True,,0,40.7127281
-Europe,,,-0.1440551,GB,"London, , , , England",England,True,,0,51.4893335
-North America,,,-118.242766,US,"Los Angeles, , Los Angeles County, CA, USA",USA,True,,0,34.0536909
-North America,,,-73.90639,US,"Riverdale, , , NY, USA",USA,True,,0,40.90056
-North America,,,-118.491227,US,"Santa Monica, , Los Angeles County, CA, USA",USA,True,,0,34.0194704
-North America,,,-76.7089181,US,"Baltimore, , Baltimore County, MD, USA",USA,True,,0,39.252377
-,,,126.9782914,NONE,"Seoul, , , , Korea",,True,,0,37.5666791
-North America,,,-79.9900861,US,"Pittsburgh, , Allegheny County, PA, USA",USA,True,,0,40.4416941
-North America,,,-87.6244212,US,"Chicago, , Cook County, IL, USA",USA,True,,0,41.8755616
-North America,,,-73.9497211,US,"Brooklyn, , Kings County, NY, USA",USA,True,,0,40.6526006
-Asia,,,107.9650855,VN,", , , , Vietnam",Viet Nam,True,,0,15.9266657
-North America,,,-73.8320784,US,"Bronxville, , Westchester County, NY, USA",USA,True,,0,40.9381544
-North America,,,-73.0994297,US,"Southampton, , Long Island, NY, USA",USA,True,,0,40.8514971
-North America,,,-70.6208138,US,"Martha's Vineyard, , , MA, USA",USA,True,,0,41.3920454
-North America,,,-70.6147519,US,"Falmouth, , Barnstable County, MA, USA",USA,True,,0,41.5514979
-North America,,,-77.185843,US,"McLean, , Fairfax County, VA, USA",USA,True,,0,38.9366853
-North America,,,-84.509413,US,"Greenwich, , Fairfield County, CT, USA",USA,True,,0,39.3057662
-North America,,,-80.0361517,US,"Palm Beach, , Palm Beach County, FL, USA",USA,True,,0,26.7056172
-North America,,,-75.8449946,US,", , , NY, USA",USA,True,,0,43.1561681
-North America,,,-105.938456,US,"Santa Fe, , Santa Fe County, NM, USA",USA,True,,0,35.6876096
-North America,,,-72.9401956,US,"New Haven, , New Haven County, CT, USA",USA,True,,0,41.317081
-North America,,,-71.3031132,US,"Weston, , Middlesex County, MA, USA",USA,True,,0,42.3667625
-North America,,,-75.3173407,US,"Bryn Mawr, , Montgomery County, PA, USA",USA,True,,0,40.0238245
-North America,,,-86.4872149,US,"Bedford, , Lawrence County, IN, USA",USA,True,,0,38.8611619
-North America,,,-73.7270761,US,"Mt. Kisco, , Westchester County, NY, USA",USA,True,,0,41.2042616
-North America,,,-86.7345219,US,"La Porte, , La Porte County, IN, USA",USA,True,,0,41.5727074
-North America,,,-119.019463,US,"Bakersfield, 93380, Kern County, CA, USA",USA,True,,0,35.3738712
-North America,,,-78.450458,US,"Charlottesville, , Albemarle County, VA, USA",USA,True,,0,38.1410056
-Europe,,,-7.9794599,IE,", , , , Ireland",Ireland,True,,0,52.865196
-Europe,,,-6.9796465,IE,"Dunganstown, , County Wexford, , Ireland",Ireland,True,,0,52.3443727
-North America,,,-71.1040018,US,"Cambridge, , Middlesex County, MA, USA",USA,True,,0,42.3656347
-North America,,,-71.0683741,US,"Malden, , Middlesex County, MA, USA",USA,True,,0,42.4268484
-North America,,,-71.0119948,US,"Revere, , Suffolk County, MA, USA",USA,True,,0,42.4084302
-Europe,,,-6.4601397,IE,"Loch Garman, , County Wexford, Leinster, Ireland",Ireland,True,,0,52.3367671
-North America,,,-71.0369301,US,"Chelsea, , Suffolk County, MA, USA",USA,True,,0,42.3912241
-North America,,,-73.7853915,US,"Saratoga Springs, , Saratoga County, NY, USA",USA,True,,0,43.0821793
-North America,,,-70.9494939,US,"Lynn, , Essex County, MA, USA",USA,True,,0,42.466763
-North America,,,-79.864215,US,"McKeesport, , Allegheny County, PA, USA",USA,True,,0,40.3478472
-North America,,,-70.9391625,US,"Weymouth, , Norfolk County, MA, USA",USA,True,,0,42.2212188
-North America,,,-74.1143091,US,"Bayonne, , Hudson County, NJ, USA",USA,True,,0,40.6687141
-North America,,,-70.9825807,US,"Winthrop, , Suffolk County, MA, USA",USA,True,,0,42.3746525
-North America,,,-71.010051,US,"Saugus, , Essex County, MA, USA",USA,True,,0,42.4648183
-Europe,,,-2.99168,GB,"Liverpool, , , , England",England,True,,0,53.4071991
-Europe,,,-7.9794599,IE,"Cork, , Cork County, Munster Province, Ireland",Ireland,True,,0,52.865196
-North America,,,-88.0746213,US,"Winfield, , Du Page County, IL, USA",USA,True,,0,41.8159522
-North America,,,-81.3145395,US,"St. Augustine, , Saint Johns County, FL, USA",USA,True,,0,29.8946952
-North America,,,-71.1061639,US,"Medford, , Middlesex County, MA, USA",USA,True,,0,42.4184296
-North America,,,-83.7484616,US,"Ann Arbor, 48109, Washtenaw County, MI, USA",USA,True,,0,42.2813722
-North America,,,-71.277031,US,"Wellesley Hills, , Norfolk County, MA, USA",USA,True,,0,42.3105491
-North America,,,-71.2092214,US,"Newton, , Middlesex County, MA, USA",USA,True,,0,42.3370414
-North America,,,-71.2355644,US,"Waltham, , Middlesex County, MA, USA",USA,True,,0,42.3762385
-North America,,,-71.1494972,US,"West Roxbury, , Suffolk County, MA, USA",USA,True,,0,42.2792649
-North America,,,-71.4209941,US,"Town of Acton, , Middlesex County, MA, USA",USA,True,,0,42.5182636
-North America,,,-71.0744952,US,"Dorchester, , Suffolk County, MA, USA",USA,True,,0,42.2973205
-Europe,,,1.8883335,FR,", , , , France",France,True,,0,46.603354
-Europe,,,5.7357819,FR,"Grenoble, , , Isere, France",France,True,,0,45.1875602
-Europe,,,4.6456631,FR,"Pont-Saint-Esprit, , , Gard, France",France,True,,0,44.2538589
-North America,,,-72.6719579,US,"Easthampton, , Hampshire County, MA, USA",USA,True,,0,42.2708804
-North America,,,-120.114847,US,"Los Olivos, , Santa Barbara County, CA, USA",USA,True,,0,34.6677646
-North America,,,-97.2684063,US,", , , OK, USA",USA,True,,0,34.9550817
-Europe,,,5.2275686,BE,"Heppen, , , , Belgium",Belgium,True,,0,51.1088561
-North America,,,-70.9788771,US,"Near Boston, , Suffolk County, MA, USA",USA,True,,0,42.3544455
-North America,,,-70.3485753,US,"Centerville, , Barnstable County, MA, USA",USA,True,,0,41.6499298
-North America,,,-71.3137707,US,"Newport, , Newport County, RI, USA",USA,True,,0,41.4899827
-North America,,,-79.8367056,US,"Gladwyne, , Unk County, PA, USA",USA,True,,0,40.3347968
-North America,,,-86.5342881,US,"Bloomington, , Monroe County, IN, USA",USA,True,,0,39.1670396
-North America,,,-71.3488963,US,"Concord, , Middlesex County, MA, USA",USA,True,,0,42.4605189
-North America,,,-73.0994297,US,"East Hampton, , Long Island, NY, USA",USA,True,,0,40.8514971
-Europe,,,20.7423991,GR,"Skorpios, , , , Greece",Greece,True,,0,38.6918005
-North America,,,-71.060511,US,"Boston, , Suffolk County, MA, USA",USA,True,,0,42.3554334
-North America,,,-71.1843236,US,"Watertown, , Middlesex County, MA, USA",USA,True,,0,42.3652518
-,True,1766988038.623737,,,"Bequia, , , , West Indies",,True,,0,
+found_country,latitude,country_code,address,used,alt_addr,no_result,country_name,continent,longitude,timestamp
+True,42.3750973,US,"East Boston, , Suffolk County, MA, USA",0,,,USA,North America,-71.0392173,
+True,41.6334445,US,"Hyannis Port, , Barnstable County, MA, USA",0,,,USA,North America,-70.2983549,
+True,42.332918,US,"Brookline, , Norfolk County, MA, USA",0,,,USA,North America,-71.1187829,
+True,41.6535345,US,"Hyannis, , , MA, USA",0,,,USA,North America,-70.2823287,
+True,42.3020436,US,"Hull, , Plymouth County, MA, USA",0,,,USA,North America,-70.9078243,
+True,52.2410014,GB,"the air, , Suffolk, Angleterre, England",0,,,England,Europe,1.0465716,
+True,32.7762719,US,"Dallas, , Dallas County, TX, USA",0,,,USA,North America,-96.7968559,
+True,38.8903961,US,"Arlington, 22209, Arlington County, VA, USA",0,,,USA,North America,-77.0841585,
+True,43.0055594,US,"Jefferson, , Jefferson County, WI, USA",0,,,USA,North America,-88.8073273,
+True,44.6762244,FR,"Saint-Bauzile, , , Ardeche, France",0,,,France,Europe,4.6739282,
+True,52.9571606,GB,"Chatsworth, , Derbyshire, Angleterre, England",0,,,England,Europe,-1.4263649,
+True,38.8950368,US,"Washington, , , DC, USA",0,,,USA,North America,-77.0365427,
+True,39.5751717,US,"Westminster, , Carroll County, MD, USA",0,,,USA,North America,-76.9959168,
+True,40.7127281,US,"New York City, , , NY, USA",0,,,USA,North America,-74.0060152,
+True,51.5074456,GB,"London, , , , England",0,,,England,Europe,-0.1277653,
+True,34.0536909,US,"Los Angeles, , Los Angeles County, CA, USA",0,,,USA,North America,-118.242766,
+True,40.90056,US,"Riverdale, , , NY, USA",0,,,USA,North America,-73.90639,
+True,34.0194704,US,"Santa Monica, , Los Angeles County, CA, USA",0,,,USA,North America,-118.491227,
+True,39.252377,US,"Baltimore, , Baltimore County, MD, USA",0,,,USA,North America,-76.7089181,
+True,37.5746536,KR,"Seoul, , , , Korea",0,,,대한민국,Asia,126.9788867,
+True,40.4406968,US,"Pittsburgh, , Allegheny County, PA, USA",0,,,USA,North America,-80.0025666,
+True,41.8755616,US,"Chicago, , Cook County, IL, USA",0,,,USA,North America,-87.6244212,
+True,40.6526006,US,"Brooklyn, , Kings County, NY, USA",0,,,USA,North America,-73.9497211,
+True,15.9266657,VN,", , , , Vietnam",0,,,Viet Nam,Asia,107.9650855,
+True,40.9381544,US,"Bronxville, , Westchester County, NY, USA",0,,,USA,North America,-73.8320784,
+True,40.8514971,US,"Southampton, , Long Island, NY, USA",0,,,USA,North America,-73.0994297,
+True,41.3920455,US,"Martha's Vineyard, , , MA, USA",0,,,USA,North America,-70.6208138,
+True,41.5514979,US,"Falmouth, , Barnstable County, MA, USA",0,,,USA,North America,-70.6147519,
+True,38.9342888,US,"McLean, , Fairfax County, VA, USA",0,,,USA,North America,-77.1776327,
+True,41.308399,US,"Greenwich, , Fairfield County, CT, USA",0,,,USA,North America,-73.313629,
+True,26.7056172,US,"Palm Beach, , Palm Beach County, FL, USA",0,,,USA,North America,-80.0361517,
+True,43.1561681,US,", , , NY, USA",0,,,USA,North America,-75.8449946,
+True,35.6876096,US,"Santa Fe, , Santa Fe County, NM, USA",0,,,USA,North America,-105.938456,
+True,41.317081,US,"New Haven, , New Haven County, CT, USA",0,,,USA,North America,-72.9401956,
+True,42.3667625,US,"Weston, , Middlesex County, MA, USA",0,,,USA,North America,-71.3031132,
+True,40.0238245,US,"Bryn Mawr, , Montgomery County, PA, USA",0,,,USA,North America,-75.3173407,
+True,38.8611619,US,"Bedford, , Lawrence County, IN, USA",0,,,USA,North America,-86.4872149,
+True,41.2042616,US,"Mt. Kisco, , Westchester County, NY, USA",0,,,USA,North America,-73.7270761,
+True,41.5727074,US,"La Porte, , La Porte County, IN, USA",0,,,USA,North America,-86.7345219,
+True,35.3738712,US,"Bakersfield, 93380, Kern County, CA, USA",0,,,USA,North America,-119.019463,
+True,38.1410056,US,"Charlottesville, , Albemarle County, VA, USA",0,,,USA,North America,-78.450458,
+True,52.865196,IE,", , , , Ireland",0,,,Ireland,Europe,-7.9794599,
+True,52.3443727,IE,"Dunganstown, , County Wexford, , Ireland",0,,,Ireland,Europe,-6.9796465,
+True,42.3656347,US,"Cambridge, , Middlesex County, MA, USA",0,,,USA,North America,-71.1040018,
+True,42.4268484,US,"Malden, , Middlesex County, MA, USA",0,,,USA,North America,-71.0683741,
+True,42.4084302,US,"Revere, , Suffolk County, MA, USA",0,,,USA,North America,-71.0119948,
+True,52.3367671,IE,"Loch Garman, , County Wexford, Leinster, Ireland",0,,,Ireland,Europe,-6.4601397,
+True,42.3912241,US,"Chelsea, , Suffolk County, MA, USA",0,,,USA,North America,-71.0369301,
+True,43.0821793,US,"Saratoga Springs, , Saratoga County, NY, USA",0,,,USA,North America,-73.7853915,
+True,42.466763,US,"Lynn, , Essex County, MA, USA",0,,,USA,North America,-70.9494939,
+True,40.3478472,US,"McKeesport, , Allegheny County, PA, USA",0,,,USA,North America,-79.864215,
+True,42.2212188,US,"Weymouth, , Norfolk County, MA, USA",0,,,USA,North America,-70.9391625,
+True,40.6687141,US,"Bayonne, , Hudson County, NJ, USA",0,,,USA,North America,-74.1143091,
+True,42.3746525,US,"Winthrop, , Suffolk County, MA, USA",0,,,USA,North America,-70.9825807,
+True,42.4648183,US,"Saugus, , Essex County, MA, USA",0,,,USA,North America,-71.010051,
+True,53.4071991,GB,"Liverpool, , , , England",0,,,England,Europe,-2.99168,
+True,,,"Cork, , Cork County, Munster Province, Ireland",0,,True,,,,1767227709.289082
+True,41.8159522,US,"Winfield, , Du Page County, IL, USA",0,,,USA,North America,-88.0746213,
+True,29.8946952,US,"St. Augustine, , Saint Johns County, FL, USA",0,,,USA,North America,-81.3145395,
+True,42.4184296,US,"Medford, , Middlesex County, MA, USA",0,,,USA,North America,-71.1061639,
+True,42.2813722,US,"Ann Arbor, 48109, Washtenaw County, MI, USA",0,,,USA,North America,-83.7484616,
+True,42.3105491,US,"Wellesley Hills, , Norfolk County, MA, USA",0,,,USA,North America,-71.277031,
+True,42.3370414,US,"Newton, , Middlesex County, MA, USA",0,,,USA,North America,-71.2092214,
+True,42.3762385,US,"Waltham, , Middlesex County, MA, USA",0,,,USA,North America,-71.2355644,
+True,42.2792649,US,"West Roxbury, , Suffolk County, MA, USA",0,,,USA,North America,-71.1494972,
+True,42.5182636,US,"Town of Acton, , Middlesex County, MA, USA",0,,,USA,North America,-71.4209941,
+True,42.301376,US,"Dorchester, , Suffolk County, MA, USA",0,,,USA,North America,-71.0612744,
+True,46.603354,FR,", , , , France",0,,,France,Europe,1.8883335,
+True,45.1875602,FR,"Grenoble, , , Isere, France",0,,,France,Europe,5.7357819,
+True,44.2538589,FR,"Pont-Saint-Esprit, , , Gard, France",0,,,France,Europe,4.6456631,
+True,42.2708804,US,"Easthampton, , Hampshire County, MA, USA",0,,,USA,North America,-72.6719579,
+True,34.6677646,US,"Los Olivos, , Santa Barbara County, CA, USA",0,,,USA,North America,-120.114847,
+True,34.9550817,US,", , , OK, USA",0,,,USA,North America,-97.2684063,
+True,51.1088561,BE,"Heppen, , , , Belgium",0,,,Belgium,Europe,5.2275686,
+True,42.3544455,US,"Near Boston, , Suffolk County, MA, USA",0,,,USA,North America,-70.9788771,
+True,,,"Bequia, , , , West Indies",0,,True,,,,1767227756.6813786
+True,41.6499298,US,"Centerville, , Barnstable County, MA, USA",0,,,USA,North America,-70.3485753,
+True,41.4899827,US,"Newport, , Newport County, RI, USA",0,,,USA,North America,-71.3137707,
+True,40.3347968,US,"Gladwyne, , Unk County, PA, USA",0,,,USA,North America,-79.8367056,
+True,39.1670396,US,"Bloomington, , Monroe County, IN, USA",0,,,USA,North America,-86.5342881,
+True,42.4605189,US,"Concord, , Middlesex County, MA, USA",0,,,USA,North America,-71.3488963,
+True,40.8514971,US,"East Hampton, , Long Island, NY, USA",0,,,USA,North America,-73.0994297,
+True,38.6918005,GR,"Skorpios, , , , Greece",0,,,Greece,Europe,20.7423991,
+True,42.3588336,US,"Boston, , Suffolk County, MA, USA",0,,,USA,North America,-71.0578303,
+True,42.3652576,US,"Watertown, , Middlesex County, MA, USA",0,,,USA,North America,-71.1843234,
