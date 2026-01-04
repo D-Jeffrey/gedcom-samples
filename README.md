@@ -1,7 +1,7 @@
 # Gedcom Samples
  A set of GED files for GEDCOM projects, useful for performance testing and comparing outputs from various GEDCOM generators. This collection also features `geo_code.csv` files compatible with [geo_gedcom](https:github.comcolin0brassgeo_gedcom) and [gedcom-to-visualmap](https:github.comD-Jeffreygedcom-to-visualmap).  The geo_code.csv has a timestamp, so if you are leveraging it wiht geocom-to-visualmap then check the `Cache Only` checkbox for a quick load within the need to reverifying the addresses.
 
-This included 'Famous Family Trees'.
+ _Treat these files as the information only and the genealogy as non-authoritative. It is based on the best geneology information we have been able to access including myth, legend and sagas._
 
 GED Name | # People | Timeframe | Addresses | Unique Surnames | Author | Soure
 ---      | ---:      |---:        |---:        |---: | --- | ---
@@ -10,61 +10,134 @@ GED Name | # People | Timeframe | Addresses | Unique Surnames | Author | Soure
 [input](input.ged)  | 15 | ?-? | 12 | 8 | Louis Mallez | hand coded
 [shakespeare](shakespeare.ged) | 31 | 1490-1674 | 4 | 10 | |webtreeprint
 [bach](bach.ged) | 33 | 1550-1871 | 0 | 8 | PAF 2.2
-[bourbon](sample-bourbonbourbon.ged) | 303| 820-1775 | 66 | 81 | Yannick VOYEAUD | ANCESTRIS
-[kennedy](sample-kennedykennedy.ged) | 208 | 1727-1999 | 83 | 73 | |  ANCESTRIS
-[washington](washingtonwashington.ged) | 529 | 1391-1799 | 301 | 88| | FamilyOrigins 
-[IvarKingOfDublin](ivarIvarKingOfDublin.ged) | 1,288 | 794-1302 | 563 | 558 | Darren Jeffrey | Legacy  FamilySearch
-[pres2020](prespres2020.ged) |2,322 |1016-2018 |842 |873 | Paul E Stobbe |Family Tree Maker
-[royal92](royalroyal92.ged) |3,010 |534-1992 |669 | 421 |Denis R. Reid|Personal Ancestral 2.2
-[Queen](queenQueen.ged) |4,683 |4004BC-1926|871|1024|M M Wardle| RootsMagic 8
-[Habsburg](habsHabsburg.ged) |34,020|1-2007|6722|7902|| Family Tree Maker 20
-[WilliamLongsword](longswordWilliamLongsword.ged) | 203,154 | 860-2020 | 60,584 | 57040| Darren Jeffrey | Legacy  FamilySearch
+[bourbon](sample-bourbon/bourbon.ged) | 303| 820-1775 | 66 | 81 | Yannick VOYEAUD | ANCESTRIS
+[kennedy](sample-kennedy/kennedy.ged) | 208 | 1727-1999 | 83 | 73 | |  ANCESTRIS
+[washington](washington/washington.ged) | 529 | 1391-1799 | 301 | 88| | FamilyOrigins 
+[EnglishTudorRoyalFamily](tudor/EnglishTudorRoyalFamily.ged) | 347 | 509-1639 | 304 |124 | Darren Jeffrey | Legacy  FamilySearch
+[IvarKingOfDublin](ivar/IvarKingOfDublin.ged) | 1,288 | 794-1302 | 563 | 558 | Darren Jeffrey | Legacy  FamilySearch
+[pres2020](pres/pres2020.ged) |2,322 |1016-2018 |842 |873 | Paul E Stobbe |Family Tree Maker
+[royal92](royal/royal92.ged) |3,010 |534-1992 |669 | 421 |Denis R. Reid|Personal Ancestral 2.2
+[Queen](queen/Queen.ged) |4,683 |4004BC-1926|871|1024|M M Wardle| RootsMagic 8
+[Habsburg](habs/Habsburg.ged) |34,020|1-2007|6722|7902|| Family Tree Maker 20
+[WilliamLongsword](longsword/WilliamLongsword.ged) | 203,154 | 860-2020 | 60,584 | 57040| Darren Jeffrey | Legacy  FamilySearch
 **GED files in other Github** | | |||**Repo**
 [xavier](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdataxavier.ged) | 312 | 1894-| ||[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)|Gramps
 [tree1](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdatatree1.ged) | 1040 | | | |[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)| webtrees
 [gracis](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdatagracis.ged) | 580 | | ||[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)|Gramps
 [jeffersondemo](https:github.comneelsmithGedCom.jlblobmaintestdatajeffersondemo.ged)| 24||||[gedcom.jl](https:github.comneelsmithGedCom.jl)|Ancestry.com Family Trees
+
+## Famous Family Trees
+Collection/directory | file | Comment / Addresses
+---| --- | ---
+[corporations](famous%20family%20trees/corporations/) | | Nothig with real addresses in this directory
+[fictional characters](famous%20family%20trees/fictional%20characters/) | | Nothig with real addresses in this directory
+[languages](famous%20family%20trees/languages/) | | Nothig with real addresses in this directory
+[misc](famous%20family%20trees/misc/) | | Nothig with real addresses in this directory
+politicians, writers, scientists, etc|[Bach+Family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Bach+Family.ged) | none
+politicians, writers, scientists, etc|[Bhutto+family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Bhutto+family.ged) | none
+politicians, writers, scientists, etc|[Keynes+Family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/) | 6 addresses
+politicians, writers, scientists, etc|[Nehru-Ghandi+Family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Nehru-Ghandi+Family.ged) | 6 addresses
+politicians, writers, scientists, etc|[Shakespeare.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Shakespeare.ged) | 22 addresses
+politicians, writers, scientists, etc|[Tolkien+Family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Tolkien+Family.ged) | none
+politicians, writers, scientists, etc|[Wedgwood+Family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Wedgwood+Family.ged) | none
+religious figures and systems |[Abbasids+House.ged](famous%20family%20trees/religious%20figures%20and%20systems/Abbasids+House.ged) | none
+religious figures and systems |[Ancestors+of+the+Prophet+Mohammad.ged](famous%20family%20trees/religious%20figures%20and%20systems/Ancestors+of+the+Prophet+Mohammad.ged) | 6 addresses
+religious figures and systems |[Babylonian+Gods.ged](famous%20family%20trees/religious%20figures%20and%20systems/Babylonian+Gods.ged)| none 
+religious figures and systems |[Bible+Family+Tree.ged](famous%20family%20trees/religious%20figures%20and%20systems/Bible+Family+Tree.ged) | 50 addresses
+religious figures and systems |[Greek+Gods.ged](famous%20family%20trees/religious%20figures%20and%20systems/Greek+Gods.ged) | 2 addresses
+religious figures and systems |[Japanes+Gods.ged](famous%20family%20trees/religious%20figures%20and%20systems/Japanes+Gods.ged) | 1 address
+religious figures and systems |[Norse+Gods.ged](famous%20family%20trees/religious%20figures%20and%20systems/Norse+Gods.ged) | 1 address 
+religious figures and systems |[Prophet+Mohommad+Family+Tree.ged](famous%20family%20trees/religious%20figures%20and%20systems/Prophet+Mohommad+Family+Tree.ged) | 24 addresses 
+religious figures and systems |[Roman+Gods.ged](famous%20family%20trees/religious%20figures%20and%20systems/Roman+Gods.ged) | 2 addresses | 2 addresses 
+religious figures and systems |[Wikipedia+Gods+not+Yet+Connected.ged](famous%20family%20trees/religious%20figures%20and%20systems/Wikipedia+Gods+not+Yet+Connected.ged) | Parse issues, no addresses
+royalty | [Afgan-Pathan-Pashtun+Tribes+As+Descended+from+Quais.ged](famous%20family%20trees/royalty/Afgan-Pathan-Pashtun+Tribes+As+Descended+from+Quais.ged) | 6 addresses 
+royalty |[Afghan-Pathan-Pashtun+People+as+Descended+from+Adam.ged](famous%20family%20trees/royalty/Afghan-Pathan-Pashtun+People+as+Descended+from+Adam.ged) | 42 addresses 
+royalty | [Antioch+House.ged](famous%20family%20trees/royalty/Antioch+House.ged)| none 
+royalty | [Eastern+Han+Dynasty.ged](famous%20family%20trees/royalty/Eastern+Han+Dynasty.ged)| none 
+royalty | [English+Tudor+Royal+Family.ged](famous%20family%20trees/royalty/English+Tudor+Royal+Family.ged)| 116 addresses 
+royalty | [Hawaiian+Kings.ged](famous%20family%20trees/royalty/Hawaiian+Kings.ged)| 17 addresses
+royalty | [House+of+Habsburg.ged](famous%20family%20trees/royalty/House+of+Habsburg.ged)| none
+royalty | [Irish+Kings.ged](famous%20family%20trees/royalty/Irish+Kings.ged) | 112 addresses
+royalty | [Japanese+Imperial+Family.ged](famous%20family%20trees/royalty/Japanese+Imperial+Family.ged)| none
+royalty | [Jerusalem+Kings.ged](famous%20family%20trees/royalty/Jerusalem+Kings.ged)| none
+royalty | [Ming+Dynasty.ged](famous%20family%20trees/royalty/Ming+Dynasty.ged)| none
+royalty | [Ptolemaic+Dynasty.ged](famous%20family%20trees/royalty/Ptolemaic+Dynasty.ged)| none
+royalty | [Qing+Dynasty.ged](famous%20family%20trees/royalty/Qing+Dynasty.ged)| none
+royalty | [Royal92-Famous+European+Royalty+Gedcom.ged](famous%20family%20trees/royalty/Royal92-Famous+European+Royalty+Gedcom.ged)| 715 addresses
+royalty | [Spartocids+Dynasty.ged](famous%20family%20trees/royalty/Spartocids+Dynasty.ged) | none
+royalty | [Sui+Dynasty.ged](famous%20family%20trees/royalty/Sui+Dynasty.ged) | none
+royalty | [Tang+Dynasty.ged](famous%20family%20trees/royalty/Tang+Dynasty.ged) | none
+royalty | [Trojan+Kings.ged](famous%20family%20trees/royalty/Trojan+Kings.ged) | 33 addresses
+royalty | [Western+Han+Dynasty.ged](famous%20family%20trees/royalty/Western+Han+Dynasty.ged) | 1 address
+royalty | [Yuan+Dynasty.ged](famous%20family%20trees/royalty/Yuan+Dynasty.ged) | 1 address
+US presidents | [George+Washington+Family+Big.ged](famous%20family%20trees/US%20presidents/George+Washington+Family+Big.ged) | 358 addresses
+US presidents | [GeorgeWashington+Family+Small.ged](famous%20family%20trees/US%20presidents/GeorgeWashington+Family+Small.ged) | none
+US presidents | [Kennedy+Family.ged](famous%20family%20trees/US%20presidents/Kennedy+Family.ged)| 27 addresses
+US presidents | [Lincoln+Family.ged](famous%20family%20trees/US%20presidents/Lincoln+Family.ged)| 21 addresses
+US presidents | [US+Presidents+Trees+I.ged](famous%20family%20trees/US%20presidents/US+Presidents+Trees+I.ged)| 738 addresses
+
+religious figures and systems| Most of these files are no relavent for using in geo based address looks as the address was used for date text.
+
 ## basic
+[basic](basic.ged)
+`people : 5 
+timeframe: 1923-2006 
+addresses: 10 
+surnames: 3 
+source: Legacy (Fictional)`
 Imaginary families used for testing oceanic geolines and family relationships.
 
 ## Bronte
+[Bronte](bronte.ged) `People: 14 Timeframe: 1744-1861 Addresses: 7 Surnames: 6`
+
 This GED file provides a straightforward genealogical record of the Brontë family, renowned for producing acclaimed writers such as Charlotte, Emily, and Anne Brontë. You can expect to find information on Patrick Brontë, the family patriarch, as well as the siblings and possibly additional relatives, offering a concise view of the family structure that influenced some of English literature’s most celebrated works.
 https:en.wikipedia.orgwikiBront%C3%AB_family 
 
 ## input
+[input](input.ged) `People: 15 Timeframe: ?-? Addresses: 12 Surnames: 8`
+
 The GED file includes various locations in France, each accompanied by embedded GPS coordinates.
 
 ## shakespeare
 ### William Shakespeare and family
+[shakespeare](shakespeare.ged) `People: 31 Timeframe: 1490-1674 Addresses: 4 Surnames: 10`
+
 The Shakespeare GED file offers a comprehensive family tree of William Shakespeare, tracing his lineage back to his grandfather Richard Shakespeare. This genealogical record highlights key family members, including William’s father, John Shakespeare, and mother, Mary Arden, as well as siblings and descendants. Explore the ancestry and familial context of William Shakespeare, gaining insight into the environment that influenced his works and legacy.
 https:www.shakespeare.org.ukexplore-shakespeareshakespediawilliam-shakespearewilliam-shakespeares-family
 
+[bach](bach.ged) `People: 33 Timeframe: 1550-1871 Addresses: 0 Surnames: 8`
 
 ## pres2020
 ### US Presidents and their relatives
+[pres2020](pres/pres2020.ged) `People: 2,322 Timeframe: 1016-2018 Addresses: 842 Surnames: 873`
+
 The Pres2020 GED file presents a comprehensive compilation of U.S. presidents along with their ancestors and descendants, spanning from 1016 to 2018. This resource meticulously documents familial relationships, providing detailed information such as names, birth and death dates, and connections among relatives. In addition to tracing presidential lineages, the file highlights significant family milestones and may include notable events, locations, and migration patterns that shaped the history of the presidential families.
 
 https:www.ourfamtree.orgattachList_of_US_Presidents_by_Genealogical_Relationship.pdf
 https:en.wikipedia.orgwikiAncestral_background_of_presidents_of_the_United_States
 
 ## bourbon
+[bourbon](sample-bourbon/bourbon.ged) `People: 303 Timeframe: 820-1775 Addreses 66 Surnames: 81`
+
+
 https:voyeaud.orgGenealogie.php
 This includes photos as references to a few of the individuals
 
 ## kennedy
 ### Kennedy Family
+[kennedy](sample-kennedy/kennedy.ged) `People: 208 Timeframe: 1727-1999 Addresses: 83 Surnames: 73`
+
 Kennedy family from 1727-1999 include their immigration 
 This includes photos as references to a few of the individuals
 https:en.wikipedia.orgwikiKennedy_family
 
 ## royal92
 ### Kings and Queens of Europe
+[royal92](royal/royal92.ged) `People: 3,010 Timeframe: 534-1992 Addresses: 669 Surnames: 421`
 
 The Kings and Queens of Europe including Great Britain.
 
 AKA `famous family trees/royalty/Royal92-Famous+European+Royalty+Gedcom.ged`
-
-This lead to an interesting discovery on github [using Neo4j with Gedcom](https:github.comneo4j-examplesdiscoveraurafreeblobfc19b3ddfba1026ecab83d541216ba994bde6cdeweek-18.adoc)
 
 This file contains instances of 12 familial relations which were extracted from royal92.ged, a widely-distributed public domain GEDCOM file containing information on 3,010 individuals and 1,422 families of European royalty. The 12 relations are those used originally in (Hinton 1986).  The data parsed used to convert the code was modified from code distributed on with (Yang et al, 2017).
 
@@ -96,8 +169,12 @@ I included all their titles, names, monikers in the notes._
 
 _Thanks for your interest.   Denis Reid_
 
+This also leads to an interesting discovery on github [using Neo4j with Gedcom](https:github.comneo4j-examplesdiscoveraurafreeblobfc19b3ddfba1026ecab83d541216ba994bde6cdeweek-18.adoc)
+
 ## washington
 ### George Washington and descendants
+[washington](washington/washington.ged) `People: 529 Timeframe: 1391-1799 Addresses: 301 Surnames: 88`
+
 George Washington and descendants GED file
 This GEDCOM file contains a comprehensive genealogical record of George Washington, the first President of the United States, and his extended family. The file documents his ancestors, immediate family members, and descendants through detailed birth, marriage, and death records. This _had_ a lot of post death BAPL records.
 
@@ -105,9 +182,37 @@ This GEDCOM file contains a comprehensive genealogical record of George Washingt
 - https:www.mountvernon.orggeorge-washingtonfamily
 - https:en.wikipedia.orgwikiWashington_family
 
+## EnglishTudorRoyalFamily
+### English Tudor Royal Family
+[EnglishTudorRoyalFamily](tudor/EnglishTudorRoyalFamily.ged) `People: 347 Timeframe: 509-1639 Addresses: 304 Surnmame: 124`
+
+This was orginally from Famous Family Trees.  It has been improved with information from Family Search.  There are a lot of unique events represented as 
+```
+1 EVEN <optional-FamilySearch-ID>
+2 TYPE <special phrase>
+2 DATE <unknown>
+2 NOTE <note text>
+```
+
+Types include:
+- Death mask
+- Coronation
+- Abdication
+- Portrait
+- Marriage declared null and void
+- Sent to the Tower of London
+- Marriage pronounced null
+- MilitaryService
+- TitleOfNobility
+- FamilySearch ID
+- Clan
+
+It also include EVEN with a reference such as 
 
 ## IvarKingOfDublin
 ### Ivar King of Dulbin
+[IvarKingOfDublin](ivar/IvarKingOfDublin.ged) `People: 1,288 Timeframe: 794-1302 Addresses: 563 Surnames: 558`
+
 This GEDCOM file, sourced from FamilySearch, offers a thorough genealogical record of Ivar, King of Dublin, charting his lineage and descendants from 794 to 1302. The file documents significant events in his life and reign, as well as his family relationships through detailed birth, marriage, and death entries. Additional notes in the file provide context about Ivar's titles, alternate names, and relevant historical events, delivering valuable insight for researchers interested in the Dublin royal lineage.
 
 This was pulled from FamilySearch on Dec 25, 2025 using Legend 10.0.  Manual adjustment of 5 year dates where required to bring the qaulity up.
@@ -116,6 +221,10 @@ https:en.wikipedia.orgwiki%C3%8Dmar
 
 ## Queen
 ### Queen of the World
+[Queen](queen/Queen.ged) `People: 4,683 : Timeframe: 4004BC-1926 Addresses: 871 Surnames: 1024`
+
+The gedcom file contains over 4500 ancestors of Queen Elizabeth II. It includes over 2800 families and 155 generations of grand parents.  This is a good test as it has BCE dates.
+
 Queens along with King
 
 - Queen of England
@@ -186,6 +295,8 @@ Queens along with King
 
 ## Habsburg
 ### Habsburg
+[Habsburg](habs/Habsburg.ged) `People: 34,020 Timeframe: 1-2007 Addresses: 6722 Surname: 7902`
+
 Germany 
 
 https://habsburg-dynasty.com/family-tree/
@@ -193,6 +304,8 @@ https://habsburg-dynasty.com/family-tree/
 
 ## WilliamLongsword
 ### William Longsword Count of Rouen
+[WilliamLongsword](longsword/WilliamLongsword.ged) `People: 203,154 Timeframe: 860-2020 Addresses: 60,584 Surnames: 57040`
+
  - 203154 people
  - 90085 Families
  - 65486 Unique Surnames

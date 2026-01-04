@@ -1,70 +1,70 @@
-country_name,timestamp,address,latitude,longitude,alt_addr,continent,no_result,found_country,country_code,used
-France,,", Fontainebleau, 77186, Seine-et-Marne, Île-de-France, FRANCE",48.4049375,2.7015872,,Europe,,True,FR,1
-France,,"Château, Saint-Germain-en-Laye, 78551, Yvelines, Île-de-France, FRANCE",48.9456381,2.1548751,,Europe,,True,FR,1
-France,,", Reims, 51454, Marne, Grand Est, FRANCE",49.2577886,4.031926,,Europe,,True,FR,1
-España,,", Valladolid, , Valladolid, Castille-et-León, ESPAGNE",41.6521807,-4.728605,,Europe,,True,ES,1
-France,,", Paris, 75056, Paris, Île-de-France, FRANCE",48.8588897,2.320041,,Europe,,True,FR,1
-France,,", Versailles, 78646, Yvelines, Île-de-France, FRANCE",48.8035403,2.1266886,,Europe,,True,FR,1
-France,,"Basilique, Saint-Denis, 93066, Seine-Saint-Denis, Île-de-France, FRANCE",48.9354638,2.3597605,,Europe,,True,FR,1
-France,,", Saint-Cloud, 92064, Hauts-de-Seine, Île-de-France, FRANCE",48.8437412,2.219344,,Europe,,True,FR,1
-España,,", Madrid, , Province de Madrid, Communauté de Madrid, ESPAGNE",39.4304252,-0.3925609,,Europe,,True,ES,1
-France,,", Meudon, 92048, Hauts-de-Seine, Île-de-France, FRANCE",48.8126688,2.2385432,,Europe,,True,FR,1
-France,,", Niort, 79191, Deux-Sèvres, Nouvelle-Aquitaine, FRANCE",46.3239233,-0.4646064,,Europe,,True,FR,1
-France,,", Saint-Cyr-l'École, 78545, Yvelines, Île-de-France, FRANCE",48.799708,2.0672138,,Europe,,True,FR,1
-Germany,,", Munich, 09162000, Haute-Bavière, Bavière, ALLEMAGNE",49.2653944,12.743855,,Europe,,True,DE,1
-France,,", Marly, 78372, Yvelines, Île-de-France, FRANCE",48.8681762,2.0965935,,Europe,,True,FR,1
-Italia,,", Turin, 0012721, Turin, Piémont, ITALIE",45.0677551,7.6824892,,Europe,,True,IT,1
-,1767227248.2790215,", Heidelberg, 08221000, District de Karlsruhe, Baden-Württemberg, ALLEMAGNE",,,,,True,True,,0
-Polska,,", Trzebnica, , Powiat de Trzebnica, Voïvodie de Basse-Silésie, POLOGNE",51.3040435,17.0632874,,Europe,,True,PL,1
-Germany,,", Dresde, 14612000, , Saxe, ALLEMAGNE",51.0493286,13.7381437,,Europe,,True,DE,1
-Österreich,,", Vienne, , Wien Stadt, Vienne, AUTRICHE",48.2104417,16.3774477,,Europe,,True,AT,1
-France,,"Château, Pau, 64445, Pyrénées-Atlantiques, Nouvelle-Aquitaine, FRANCE",43.5175434,-0.9141202,,Europe,,True,FR,1
-France,,"Rue de la Ferronnerie, Paris, 75056, Paris, Île-de-France, FRANCE",48.8602777,2.3474377,,Europe,,True,FR,1
-France,,", Chartres, , , Normandie,",48.4343626,1.4487381,,Europe,,True,FR,1
-Italy,,", Florence, , Florence, Tuscany, Italy",43.7697955,11.2556404,,Europe,,True,IT,1
-Germany,,", Cologne, 05315000, District de Cologne, Rhénanie-du-Nord-Westphalie, ALLEMAGNE",50.7866184,6.8383559,,Europe,,True,DE,1
-France,,"Château, Blois, 41018, Loir-et-Cher, , FRANCE",47.5862598,1.3306547,,Europe,,True,FR,1
-France,,"Palais du Louvre, Paris, 75056, Paris, Île-de-France, FRANCE",48.8614725,2.3368747,,Europe,,True,FR,1
-France,,"Château de Colombes, Paris, 75056, Paris, Île-de-France, FRANCE",48.8588897,2.320041,,Europe,,True,FR,1
-United Kingdom,,", Dunfermline, , Fife, Ecosse, ÉCOSSE",56.0713724,-3.4616183,,Europe,,True,GB,1
-United Kingdom,,", Londres, , Grand Londres, Angleterre, ANGLETERRE",51.5156177,-0.0919983,,Europe,,True,GB,1
-Tunisia,,", Tunis, , , Tūnis, Tunisia",36.8002068,10.1857757,,Africa,,True,TN,1
-France,,"Château, Nantes, 44109, , , FRANCE",47.2151434,-1.5502795,,Europe,,True,FR,1
-France,,", Courcelles, , , , FRANCE",48.3732096,6.0376277,,Europe,,True,FR,1
-France,,", Lyon, 69123, Rhône, Lyonnais, FRANCE",45.7177757,4.377342,,Europe,,True,FR,1
-France,,"Carmes, Ploërmel, 56165, Morbihan, Bretagne, BRETAGNE",47.9336645,-2.4008374,,Europe,,True,FR,1
-France,,"Abbaye Notre-Dame, Villeneuve, , Loire-Atlantique, Bretagne, BRETAGNE",47.4981892,-2.2986272,,Europe,,True,FR,1
-France,,", Chemillé, , , ,",47.2300533,-0.7323696,,Europe,,True,FR,1
-France,,"Cathédrale Notre-Dame de Paris, Paris, 75056, Paris, Île-de-France, FRANCE",48.8529312,2.3500626,,Europe,,True,FR,1
-United Kingdom,,", Bristol, , City of Bristol, Angleterre, ANGLETERRE",51.4538022,-2.5972985,,Europe,,True,GB,1
-France,,", Rouen, 76540, Seine-Maritime, Normandie, ANGLETERRE",49.5527035,0.8015892,,Europe,,True,FR,1
-France,,"Église abbatiale, Saint-Gildas-de-Rhuys, 56214, Morbihan, Bretagne, BRETAGNE",47.5004209,-2.8403204,,Europe,,True,FR,1
-France,,"Église du couvent des Cordeliers, Nantes, 44109, Loire-Atlantique, Bretagne, BRETAGNE",47.4975115,-2.2540401,,Europe,,True,FR,1
-France,,"Abbaye Notre-Dame, Abbaye de Begar, 22004, Côtes-d'Armor, Bretagne, BRETAGNE",48.4914847,-2.8134733,,Europe,,True,FR,1
-United Kingdom,,"Abbaye, Sawtry, , , Huntingdonshire, ANGLETERRE",52.4380671,-0.2820551,,Europe,,True,GB,1
-France,,"Abbaye Saint-Sulpice, Rennes, 35238, Ille-et-Vilaine, Bretagne, FRANCE",48.2191639,-1.5751084,,Europe,,True,FR,1
-France,,"Abbaye, Fontevraud, 49140, Maine-et-Loire, Pays de la Loire, FRANCE",47.1804969,0.0524624,,Europe,,True,FR,1
-France,,"Chaeau, Chateaulin, 29026, Finistère, Bretagne, BRETAGNE",48.1968026,-4.0916875,,Europe,,True,FR,1
-France,,"Abbaye Saint-Sauveur, Redon, 35236, Ille-et-Vilaine, Bretagne, FRANCE",47.6501436,-2.083804,,Europe,,True,FR,1
-France,,", Angers, 49007, Maine-et-Loire, Pays de la Loire, FRANCE",47.4739884,-0.5515588,,Europe,,True,FR,1
-Israel,,", Jérusalem, , , Jerusalem, Israel",31.7788472,35.2257856,,Asia,,True,IL,1
-France,,", Nantes, 44109, Loire-Atlantique, Bretagne, BRETAGNE",47.4975115,-2.2540401,,Europe,,True,FR,1
-France,,"Abbaye Locmaria, Quimper, 29232, Finistère, Bretagne, BRETAGNE",47.9960325,-4.1024782,,Europe,,True,FR,1
-France,,"Abbaye Sainte-Croix, Quimperlé, 29233, Finistère, Bretagne, BRETAGNE",47.8724885,-3.5452625,,Europe,,True,FR,1
-France,,", La Martyre, 29144, Finistère, Bretagne, BRETAGNE",48.4483714,-4.1580155,,Europe,,True,FR,1
-France,,"Monastère, Plélan-le-Grand, 35223, Ille-et-Vilaine, Bretagne, FRANCE",48.0023864,-2.1003629,,Europe,,True,FR,1
-France,,", Carhaix, 29024, Finistère, Bretagne, BRETAGNE",48.2764997,-3.5711477,,Europe,,True,FR,1
-France,,", Vendôme, 41269, Loir-et-Cher, Centre, FRANCE",47.7934453,1.0662256,,Europe,,True,FR,1
-France,,", Talensac, 35331, Ille-et-Vilaine, Bretagne, BRETAGNE",48.1092798,-1.9269063,,Europe,,True,FR,1
-France,,", Louviers, 27375, Eure, Normandie, FRANCE",49.2157245,1.1646335,,Europe,,True,FR,1
-France,,", Saint-Lô, 50502, Manche, Normandie, BRETAGNE",49.1009382,-1.1137055,,Europe,,True,FR,1
-France,,", Bordeaux, 33063, Gironde, Nouvelle-Aquitaine, FRANCE",44.841225,-0.5800364,,Europe,,True,FR,1
-France,,", Saint-Jean-de-Luz, 64483, Pyrénées-Atlantiques, Nouvelle-Aquitaine, FRANCE",43.387219,-1.6636947,,Europe,,True,FR,1
-France,,", Châlons, 51108, Marne, Grand Est, FRANCE",48.9566218,4.3628851,,Europe,,True,FR,1
-,1767227373.4649131,", Metz, 57463, Mozelle, Grand Est, FRANCE",,,,,True,True,,0
-France,,"Chapelle des Jacobins, Rennes, 35238, Ille-et-Vilaine, Bretagne, FRANCE",48.1113387,-1.6800198,,Europe,,True,FR,1
-France,,"Château, Langeais, 37123, Indre et Loire, Centre-Val de Loire, FRANCE",47.3246763,0.40622,,Europe,,True,FR,1
-France,,", Ormeteau-Ferré, , , , FRANCE",49.2840887,1.7857219,,Europe,,True,FR,1
-France,,", Chartres, , , Normandie, ",48.4343626,1.4487381,,Europe,,True,FR,1
-France,,", Chemillé, , , , ",47.2300533,-0.7323696,,Europe,,True,FR,1
-France,,"Abbaye Saint-Georges, Rennes, 35238, Ille-et-Vilaine, Bretagne, FRANCE",48.1117766,-1.6734505,,Europe,,True,FR,1
+continent,used,longitude,no_result,alt_addr,found_country,address,timestamp,country_code,latitude,country_name
+Europe,0,2.7015872,,,True,", Fontainebleau, 77186, Seine-et-Marne, Île-de-France, FRANCE",,FR,48.4049375,France
+Europe,0,2.1548751,,,True,"Château, Saint-Germain-en-Laye, 78551, Yvelines, Île-de-France, FRANCE",,FR,48.9456381,France
+Europe,0,4.031926,,,True,", Reims, 51454, Marne, Grand Est, FRANCE",,FR,49.2577886,France
+Europe,0,-4.728605,,,True,", Valladolid, , Valladolid, Castille-et-León, ESPAGNE",,ES,41.6521807,España
+Europe,0,2.320041,,,True,", Paris, 75056, Paris, Île-de-France, FRANCE",,FR,48.8588897,France
+Europe,0,2.1266886,,,True,", Versailles, 78646, Yvelines, Île-de-France, FRANCE",,FR,48.8035403,France
+Europe,0,2.3597605,,,True,"Basilique, Saint-Denis, 93066, Seine-Saint-Denis, Île-de-France, FRANCE",,FR,48.9354638,France
+Europe,0,2.219344,,,True,", Saint-Cloud, 92064, Hauts-de-Seine, Île-de-France, FRANCE",,FR,48.8437412,France
+Europe,0,-0.3925609,,,True,", Madrid, , Province de Madrid, Communauté de Madrid, ESPAGNE",,ES,39.4304252,España
+Europe,0,2.2385432,,,True,", Meudon, 92048, Hauts-de-Seine, Île-de-France, FRANCE",,FR,48.8126688,France
+Europe,0,-0.4646064,,,True,", Niort, 79191, Deux-Sèvres, Nouvelle-Aquitaine, FRANCE",,FR,46.3239233,France
+Europe,0,2.0672138,,,True,", Saint-Cyr-l'École, 78545, Yvelines, Île-de-France, FRANCE",,FR,48.799708,France
+Europe,0,12.743855,,,True,", Munich, 09162000, Haute-Bavière, Bavière, ALLEMAGNE",,DE,49.2653944,Germany
+Europe,0,2.0965935,,,True,", Marly, 78372, Yvelines, Île-de-France, FRANCE",,FR,48.8681762,France
+Europe,0,7.6824892,,,True,", Turin, 0012721, Turin, Piémont, ITALIE",,IT,45.0677551,Italia
+Europe,0,17.0632874,,,True,", Trzebnica, , Powiat de Trzebnica, Voïvodie de Basse-Silésie, POLOGNE",,PL,51.3040435,Polska
+Europe,0,13.7381437,,,True,", Dresde, 14612000, , Saxe, ALLEMAGNE",,DE,51.0493286,Germany
+Europe,0,16.3774477,,,True,", Vienne, , Wien Stadt, Vienne, AUTRICHE",,AT,48.2104417,Österreich
+Europe,0,-0.9141202,,,True,"Château, Pau, 64445, Pyrénées-Atlantiques, Nouvelle-Aquitaine, FRANCE",,FR,43.5175434,France
+Europe,0,2.3474377,,,True,"Rue de la Ferronnerie, Paris, 75056, Paris, Île-de-France, FRANCE",,FR,48.8602777,France
+Europe,0,1.4487381,,,True,", Chartres, , , Normandie,",,FR,48.4343626,France
+Europe,0,11.2556404,,,True,", Florence, , Florence, Tuscany, Italy",,IT,43.7697955,Italy
+Europe,0,6.8383559,,,True,", Cologne, 05315000, District de Cologne, Rhénanie-du-Nord-Westphalie, ALLEMAGNE",,DE,50.7866184,Germany
+Europe,0,1.3306547,,,True,"Château, Blois, 41018, Loir-et-Cher, , FRANCE",,FR,47.5862598,France
+Europe,0,2.3368747,,,True,"Palais du Louvre, Paris, 75056, Paris, Île-de-France, FRANCE",,FR,48.8614725,France
+Europe,0,2.320041,,,True,"Château de Colombes, Paris, 75056, Paris, Île-de-France, FRANCE",,FR,48.8588897,France
+Europe,0,-3.4616183,,,True,", Dunfermline, , Fife, Ecosse, ÉCOSSE",,GB,56.0713724,United Kingdom
+Europe,0,-0.0919983,,,True,", Londres, , Grand Londres, Angleterre, ANGLETERRE",,GB,51.5156177,United Kingdom
+Africa,0,10.1857757,,,True,", Tunis, , , Tūnis, Tunisia",,TN,36.8002068,Tunisia
+Europe,0,-1.5502795,,,True,"Château, Nantes, 44109, , , FRANCE",,FR,47.2151434,France
+Europe,0,6.0376277,,,True,", Courcelles, , , , FRANCE",,FR,48.3732096,France
+Europe,0,4.377342,,,True,", Lyon, 69123, Rhône, Lyonnais, FRANCE",,FR,45.7177757,France
+Europe,0,-2.4008374,,,True,"Carmes, Ploërmel, 56165, Morbihan, Bretagne, BRETAGNE",,FR,47.9336645,France
+Europe,0,-2.2986272,,,True,"Abbaye Notre-Dame, Villeneuve, , Loire-Atlantique, Bretagne, BRETAGNE",,FR,47.4981892,France
+Europe,0,-0.7323696,,,True,", Chemillé, , , ,",,FR,47.2300533,France
+Europe,0,2.3500626,,,True,"Cathédrale Notre-Dame de Paris, Paris, 75056, Paris, Île-de-France, FRANCE",,FR,48.8529312,France
+Europe,0,-2.5972985,,,True,", Bristol, , City of Bristol, Angleterre, ANGLETERRE",,GB,51.4538022,United Kingdom
+Europe,0,0.8015892,,,True,", Rouen, 76540, Seine-Maritime, Normandie, ANGLETERRE",,FR,49.5527035,France
+Europe,0,-2.8403204,,,True,"Église abbatiale, Saint-Gildas-de-Rhuys, 56214, Morbihan, Bretagne, BRETAGNE",,FR,47.5004209,France
+Europe,0,-2.2540401,,,True,"Église du couvent des Cordeliers, Nantes, 44109, Loire-Atlantique, Bretagne, BRETAGNE",,FR,47.4975115,France
+Europe,0,-2.8134733,,,True,"Abbaye Notre-Dame, Abbaye de Begar, 22004, Côtes-d'Armor, Bretagne, BRETAGNE",,FR,48.4914847,France
+Europe,0,-0.2820551,,,True,"Abbaye, Sawtry, , , Huntingdonshire, ANGLETERRE",,GB,52.4380671,United Kingdom
+Europe,0,-1.5751084,,,True,"Abbaye Saint-Sulpice, Rennes, 35238, Ille-et-Vilaine, Bretagne, FRANCE",,FR,48.2191639,France
+Europe,0,0.0524624,,,True,"Abbaye, Fontevraud, 49140, Maine-et-Loire, Pays de la Loire, FRANCE",,FR,47.1804969,France
+Europe,0,-4.0916875,,,True,"Chaeau, Chateaulin, 29026, Finistère, Bretagne, BRETAGNE",,FR,48.1968026,France
+Europe,0,-2.083804,,,True,"Abbaye Saint-Sauveur, Redon, 35236, Ille-et-Vilaine, Bretagne, FRANCE",,FR,47.6501436,France
+Europe,0,-0.5515588,,,True,", Angers, 49007, Maine-et-Loire, Pays de la Loire, FRANCE",,FR,47.4739884,France
+Asia,0,35.2257856,,,True,", Jérusalem, , , Jerusalem, Israel",,IL,31.7788472,Israel
+Europe,0,-2.2540401,,,True,", Nantes, 44109, Loire-Atlantique, Bretagne, BRETAGNE",,FR,47.4975115,France
+Europe,0,-4.1024782,,,True,"Abbaye Locmaria, Quimper, 29232, Finistère, Bretagne, BRETAGNE",,FR,47.9960325,France
+Europe,0,-3.5452625,,,True,"Abbaye Sainte-Croix, Quimperlé, 29233, Finistère, Bretagne, BRETAGNE",,FR,47.8724885,France
+Europe,0,-4.1580155,,,True,", La Martyre, 29144, Finistère, Bretagne, BRETAGNE",,FR,48.4483714,France
+Europe,0,-2.1003629,,,True,"Monastère, Plélan-le-Grand, 35223, Ille-et-Vilaine, Bretagne, FRANCE",,FR,48.0023864,France
+Europe,0,-3.5711477,,,True,", Carhaix, 29024, Finistère, Bretagne, BRETAGNE",,FR,48.2764997,France
+Europe,0,1.0662256,,,True,", Vendôme, 41269, Loir-et-Cher, Centre, FRANCE",,FR,47.7934453,France
+Europe,0,-1.9269063,,,True,", Talensac, 35331, Ille-et-Vilaine, Bretagne, BRETAGNE",,FR,48.1092798,France
+Europe,0,1.1646335,,,True,", Louviers, 27375, Eure, Normandie, FRANCE",,FR,49.2157245,France
+Europe,0,-1.1137055,,,True,", Saint-Lô, 50502, Manche, Normandie, BRETAGNE",,FR,49.1009382,France
+Europe,0,-0.5800364,,,True,", Bordeaux, 33063, Gironde, Nouvelle-Aquitaine, FRANCE",,FR,44.841225,France
+Europe,0,-1.6636947,,,True,", Saint-Jean-de-Luz, 64483, Pyrénées-Atlantiques, Nouvelle-Aquitaine, FRANCE",,FR,43.387219,France
+Europe,0,4.3628851,,,True,", Châlons, 51108, Marne, Grand Est, FRANCE",,FR,48.9566218,France
+Europe,0,-1.6800198,,,True,"Chapelle des Jacobins, Rennes, 35238, Ille-et-Vilaine, Bretagne, FRANCE",,FR,48.1113387,France
+Europe,0,0.40622,,,True,"Château, Langeais, 37123, Indre et Loire, Centre-Val de Loire, FRANCE",,FR,47.3246763,France
+Europe,0,1.7857219,,,True,", Ormeteau-Ferré, , , , FRANCE",,FR,49.2840887,France
+Europe,0,1.4487381,,,True,", Chartres, , , Normandie, ",,FR,48.4343626,France
+Europe,0,-0.7323696,,,True,", Chemillé, , , , ",,FR,47.2300533,France
+Europe,0,-1.6734505,,,True,"Abbaye Saint-Georges, Rennes, 35238, Ille-et-Vilaine, Bretagne, FRANCE",,FR,48.1117766,France
+,0,,True,,True,", Heidelberg, 08221000, District de Karlsruhe, Baden-Württemberg, ALLEMAGNE",1767475121.188556,,,
+,0,,True,,True,", Metz, 57463, Mozelle, Grand Est, FRANCE",1767475121.194779,,,

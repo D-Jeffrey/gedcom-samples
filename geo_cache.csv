@@ -1,34 +1,34 @@
-address,continent,longitude,country_code,used,alt_addr,no_result,country_name,found_country,timestamp,latitude
-"San Pascual, Paris, France",Europe,2.3483915,FR,0,,,France,True,,48.8534951
-"Hempton, Norfork, England",Europe,-1.2649062,GB,0,,,England,True,,52.5310214
-frankfurt Hesse germany,Europe,8.6820917,DE,0,,,Deutschland,True,,50.1106444
-"Alcorcón Madrid, Spain",Europe,-3.8284295,ES,0,,,Spain,True,,40.3492998
-"Stockholm, Sweden",Europe,18.0710935,SE,0,,,Sweden,True,,59.3251172
-"Mirasierra, Madrid",Europe,-3.7161379,ES,0,,,España,True,,40.4906361
-"Hewlett, New York, NY",North America,-73.6929671,US,0,,,United States,True,,40.641438
-"Penny Lane, Shepperton, UK",Europe,-0.448674,GB,0,,,United Kingdom,True,,51.3939186
-"London, England",Europe,-0.1277653,GB,0,,,England,True,,51.5074456
-"Place Du Pont, Paris, France",Europe,2.341516,FR,0,,,France,True,,48.8571697
-"County Down, Ireland",Europe,-6.2952117,IE,0,,,Ireland,True,,53.3397486
-"Haworth, Yorks.",Africa,29.8425463,ZW,0,,,Zimbabwe,True,,-20.6315684
-"Penzance, Cornwall",Europe,-5.5352463,GB,0,,,United Kingdom,True,,50.1194794
-"Clough House, High Town",Europe,-0.4120407,GB,0,,,United Kingdom,True,,51.8877641
-Howarth,Europe,-3.4919307,GB,0,,,United Kingdom,True,,50.7176876
-"Thornton, Nr. Bradford",Europe,-1.8540185,GB,0,,,United Kingdom,True,,53.7907753
-Scarborough,Europe,-0.4011868,GB,0,,,United Kingdom,True,,54.2820009
-"Lyon, France",Europe,4.8320114,FR,0,,,France,True,,45.7578137
-Saint-Etienne,Europe,4.3873058,FR,0,,,France,True,,45.4401467
-Annecy,Europe,6.1288847,FR,0,,,France,True,,45.8992348
-Chamb©♭ry,,,,0,,True,,True,1767226048.7485151,
-Cruseilles,Europe,6.1069469,FR,0,,,France,True,,46.0338359
-Thorens-Gli©·res,,,,0,,True,,True,1767226052.9505308,
-Roche-la-Moli©·re,,,,0,,True,,True,1767226055.2224488,
-Aix-les-Bains,Europe,5.9146362,FR,0,,,France,True,,45.6886292
-Grenoble,Europe,5.7357819,FR,0,,,France,True,,45.1875602
-Pers-Jussy,Europe,6.2676644,FR,0,,,France,True,,46.1066771
-Frangy,Europe,5.9293421,FR,0,,,France,True,,46.0190661
-Aviernoz,Europe,6.2298197,FR,0,,,France,True,,45.9756168
-Stratford-upon-Avon,Europe,-1.70634,GB,0,,,United Kingdom,True,,52.1927803
-"Shottery, Warwickshire",Europe,-1.7276632,GB,0,,,United Kingdom,True,,52.1909684
-Died in childbirth,,,,0,,True,,True,1767227148.4090006,
-Unmarried,Oceania,149.5481193,AU,0,,,Australia,True,,-33.4596678
+timestamp,latitude,found_country,country_code,continent,alt_addr,address,country_name,used,longitude,no_result
+,48.8534951,True,FR,Europe,,"San Pascual, Paris, France",France,0,2.3483915,
+,52.5310214,True,GB,Europe,,"Hempton, Norfork, England",England,0,-1.2649062,
+,50.1106444,True,DE,Europe,,frankfurt Hesse germany,Deutschland,0,8.6820917,
+,40.3492998,True,ES,Europe,,"Alcorcón Madrid, Spain",Spain,0,-3.8284295,
+,59.3251172,True,SE,Europe,,"Stockholm, Sweden",Sweden,0,18.0710935,
+,40.4906361,True,ES,Europe,,"Mirasierra, Madrid",España,0,-3.7161379,
+,40.641438,True,US,North America,,"Hewlett, New York, NY",United States,0,-73.6929671,
+,51.3939186,True,GB,Europe,,"Penny Lane, Shepperton, UK",United Kingdom,0,-0.448674,
+,51.5074456,True,GB,Europe,,"London, England",England,0,-0.1277653,
+,48.8571697,True,FR,Europe,,"Place Du Pont, Paris, France",France,0,2.341516,
+,53.3397486,True,IE,Europe,,"County Down, Ireland",Ireland,0,-6.2952117,
+,-20.6315684,True,ZW,Africa,,"Haworth, Yorks.",Zimbabwe,0,29.8425463,
+,50.1194794,True,GB,Europe,,"Penzance, Cornwall",United Kingdom,0,-5.5352463,
+,51.8877641,True,GB,Europe,,"Clough House, High Town",United Kingdom,0,-0.4120407,
+,50.7176876,True,GB,Europe,,Howarth,United Kingdom,0,-3.4919307,
+,53.7907753,True,GB,Europe,,"Thornton, Nr. Bradford",United Kingdom,0,-1.8540185,
+,54.2820009,True,GB,Europe,,Scarborough,United Kingdom,0,-0.4011868,
+,45.7578137,True,FR,Europe,,"Lyon, France",France,0,4.8320114,
+,45.4401467,True,FR,Europe,,Saint-Etienne,France,0,4.3873058,
+,45.8992348,True,FR,Europe,,Annecy,France,0,6.1288847,
+1767226048.7485151,,True,,,,Chamb©♭ry,,0,,True
+,46.0338359,True,FR,Europe,,Cruseilles,France,0,6.1069469,
+1767226052.9505308,,True,,,,Thorens-Gli©·res,,0,,True
+1767226055.2224488,,True,,,,Roche-la-Moli©·re,,0,,True
+,45.6886292,True,FR,Europe,,Aix-les-Bains,France,0,5.9146362,
+,45.1875602,True,FR,Europe,,Grenoble,France,0,5.7357819,
+,46.1066771,True,FR,Europe,,Pers-Jussy,France,0,6.2676644,
+,46.0190661,True,FR,Europe,,Frangy,France,0,5.9293421,
+,45.9756168,True,FR,Europe,,Aviernoz,France,0,6.2298197,
+,52.1927803,True,GB,Europe,,Stratford-upon-Avon,United Kingdom,0,-1.70634,
+,52.1909684,True,GB,Europe,,"Shottery, Warwickshire",United Kingdom,0,-1.7276632,
+,-33.4596678,True,AU,Oceania,,Unmarried,Australia,0,149.5481193,
+1767474848.856052,,True,,,,Died in childbirth,,0,,True
