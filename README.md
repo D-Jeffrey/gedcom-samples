@@ -1,5 +1,5 @@
 # Gedcom Samples
- A set of GED files for GEDCOM projects, useful for performance testing and comparing outputs from various GEDCOM generators. This collection also features `geo_code.csv` files compatible with [geo_gedcom](https:github.comcolin0brassgeo_gedcom) and [gedcom-to-visualmap](https:github.comD-Jeffreygedcom-to-visualmap).  The geo_code.csv has a timestamp, so if you are leveraging it wiht geocom-to-visualmap then check the `Cache Only` checkbox for a quick load within the need to reverifying the addresses.
+ A set of GED files for GEDCOM projects, useful for performance testing and comparing outputs from various GEDCOM generators. This collection also features `geo_code.csv` files compatible with [geo_gedcom](https://github.com/colin0brass/geo_gedcom) and [gedcom-to-visualmap](https://github.com/D-Jeffrey/gedcom-to-visualmap).  The geo_code.csv has a timestamp, so if you are leveraging it wiht geocom-to-visualmap then check the `Cache Only` checkbox for a quick load within the need to reverifying the addresses.
 
  _Treat these files as the information only and the genealogy as non-authoritative. It is based on the best geneology information we have been able to access including myth, legend and sagas._
 
@@ -21,10 +21,10 @@ GED Name | # People | Timeframe | Addresses | Unique Surnames | Author | Soure
 [Habsburg](habs/Habsburg.ged) |34,020|1-2007|6722|7902|| Family Tree Maker 20
 [WilliamLongsword](longsword/WilliamLongsword.ged) | 203,154 | 860-2020 | 60,584 | 57040| Darren Jeffrey | Legacy  FamilySearch
 **GED files in other Github** | | |||**Repo**
-[xavier](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdataxavier.ged) | 312 | 1894-| ||[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)|Gramps
-[tree1](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdatatree1.ged) | 1040 | | | |[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)| webtrees
-[gracis](https:github.comlesfleursdelanuitdevligneous-gedcomblobmaintestdatagracis.ged) | 580 | | ||[ligneous-gedcom](https:github.comlesfleursdelanuitdevligneous-gedcom)|Gramps
-[jeffersondemo](https:github.comneelsmithGedCom.jlblobmaintestdatajeffersondemo.ged)| 24||||[gedcom.jl](https:github.comneelsmithGedCom.jl)|Ancestry.com Family Trees
+[xavier](https://github.com/lesfleursdelanuitdev/ligneous-gedcom/blob/main/testdata/xavier.ged) | 312 | 1894-| ||[ligneous-gedcom](https://github.com/lesfleursdelanuitdev/ligneous-gedcom)|Gramps
+[tree1](https://github.com/lesfleursdelanuitdev/ligneous-gedcom/blob/main/testdata/tree1.ged) | 1040 | | | |[ligneous-gedcom](https://github.com/lesfleursdelanuitdev/ligneous-gedcom)| webtrees
+[gracis](https://github.com/lesfleursdelanuitdev/ligneous-gedcom/blob/main/testdata/gracis.ged) | 580 | | ||[ligneous-gedcom](https://github.com/lesfleursdelanuitdev/ligneous-gedcom)|Gramps
+[jeffersondemo](https://github.com/neelsmith/GedCom.jl/blob/main/test/data/jeffersondemo.ged)| 24||||[gedcom.jl](https://github.com/neelsmith/GedCom.jl)|Ancestry.com Family Trees
 
 ## Famous Family Trees
 Collection/directory | file | Comment / Addresses
@@ -169,7 +169,7 @@ I included all their titles, names, monikers in the notes._
 
 _Thanks for your interest.   Denis Reid_
 
-This also leads to an interesting discovery on github [using Neo4j with Gedcom](https:github.comneo4j-examplesdiscoveraurafreeblobfc19b3ddfba1026ecab83d541216ba994bde6cdeweek-18.adoc)
+This also leads to an interesting discovery on github [using Neo4j with Gedcom](https://github.com/neo4j-examples/discoveraurafree/blob/fc19b3ddfba1026ecab83d541216ba994bde6cde/week-18.adoc)
 
 ## washington
 ### George Washington and descendants
