@@ -29,10 +29,10 @@ GED Name | # People | Timeframe | Addresses | Unique Surnames | Author | Soure
 ## Famous Family Trees
 Collection/directory | file | Comment / Addresses
 ---| --- | ---
-[corporations](famous%20family%20trees/corporations/) | | Nothig with real addresses in this directory
-[fictional characters](famous%20family%20trees/fictional%20characters/) | | Nothig with real addresses in this directory
-[languages](famous%20family%20trees/languages/) | | Nothig with real addresses in this directory
-[misc](famous%20family%20trees/misc/) | | Nothig with real addresses in this directory
+[corporations](famous%20family%20trees/corporations/) | | Nothing with real addresses in this directory
+[fictional characters](famous%20family%20trees/fictional%20characters/) | | Nothing with real addresses in this directory
+[languages](famous%20family%20trees/languages/) | | Nothing with real addresses in this directory
+[misc](famous%20family%20trees/misc/) | | Nothing with real addresses in this directory
 politicians, writers, scientists, etc|[Bach+Family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Bach+Family.ged) | none
 politicians, writers, scientists, etc|[Bhutto+family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/Bhutto+family.ged) | none
 politicians, writers, scientists, etc|[Keynes+Family.ged](famous%20family%20trees/politicians,%20writers,%20scientists,%20etc/) | 6 addresses
@@ -75,65 +75,156 @@ US presidents | [GeorgeWashington+Family+Small.ged](famous%20family%20trees/US%2
 US presidents | [Kennedy+Family.ged](famous%20family%20trees/US%20presidents/Kennedy+Family.ged)| 27 addresses
 US presidents | [Lincoln+Family.ged](famous%20family%20trees/US%20presidents/Lincoln+Family.ged)| 21 addresses
 US presidents | [US+Presidents+Trees+I.ged](famous%20family%20trees/US%20presidents/US+Presidents+Trees+I.ged)| 738 addresses
-
-religious figures and systems| Most of these files are no relavent for using in geo based address looks as the address was used for date text.
+religious figures and systems| Most of these files are no relavent for using in geo based address looks as the address was used for date text.|
 
 ## basic
 [basic](basic.ged)
-`people : 5 
-timeframe: 1923-2006 
+`timeframe: 1923-2006 
 addresses: 10 
 surnames: 3 
 source: Legacy (Fictional)`
 Imaginary families used for testing oceanic geolines and family relationships.
 
+Metric	| Value
+---| ---
+👥 Total People	|5
+✅ Living	|3
+💀 Deceased	|2
+⏳ Average Lifespan	|70.0 years
+♂️ Male	|2
+♀️ Female	|3
+💍 Total Marriages	|2
+
 ## Bronte
-[Bronte](bronte.ged) `People: 14 Timeframe: 1744-1861 Addresses: 7 Surnames: 6`
+[Bronte](bronte.ged) `Timeframe: 1744-1861 Addresses: 7 Surnames: 6`
 
 This GED file provides a straightforward genealogical record of the Brontë family, renowned for producing acclaimed writers such as Charlotte, Emily, and Anne Brontë. You can expect to find information on Patrick Brontë, the family patriarch, as well as the siblings and possibly additional relatives, offering a concise view of the family structure that influenced some of English literature’s most celebrated works.
 https:en.wikipedia.orgwikiBront%C3%AB_family 
 
+Metric	| Value
+---| ---
+👥 Total People	|14
+✅ Living	|2
+💀 Deceased	|12
+⏳ Average Lifespan	|43.2 years
+♂️ Male	|5
+♀️ Female	|9
+💍 Total Marriages	|4
+
 ## input
-[input](input.ged) `People: 15 Timeframe: ?-? Addresses: 12 Surnames: 8`
+[input](input.ged) `Timeframe: ?-? Addresses: 12 Surnames: 8`
 
 The GED file includes various locations in France, each accompanied by embedded GPS coordinates.
 
+Metric	| Value
+---| ---
+👥 Total People	|15
+✅ Living	|15
+💀 Deceased	|0
+⏳ Average Lifespan	|N/A
+♂️ Male	|8
+♀️ Female	|7
+
 ## shakespeare
 ### William Shakespeare and family
-[shakespeare](shakespeare.ged) `People: 31 Timeframe: 1490-1674 Addresses: 4 Surnames: 10`
+[shakespeare](shakespeare.ged) `Timeframe: 1490-1674 Addresses: 4 Surnames: 10`
 
 The Shakespeare GED file offers a comprehensive family tree of William Shakespeare, tracing his lineage back to his grandfather Richard Shakespeare. This genealogical record highlights key family members, including William’s father, John Shakespeare, and mother, Mary Arden, as well as siblings and descendants. Explore the ancestry and familial context of William Shakespeare, gaining insight into the environment that influenced his works and legacy.
-https:www.shakespeare.org.ukexplore-shakespeareshakespediawilliam-shakespearewilliam-shakespeares-family
+[www.shakespeare.org](https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-family-homes/)
+Metric	| Value
+---| ---
+👥 Total People	|31
+✅ Living	|2
+💀 Deceased	|29
+⏳ Average Lifespan	|43.9 years
+♂️ Male	|17
+♀️ Female	|13
+💍 Total Marriages	|7
 
-[bach](bach.ged) `People: 33 Timeframe: 1550-1871 Addresses: 0 Surnames: 8`
 
-## pres2020
+[Bach](bach.ged) `Timeframe: 1550-1871 Addresses: 0 Surnames: 8`
+Little was published about Bach's life in the 18th century, his "Nekrolog" (obituary) being the most extended biographical note about the composer's life.
+
+[Biographies_of_Johann_Sebastian_Bach](https://en.wikipedia.org/wiki/Biographies_of_Johann_Sebastian_Bach)
+
+Metric	| Value
+---| ---
+👥 Total People	|33
+✅ Living	|5
+💀 Deceased	|28
+⏳ Average Lifespan	|53.6 years
+♂️ Male	|21
+♀️ Female	|12
+
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|1,341	|1,341	|831	|100.0%  |62.0%
+Death	|1,266	|1,266	|735	|100.0%	|58.1%
+Marriage	|782	|782	|487	|100.0%	|62.3%
+# pres2020
 ### US Presidents and their relatives
-[pres2020](pres/pres2020.ged) `People: 2,322 Timeframe: 1016-2018 Addresses: 842 Surnames: 873`
+[pres2020](pres/pres2020.ged) `
+Timeframe: 1016-2018 Addresses: 842 Surnames: 873`
 
 The Pres2020 GED file presents a comprehensive compilation of U.S. presidents along with their ancestors and descendants, spanning from 1016 to 2018. This resource meticulously documents familial relationships, providing detailed information such as names, birth and death dates, and connections among relatives. In addition to tracing presidential lineages, the file highlights significant family milestones and may include notable events, locations, and migration patterns that shaped the history of the presidential families.
 
-https:www.ourfamtree.orgattachList_of_US_Presidents_by_Genealogical_Relationship.pdf
-https:en.wikipedia.orgwikiAncestral_background_of_presidents_of_the_United_States
 
-## bourbon
-[bourbon](sample-bourbon/bourbon.ged) `People: 303 Timeframe: 820-1775 Addreses 66 Surnames: 81`
+- [List_of_US_Presidents_by_Genealogical_Relationship.pdf](https://www.ourfamtree.org/attach/List_of_US_Presidents_by_Genealogical_Relationship.pdf)
+- [Ancestral_background_of_presidents_of_the_United_States](https://en.wikipedia.org/wiki/Ancestral_background_of_presidents_of_the_United_States)
 
+Metric	| Value
+---| ---
+👥 Total People	|2,322
+✅ Living	|1,056
+💀 Deceased	|1,266
+⏳ Average Lifespan	|60.3 years
+♂️ Male	|1,196
+♀️ Female	|1,126
+💍 Total Marriages	|421
 
-https:voyeaud.orgGenealogie.php
+# bourbon
+[bourbon](sample-bourbon/bourbon.ged) `Timeframe: 820-1775 Addreses 66 Surnames: 81`
+
+https://voyeaud.org/Genealogie/Ancestris/index.html _Link my not work_
 This includes photos as references to a few of the individuals
 
-## kennedy
+Metric	| Value
+---| ---
+👥 Total People	|14
+✅ Living	|2
+💀 Deceased	|12
+⏳ Average Lifespan	|43.2 years
+♂️ Male	|5
+♀️ Female	|9
+💍 Total Marriages	|4
+
+# kennedy
 ### Kennedy Family
-[kennedy](sample-kennedy/kennedy.ged) `People: 208 Timeframe: 1727-1999 Addresses: 83 Surnames: 73`
+[kennedy](sample-kennedy/kennedy.ged) `Timeframe: 1727-1999 Addresses: 83 Surnames: 73`
 
-Kennedy family from 1727-1999 include their immigration 
-This includes photos as references to a few of the individuals
-https:en.wikipedia.orgwikiKennedy_family
+Kennedy family from 1727-1999 include their immigration. 
+This includes photos as references to a few of the individuals.
+https://en.wikipedia.org/wiki/Kennedy_family
 
-## royal92
-### Kings and Queens of Europe
-[royal92](royal/royal92.ged) `People: 3,010 Timeframe: 534-1992 Addresses: 669 Surnames: 421`
+Metric	| Value
+---| ---
+👥 Total People	|208
+✅ Living	|100
+💀 Deceased	|108
+⏳ Average Lifespan	|55.2 years
+♂️ Male	|115
+♀️ Female	|93
+💍 Total Marriages	|71
+
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|155	|155	|128	|100.0%	|82.6%
+Death	|108	|108	|68	|100.0%	|63.0%
+Marriage	|139	|139	|80	|100.0%	|57.6%
+
+# royal92
+## Kings and Queens of Europe
+[royal92](royal/royal92.ged) `Timeframe: 534-1992 Addresses: 669 Surnames: 421`
 
 The Kings and Queens of Europe including Great Britain.
 
@@ -144,7 +235,7 @@ This file contains instances of 12 familial relations which were extracted from 
  Comment from original data source on http:www.daml.org200101gedcom 
  - _royal92.ged is a public domain GEDCOM file containing information on 3010 individuals and 1422 families of European royalty. royal92.daml was produced using ged2daml._
 
-#### From the header:
+### From the header:
 25 Dec 92
 
 _You may make this Royal GEDCOM available available to whomever.
@@ -170,21 +261,56 @@ I included all their titles, names, monikers in the notes._
 _Thanks for your interest.   Denis Reid_
 
 This also leads to an interesting discovery on github [using Neo4j with Gedcom](https://github.com/neo4j-examples/discoveraurafree/blob/fc19b3ddfba1026ecab83d541216ba994bde6cde/week-18.adoc)
+<<<<<<< Updated upstream
+=======
+
+Metric	| Value
+---| ---
+👥 Total People	|3,010
+✅ Living	|1,318
+💀 Deceased	|1,692
+⏳ Average Lifespan	|50.9 years
+♂️ Male	|1,686
+♀️ Female	|1,311
+💍 Total Marriages	|555
+
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|1,739	|1,739	|486	|100.0%	|27.9%
+Death	|1,692	|1,692	|449	|100.0%	|26.5%
+Marriage	|966	|966	|350	|100.0%	|36.2%
+>>>>>>> Stashed changes
 
 ## washington
 ### George Washington and descendants
-[washington](washington/washington.ged) `People: 529 Timeframe: 1391-1799 Addresses: 301 Surnames: 88`
+[washington](washington/washington.ged) `Timeframe: 1391-1799 Addresses: 301 Surnames: 88`
 
 George Washington and descendants GED file
 This GEDCOM file contains a comprehensive genealogical record of George Washington, the first President of the United States, and his extended family. The file documents his ancestors, immediate family members, and descendants through detailed birth, marriage, and death records. This _had_ a lot of post death BAPL records.
 
-- https:www.archives.comgenealogypresident-washington.html
-- https:www.mountvernon.orggeorge-washingtonfamily
-- https:en.wikipedia.orgwikiWashington_family
+- https://www.archives.com/genealogy/president-washington.html
+- https://www.mountvernon.org/george-washington/family
+- https://en.wikipedia.org/wiki/Washington_family
 
-## EnglishTudorRoyalFamily
+Metric	| Value
+---| ---
+👥 Total People	|529
+✅ Living	|293
+💀 Deceased	|236
+⏳ Average Lifespan	|53.0 years
+♂️ Male	|280
+♀️ Female	|249
+💍 Total Marriages	|84
+
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|529	|529	|464	|100.0%	|87.7%
+Death	|236	|236	|140	|100.0%	|59.3%
+Marriage	|168	|168	|138	|100.0%	|82.1%
+
+# EnglishTudorRoyalFamily
 ### English Tudor Royal Family
-[EnglishTudorRoyalFamily](tudor/EnglishTudorRoyalFamily.ged) `People: 347 Timeframe: 509-1639 Addresses: 304 Surnmame: 124`
+[EnglishTudorRoyalFamily](tudor/EnglishTudorRoyalFamily.ged) `Timeframe: 509-1639 Addresses: 304 Surnmame: 124`
 
 This was orginally from Famous Family Trees.  It has been improved with information from Family Search.  There are a lot of unique events represented as 
 ```
@@ -208,20 +334,50 @@ Types include:
 - Clan
 
 It also include EVEN with a reference such as 
+Metric	| Value
+---| ---
+👥 Total People	|268
+✅ Living	|154
+💀 Deceased	|114
+⏳ Average Lifespan	|41.4 years
+♂️ Male	|161
+♀️ Female	|107
+💍 Total Marriages	|62
 
-## IvarKingOfDublin
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|64	|64 |32	|100.0%	|50.0%
+Death	|114 |114	|51	|100.0%	|44.7%
+Marriage	|91	|91	|35	|100.0%	|38.5%
+
+# IvarKingOfDublin
 ### Ivar King of Dulbin
-[IvarKingOfDublin](ivar/IvarKingOfDublin.ged) `People: 1,288 Timeframe: 794-1302 Addresses: 563 Surnames: 558`
+[IvarKingOfDublin](ivar/IvarKingOfDublin.ged) `Timeframe: 794-1302 Addresses: 563 Surnames: 558`
 
 This GEDCOM file, sourced from FamilySearch, offers a thorough genealogical record of Ivar, King of Dublin, charting his lineage and descendants from 794 to 1302. The file documents significant events in his life and reign, as well as his family relationships through detailed birth, marriage, and death entries. Additional notes in the file provide context about Ivar's titles, alternate names, and relevant historical events, delivering valuable insight for researchers interested in the Dublin royal lineage.
 
 This was pulled from FamilySearch on Dec 25, 2025 using Legend 10.0.  Manual adjustment of 5 year dates where required to bring the qaulity up.
 
-https:en.wikipedia.orgwiki%C3%8Dmar
+https://en.wikipedia.org/wiki/%C3%8Dmar
+Metric	| Value
+---| ---
+👥 Total People	|1,288
+✅ Living	|0
+💀 Deceased	|1,288
+⏳ Average Lifespan	|55.2 years
+♂️ Male	|753
+♀️ Female	|534
+💍 Total Marriages	|493
 
-## Queen
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|1,187	|1,187	|1,139	|100.0%	|96.0%
+Death	|1,288	|1,288	|438	|100.0%	|34.0%
+Marriage	|901	|901	|284	|100.0%	|31.5%
+
+# Queen
 ### Queen of the World
-[Queen](queen/Queen.ged) `People: 4,683 : Timeframe: 4004BC-1926 Addresses: 871 Surnames: 1024`
+[Queen](queen/Queen.ged) `Timeframe: 4004BC-1926 Addresses: 871 Surnames: 1024`
 
 The gedcom file contains over 4500 ancestors of Queen Elizabeth II. It includes over 2800 families and 155 generations of grand parents.  This is a good test as it has BCE dates.
 
@@ -293,18 +449,50 @@ Queens along with King
 - WALTER I  Lord Giffard Earl Buckingham De BOLEBEC
 - Bridget PAKINGTON
 
-## Habsburg
+Metric	| Value
+---| ---
+👥 Total People	|4,683
+✅ Living	|169
+💀 Deceased	|4,514
+⏳ Average Lifespan	|55.5 years
+♂️ Male	|2,797
+♀️ Female	|1,886
+💍 Total Marriages	|2
+
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|4,451	|4,451	|807	|100.0%	|18.1%
+Death	|4,514	|4,514	|666	|100.0%	|14.8%
+Marriage	|4	|4	|2	|100.0%	|50.0%
+
+# Habsburg
 ### Habsburg
-[Habsburg](habs/Habsburg.ged) `People: 34,020 Timeframe: 1-2007 Addresses: 6722 Surname: 7902`
+[Habsburg](habs/Habsburg.ged) `Timeframe: 1-2007 Addresses: 6722 Surname: 7902`
 
 Germany 
 
 https://habsburg-dynasty.com/family-tree/
+Metric	| Value
+---| ---
+👥 Total People	|34,020
+✅ Living	|12,270
+💀 Deceased	|21,750
+⏳ Average Lifespan	|48.4 years
+♂️ Male	|18,328
+♀️ Female	|15,596
+💍 Total Marriages	|9,008
+🌳 Generations	|108
+🎂 Earliest Birth	|1000
 
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|22,283	|22,283	|10,401	|100.0%	|46.7%
+Death	|21,750	|21,750	|8,436	|100.0%	|38.8%
+Marriage	|16,508	|16,508	|7,859	|100.0%	|47.6%
 
-## WilliamLongsword
+# WilliamLongsword
 ### William Longsword Count of Rouen
-[WilliamLongsword](longsword/WilliamLongsword.ged) `People: 203,154 Timeframe: 860-2020 Addresses: 60,584 Surnames: 57040`
+[WilliamLongsword](longsword/WilliamLongsword.ged) `Timeframe: 860-2020 Addresses: 60,584 Surnames: 57040`
 
  - 203154 people
  - 90085 Families
@@ -335,3 +523,26 @@ This was pulled from FamilySearch on Dec 28, 2025 using Legend 10.0 which too ab
 
 This file is so far the hardest to process, taking about 47 hours to geocode (using the maximum of 1 request per second) and resulting in a hit rate of 56%.  It also identify bad date processing practices (for example if the year is not include, a date exists wihtout the year).
 
+Metric	| Value
+---| ---
+👥 Total People	|203,154
+✅ Living	|0
+💀 Deceased	|203,154
+⏳ Average Lifespan	|54.7 years
+♂️ Male	|108,298
+♀️ Female	|94,788
+💍 Total Marriages	|90,074
+
+Event Type|Total	|With Date	|With Place	|Date %	|Place %
+---       |---    |---        |---        |---    |---
+Birth	|177,703	|177,703	|160,632	|100.0%	|90.4%
+Death	|203,154	|203,154	|82,880	|100.0%	|40.8%
+Marriage	|157,202	|157,202	|49,852	|100.0%	|31.7%
+
+
+
+📝 Notes
+-
+This report was automatically generated from GEDCOM data using the gedcom-to-visualmap statistics module.
+
+Generated by gedcom-to-visualmap Statistics Module [gedcom-to-visualmap](https://github.com/D-Jeffrey/gedcom-to-visualmap/)
