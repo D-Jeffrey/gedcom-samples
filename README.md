@@ -261,8 +261,6 @@ I included all their titles, names, monikers in the notes._
 _Thanks for your interest.   Denis Reid_
 
 This also leads to an interesting discovery on github [using Neo4j with Gedcom](https://github.com/neo4j-examples/discoveraurafree/blob/fc19b3ddfba1026ecab83d541216ba994bde6cde/week-18.adoc)
-<<<<<<< Updated upstream
-=======
 
 Metric	| Value
 ---| ---
@@ -279,7 +277,6 @@ Event Type|Total	|With Date	|With Place	|Date %	|Place %
 Birth	|1,739	|1,739	|486	|100.0%	|27.9%
 Death	|1,692	|1,692	|449	|100.0%	|26.5%
 Marriage	|966	|966	|350	|100.0%	|36.2%
->>>>>>> Stashed changes
 
 ## washington
 ### George Washington and descendants
